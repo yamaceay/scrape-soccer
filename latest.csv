@@ -1,0 +1,2699 @@
+,datetime,home_goal,away_goal,league_name,league_abbr,team,opponent,avg_goal
+0,02/03,1,2,Argentina,AR,Boca Juniors,T. de Cordoba,-1
+1,02/09,2,0,Argentina,AR,Boca Juniors,Atl. Tucuman,2
+2,02/17,0,4,Argentina,AR,Boca Juniors,Central Córdoba,-4
+3,02/23,3,0,Argentina,AR,Boca Juniors,Godoy Cruz,3
+4,02/29,0,4,Argentina,AR,Boca Juniors,Colon,-4
+5,03/08,1,0,Argentina,AR,Boca Juniors,Gimnasia,1
+6,02/02,2,0,Argentina,AR,River Plate,Central Córdoba,2
+7,02/10,1,2,Argentina,AR,River Plate,Union Santa Fe,-1
+8,02/16,1,0,Argentina,AR,River Plate,Banfield,1
+9,02/24,0,2,Argentina,AR,River Plate,Estudiantes,-2
+10,02/29,1,1,Argentina,AR,River Plate,Defensa y J.,0
+11,03/08,1,1,Argentina,AR,River Plate,Atl. Tucuman,0
+12,01/31,1,1,Argentina,AR,Velez Sarsfield,Aldosivi,0
+13,02/09,1,0,Argentina,AR,Velez Sarsfield,San Lorenzo,1
+14,02/23,0,4,Argentina,AR,Velez Sarsfield,Arsenal Sarandi,-4
+15,03/02,2,0,Argentina,AR,Velez Sarsfield,Argentinos Jrs,2
+16,03/04,0,1,Argentina,AR,Velez Sarsfield,Godoy Cruz,-1
+17,03/09,0,3,Argentina,AR,Velez Sarsfield,Union Santa Fe,-3
+18,02/02,1,1,Argentina,AR,Racing Club,Argentinos Jrs,0
+19,02/09,1,0,Argentina,AR,Racing Club,Independiente,1
+20,02/15,1,1,Argentina,AR,Racing Club,Colon,0
+21,02/22,0,1,Argentina,AR,Racing Club,San Lorenzo,-1
+22,02/28,1,1,Argentina,AR,Racing Club,Newells,0
+23,03/10,1,2,Argentina,AR,Racing Club,Estudiantes,-1
+24,02/02,1,1,Argentina,AR,Argentinos Jrs,Racing Club,0
+25,02/08,0,0,Argentina,AR,Argentinos Jrs,Lanus,0
+26,02/15,0,2,Argentina,AR,Argentinos Jrs,Atl. Tucuman,-2
+27,02/22,1,1,Argentina,AR,Argentinos Jrs,Patronato,0
+28,03/02,2,0,Argentina,AR,Argentinos Jrs,Velez Sarsfield,2
+29,03/07,2,1,Argentina,AR,Argentinos Jrs,Rosario,1
+30,02/01,1,1,Argentina,AR,Defensa y J.,Atl. Tucuman,0
+31,02/08,0,0,Argentina,AR,Defensa y J.,Colon,0
+32,02/17,1,2,Argentina,AR,Defensa y J.,Estudiantes,-1
+33,02/24,3,0,Argentina,AR,Defensa y J.,Rosario,3
+34,02/29,1,1,Argentina,AR,Defensa y J.,River Plate,0
+35,03/07,2,0,Argentina,AR,Defensa y J.,Patronato,2
+36,02/02,2,0,Argentina,AR,Lanus,Godoy Cruz,2
+37,02/08,0,0,Argentina,AR,Lanus,Argentinos Jrs,0
+38,02/16,1,1,Argentina,AR,Lanus,Newells,0
+39,02/23,2,2,Argentina,AR,Lanus,Atl. Tucuman,0
+40,03/01,1,1,Argentina,AR,Lanus,Estudiantes,0
+41,03/08,4,3,Argentina,AR,Lanus,San Lorenzo,1
+42,02/04,1,0,Argentina,AR,San Lorenzo,Newells,1
+43,02/09,1,0,Argentina,AR,San Lorenzo,Velez Sarsfield,1
+44,02/16,1,0,Argentina,AR,San Lorenzo,T. de Cordoba,1
+45,02/22,0,1,Argentina,AR,San Lorenzo,Racing Club,-1
+46,03/01,1,3,Argentina,AR,San Lorenzo,Aldosivi,-2
+47,03/08,4,3,Argentina,AR,San Lorenzo,Lanus,1
+48,02/01,5,0,Argentina,AR,Rosario,Independiente,5
+49,02/08,1,1,Argentina,AR,Rosario,Banfield,0
+50,02/15,1,0,Argentina,AR,Rosario,Gimnasia,1
+51,02/24,3,0,Argentina,AR,Rosario,Defensa y J.,3
+52,03/01,3,1,Argentina,AR,Rosario,Arsenal Sarandi,2
+53,03/07,2,1,Argentina,AR,Rosario,Argentinos Jrs,1
+54,02/04,1,0,Argentina,AR,Newells,San Lorenzo,1
+55,02/08,0,0,Argentina,AR,Newells,Estudiantes,0
+56,02/16,1,1,Argentina,AR,Newells,Lanus,0
+57,02/23,4,0,Argentina,AR,Newells,Colon,4
+58,02/28,1,1,Argentina,AR,Newells,Racing Club,0
+59,03/09,0,2,Argentina,AR,Newells,Godoy Cruz,-2
+60,02/03,2,2,Argentina,AR,Arsenal Sarandi,Patronato,0
+61,02/10,1,1,Argentina,AR,Arsenal Sarandi,T. de Cordoba,0
+62,02/18,1,1,Argentina,AR,Arsenal Sarandi,Independiente,0
+63,02/23,0,4,Argentina,AR,Arsenal Sarandi,Velez Sarsfield,-4
+64,03/01,3,1,Argentina,AR,Arsenal Sarandi,Rosario,2
+65,03/06,4,0,Argentina,AR,Arsenal Sarandi,Aldosivi,4
+66,02/03,1,2,Argentina,AR,T. de Cordoba,Boca Juniors,-1
+67,02/10,1,1,Argentina,AR,T. de Cordoba,Arsenal Sarandi,0
+68,02/16,1,0,Argentina,AR,T. de Cordoba,San Lorenzo,1
+69,02/25,4,2,Argentina,AR,T. de Cordoba,Huracan,2
+70,03/02,3,2,Argentina,AR,T. de Cordoba,Patronato,1
+71,03/09,2,0,Argentina,AR,T. de Cordoba,Colon,2
+72,02/01,3,1,Argentina,AR,Estudiantes,Union Santa Fe,2
+73,02/08,0,0,Argentina,AR,Estudiantes,Newells,0
+74,02/17,1,2,Argentina,AR,Estudiantes,Defensa y J.,-1
+75,02/24,0,2,Argentina,AR,Estudiantes,River Plate,-2
+76,03/01,1,1,Argentina,AR,Estudiantes,Lanus,0
+77,03/10,1,2,Argentina,AR,Estudiantes,Racing Club,-1
+78,02/01,5,0,Argentina,AR,Independiente,Rosario,5
+79,02/09,1,0,Argentina,AR,Independiente,Racing Club,1
+80,02/18,1,1,Argentina,AR,Independiente,Arsenal Sarandi,0
+81,02/22,0,1,Argentina,AR,Independiente,Gimnasia,-1
+82,03/03,1,0,Argentina,AR,Independiente,Huracan,1
+83,03/08,3,0,Argentina,AR,Independiente,Central Córdoba,3
+84,02/01,1,1,Argentina,AR,Atl. Tucuman,Defensa y J.,0
+85,02/09,2,0,Argentina,AR,Atl. Tucuman,Boca Juniors,2
+86,02/15,0,2,Argentina,AR,Atl. Tucuman,Argentinos Jrs,-2
+87,02/23,2,2,Argentina,AR,Atl. Tucuman,Lanus,0
+88,02/29,1,0,Argentina,AR,Atl. Tucuman,Gimnasia,1
+89,03/08,1,1,Argentina,AR,Atl. Tucuman,River Plate,0
+90,02/01,3,1,Argentina,AR,Union Santa Fe,Estudiantes,2
+91,02/10,1,2,Argentina,AR,Union Santa Fe,River Plate,-1
+92,02/14,1,0,Argentina,AR,Union Santa Fe,Patronato,1
+93,02/25,0,0,Argentina,AR,Union Santa Fe,Central Córdoba,0
+94,03/01,1,3,Argentina,AR,Union Santa Fe,Godoy Cruz,-2
+95,03/09,0,3,Argentina,AR,Union Santa Fe,Velez Sarsfield,-3
+96,02/02,0,1,Argentina,AR,Banfield,Colon,-1
+97,02/08,1,1,Argentina,AR,Banfield,Rosario,0
+98,02/16,1,0,Argentina,AR,Banfield,River Plate,1
+99,02/21,0,1,Argentina,AR,Banfield,Aldosivi,-1
+100,03/01,1,1,Argentina,AR,Banfield,Central Córdoba,0
+101,03/07,0,3,Argentina,AR,Banfield,Huracan,-3
+102,02/02,2,0,Argentina,AR,Central Córdoba,River Plate,2
+103,02/07,0,2,Argentina,AR,Central Córdoba,Aldosivi,-2
+104,02/17,0,4,Argentina,AR,Central Córdoba,Boca Juniors,-4
+105,02/25,0,0,Argentina,AR,Central Córdoba,Union Santa Fe,0
+106,03/01,1,1,Argentina,AR,Central Córdoba,Banfield,0
+107,03/08,3,0,Argentina,AR,Central Córdoba,Independiente,3
+108,02/01,1,1,Argentina,AR,Gimnasia,Huracan,0
+109,02/08,1,1,Argentina,AR,Gimnasia,Patronato,0
+110,02/15,1,0,Argentina,AR,Gimnasia,Rosario,1
+111,02/22,0,1,Argentina,AR,Gimnasia,Independiente,-1
+112,02/29,1,0,Argentina,AR,Gimnasia,Atl. Tucuman,1
+113,03/08,1,0,Argentina,AR,Gimnasia,Boca Juniors,1
+114,02/03,2,2,Argentina,AR,Patronato,Arsenal Sarandi,0
+115,02/08,1,1,Argentina,AR,Patronato,Gimnasia,0
+116,02/14,1,0,Argentina,AR,Patronato,Union Santa Fe,1
+117,02/22,1,1,Argentina,AR,Patronato,Argentinos Jrs,0
+118,03/02,3,2,Argentina,AR,Patronato,T. de Cordoba,1
+119,03/07,2,0,Argentina,AR,Patronato,Defensa y J.,2
+120,02/01,1,1,Argentina,AR,Huracan,Gimnasia,0
+121,02/11,2,1,Argentina,AR,Huracan,Godoy Cruz,1
+122,02/15,0,2,Argentina,AR,Huracan,Aldosivi,-2
+123,02/25,4,2,Argentina,AR,Huracan,T. de Cordoba,2
+124,03/03,1,0,Argentina,AR,Huracan,Independiente,1
+125,03/07,0,3,Argentina,AR,Huracan,Banfield,-3
+126,01/31,1,1,Argentina,AR,Aldosivi,Velez Sarsfield,0
+127,02/07,0,2,Argentina,AR,Aldosivi,Central Córdoba,-2
+128,02/15,0,2,Argentina,AR,Aldosivi,Huracan,-2
+129,02/21,0,1,Argentina,AR,Aldosivi,Banfield,-1
+130,03/01,1,3,Argentina,AR,Aldosivi,San Lorenzo,-2
+131,03/06,4,0,Argentina,AR,Aldosivi,Arsenal Sarandi,4
+132,02/02,0,1,Argentina,AR,Colon,Banfield,-1
+133,02/08,0,0,Argentina,AR,Colon,Defensa y J.,0
+134,02/15,1,1,Argentina,AR,Colon,Racing Club,0
+135,02/23,4,0,Argentina,AR,Colon,Newells,4
+136,02/29,0,4,Argentina,AR,Colon,Boca Juniors,-4
+137,03/09,2,0,Argentina,AR,Colon,T. de Cordoba,2
+138,02/02,2,0,Argentina,AR,Godoy Cruz,Lanus,2
+139,02/11,2,1,Argentina,AR,Godoy Cruz,Huracan,1
+140,02/23,3,0,Argentina,AR,Godoy Cruz,Boca Juniors,3
+141,03/01,1,3,Argentina,AR,Godoy Cruz,Union Santa Fe,-2
+142,03/04,0,1,Argentina,AR,Godoy Cruz,Velez Sarsfield,-1
+143,03/09,0,2,Argentina,AR,Godoy Cruz,Newells,-2
+144,09/13,1,3,Austria,AT,Salzburg,Wolfsberger AC,-2
+145,09/19,4,1,Austria,AT,Salzburg,R. Altach,3
+146,09/26,1,3,Austria,AT,Salzburg,Ried,-2
+147,10/04,7,1,Austria,AT,Salzburg,Hartberg,6
+148,09/11,4,1,Austria,AT,Rapid Wien,Admira,3
+149,09/19,1,1,Austria,AT,Rapid Wien,Sturm Graz,0
+150,09/26,1,2,Austria,AT,Rapid Wien,St. Polten,-1
+151,10/04,3,0,Austria,AT,Rapid Wien,LASK Linz,3
+152,09/13,0,0,Austria,AT,St. Polten,Sturm Graz,0
+153,09/20,0,5,Austria,AT,St. Polten,Admira,-5
+154,09/26,1,2,Austria,AT,St. Polten,Rapid Wien,-1
+155,10/03,2,4,Austria,AT,St. Polten,Wolfsberger AC,-2
+156,09/11,1,0,Austria,AT,Austria Wien,LASK Linz,1
+157,09/20,2,1,Austria,AT,Austria Wien,Ried,1
+158,09/27,2,2,Austria,AT,Austria Wien,Admira,0
+159,10/03,0,2,Austria,AT,Austria Wien,WSG Tirol,-2
+160,09/11,1,0,Austria,AT,LASK Linz,Austria Wien,1
+161,09/19,1,1,Austria,AT,LASK Linz,WSG Tirol,0
+162,09/27,3,1,Austria,AT,LASK Linz,Wolfsberger AC,2
+163,10/04,3,0,Austria,AT,LASK Linz,Rapid Wien,3
+164,09/13,0,0,Austria,AT,Sturm Graz,St. Polten,0
+165,09/19,1,1,Austria,AT,Sturm Graz,Rapid Wien,0
+166,09/27,1,1,Austria,AT,Sturm Graz,Hartberg,0
+167,10/04,4,0,Austria,AT,Sturm Graz,R. Altach,4
+168,09/13,3,2,Austria,AT,WSG Tirol,Ried,1
+169,09/19,1,1,Austria,AT,WSG Tirol,LASK Linz,0
+170,09/26,0,2,Austria,AT,WSG Tirol,R. Altach,-2
+171,10/03,0,2,Austria,AT,WSG Tirol,Austria Wien,-2
+172,09/11,4,1,Austria,AT,Admira,Rapid Wien,3
+173,09/20,0,5,Austria,AT,Admira,St. Polten,-5
+174,09/27,2,2,Austria,AT,Admira,Austria Wien,0
+175,10/03,3,1,Austria,AT,Admira,Ried,2
+176,09/13,3,2,Austria,AT,Ried,WSG Tirol,1
+177,09/20,2,1,Austria,AT,Ried,Austria Wien,1
+178,09/26,1,3,Austria,AT,Ried,Salzburg,-2
+179,10/03,3,1,Austria,AT,Ried,Admira,2
+180,09/13,1,3,Austria,AT,Wolfsberger AC,Salzburg,-2
+181,09/20,0,2,Austria,AT,Wolfsberger AC,Hartberg,-2
+182,09/27,3,1,Austria,AT,Wolfsberger AC,LASK Linz,2
+183,10/03,2,4,Austria,AT,Wolfsberger AC,St. Polten,-2
+184,09/12,1,1,Austria,AT,Hartberg,R. Altach,0
+185,09/20,0,2,Austria,AT,Hartberg,Wolfsberger AC,-2
+186,09/27,1,1,Austria,AT,Hartberg,Sturm Graz,0
+187,10/04,7,1,Austria,AT,Hartberg,Salzburg,6
+188,09/12,1,1,Austria,AT,R. Altach,Hartberg,0
+189,09/19,4,1,Austria,AT,R. Altach,Salzburg,3
+190,09/26,0,2,Austria,AT,R. Altach,WSG Tirol,-2
+191,10/04,4,0,Austria,AT,R. Altach,Sturm Graz,4
+192,07/17,3,1,Australia,AU,Sydney FC,Wellington,2
+193,07/21,1,2,Australia,AU,Sydney FC,Newcastle Jets,-1
+194,08/01,2,0,Australia,AU,Sydney FC,Melbourne City,2
+195,08/06,1,1,Australia,AU,Sydney FC,Adelaide Utd,0
+196,08/10,1,1,Australia,AU,Sydney FC,Brisbane Roar,0
+197,08/15,1,2,Australia,AU,Sydney FC,Western Utd,-1
+198,03/14,1,1,Australia,AU,Melbourne City,WS Wanderers,0
+199,03/20,2,4,Australia,AU,Melbourne City,Central Coast,-2
+200,03/23,2,1,Australia,AU,Melbourne City,Newcastle Jets,1
+201,08/01,2,0,Australia,AU,Melbourne City,Sydney FC,2
+202,08/11,2,2,Australia,AU,Melbourne City,Adelaide Utd,0
+203,08/19,1,3,Australia,AU,Melbourne City,Western Utd,-2
+204,07/17,3,1,Australia,AU,Wellington,Sydney FC,2
+205,07/22,1,2,Australia,AU,Wellington,Perth Glory,-1
+206,07/25,1,1,Australia,AU,Wellington,Adelaide Utd,0
+207,07/31,1,0,Australia,AU,Wellington,WS Wanderers,1
+208,08/05,1,1,Australia,AU,Wellington,Brisbane Roar,0
+209,08/13,3,0,Australia,AU,Wellington,Newcastle Jets,3
+210,03/13,1,0,Australia,AU,Brisbane Roar,Central Coast,1
+211,03/20,1,0,Australia,AU,Brisbane Roar,Newcastle Jets,1
+212,07/19,0,1,Australia,AU,Brisbane Roar,Adelaide Utd,-1
+213,07/29,1,2,Australia,AU,Brisbane Roar,Melbourne Vic.,-1
+214,08/05,1,1,Australia,AU,Brisbane Roar,Wellington,0
+215,08/10,1,1,Australia,AU,Brisbane Roar,Sydney FC,0
+216,07/25,1,2,Australia,AU,Western Utd,Melbourne Vic.,-1
+217,08/02,1,0,Australia,AU,Western Utd,Newcastle Jets,1
+218,08/07,5,3,Australia,AU,Western Utd,WS Wanderers,2
+219,08/12,0,2,Australia,AU,Western Utd,Perth Glory,-2
+220,08/15,1,2,Australia,AU,Western Utd,Sydney FC,-1
+221,08/19,1,3,Australia,AU,Western Utd,Melbourne City,-2
+222,07/18,1,0,Australia,AU,Perth Glory,Central Coast,1
+223,07/22,1,2,Australia,AU,Perth Glory,Wellington,-1
+224,07/30,5,3,Australia,AU,Perth Glory,Adelaide Utd,2
+225,08/04,1,3,Australia,AU,Perth Glory,WS Wanderers,-2
+226,08/08,0,4,Australia,AU,Perth Glory,Melbourne Vic.,-4
+227,08/12,0,2,Australia,AU,Perth Glory,Western Utd,-2
+228,03/15,0,3,Australia,AU,Adelaide Utd,Newcastle Jets,-3
+229,07/19,0,1,Australia,AU,Adelaide Utd,Brisbane Roar,-1
+230,07/25,1,1,Australia,AU,Adelaide Utd,Wellington,0
+231,07/30,5,3,Australia,AU,Adelaide Utd,Perth Glory,2
+232,08/06,1,1,Australia,AU,Adelaide Utd,Sydney FC,0
+233,08/11,2,2,Australia,AU,Adelaide Utd,Melbourne City,0
+234,03/20,1,0,Australia,AU,Newcastle Jets,Brisbane Roar,1
+235,03/23,2,1,Australia,AU,Newcastle Jets,Melbourne City,1
+236,07/21,1,2,Australia,AU,Newcastle Jets,Sydney FC,-1
+237,07/24,0,0,Australia,AU,Newcastle Jets,Central Coast,0
+238,08/02,1,0,Australia,AU,Newcastle Jets,Western Utd,1
+239,08/13,3,0,Australia,AU,Newcastle Jets,Wellington,3
+240,03/21,1,1,Australia,AU,WS Wanderers,Sydney FC,0
+241,07/27,1,1,Australia,AU,WS Wanderers,Central Coast,0
+242,07/31,1,0,Australia,AU,WS Wanderers,Wellington,1
+243,08/04,1,3,Australia,AU,WS Wanderers,Perth Glory,-2
+244,08/07,5,3,Australia,AU,WS Wanderers,Western Utd,2
+245,08/12,2,1,Australia,AU,WS Wanderers,Melbourne Vic.,1
+246,03/15,3,0,Australia,AU,Melbourne Vic.,Wellington,3
+247,07/25,1,2,Australia,AU,Melbourne Vic.,Western Utd,-1
+248,07/29,1,2,Australia,AU,Melbourne Vic.,Brisbane Roar,-1
+249,08/03,2,3,Australia,AU,Melbourne Vic.,Central Coast,-1
+250,08/08,0,4,Australia,AU,Melbourne Vic.,Perth Glory,-4
+251,08/12,2,1,Australia,AU,Melbourne Vic.,WS Wanderers,1
+252,03/13,1,0,Australia,AU,Central Coast,Brisbane Roar,1
+253,03/20,2,4,Australia,AU,Central Coast,Melbourne City,-2
+254,07/18,1,0,Australia,AU,Central Coast,Perth Glory,1
+255,07/24,0,0,Australia,AU,Central Coast,Newcastle Jets,0
+256,07/27,1,1,Australia,AU,Central Coast,WS Wanderers,0
+257,08/03,2,3,Australia,AU,Central Coast,Melbourne Vic.,-1
+258,08/30,1,2,Belgium,BE,Club Brugge,KRC Genk,-1
+259,09/12,4,1,Belgium,BE,Club Brugge,Beveren,3
+260,09/20,0,6,Belgium,BE,Club Brugge,Zulte-Waregem,-6
+261,09/27,2,1,Belgium,BE,Club Brugge,Cercle Brugge,1
+262,10/04,3,0,Belgium,BE,Club Brugge,Anderlecht,3
+263,10/17,1,1,Belgium,BE,Club Brugge,Standard Liege,0
+264,08/22,1,3,Belgium,BE,Charleroi,OH Leuven,-2
+265,08/30,2,0,Belgium,BE,Charleroi,Antwerp,2
+266,09/13,0,2,Belgium,BE,Charleroi,Zulte-Waregem,-2
+267,09/18,3,1,Belgium,BE,Charleroi,Beerschot-Wil.,2
+268,09/27,1,1,Belgium,BE,Charleroi,Mouscron,0
+269,10/04,1,2,Belgium,BE,Charleroi,Standard Liege,-1
+270,08/30,0,3,Belgium,BE,Beerschot-Wil.,Standard Liege,-3
+271,09/14,5,2,Belgium,BE,Beerschot-Wil.,KRC Genk,3
+272,09/18,3,1,Belgium,BE,Beerschot-Wil.,Charleroi,2
+273,09/26,3,2,Belgium,BE,Beerschot-Wil.,Beveren,1
+274,10/04,5,1,Belgium,BE,Beerschot-Wil.,Gent,4
+275,10/17,6,3,Belgium,BE,Beerschot-Wil.,Sint-Truiden,3
+276,08/30,0,3,Belgium,BE,Standard Liege,Beerschot-Wil.,-3
+277,09/12,1,0,Belgium,BE,Standard Liege,OH Leuven,1
+278,09/20,2,1,Belgium,BE,Standard Liege,Kortrijk,1
+279,09/27,2,2,Belgium,BE,Standard Liege,Zulte-Waregem,0
+280,10/04,1,2,Belgium,BE,Standard Liege,Charleroi,-1
+281,10/17,1,1,Belgium,BE,Standard Liege,Club Brugge,0
+282,08/29,0,1,Belgium,BE,Cercle Brugge,Kortrijk,-1
+283,09/13,2,0,Belgium,BE,Cercle Brugge,Anderlecht,2
+284,09/21,3,0,Belgium,BE,Cercle Brugge,Sint-Truiden,3
+285,09/27,2,1,Belgium,BE,Cercle Brugge,Club Brugge,1
+286,10/03,1,2,Belgium,BE,Cercle Brugge,Eupen,-1
+287,10/17,5,2,Belgium,BE,Cercle Brugge,Gent,3
+288,08/22,1,0,Belgium,BE,Antwerp,Gent,1
+289,08/30,2,0,Belgium,BE,Antwerp,Charleroi,2
+290,09/13,2,3,Belgium,BE,Antwerp,Sint-Truiden,-1
+291,09/20,2,2,Belgium,BE,Antwerp,Eupen,0
+292,09/25,1,3,Belgium,BE,Antwerp,Kortrijk,-2
+293,10/02,4,1,Belgium,BE,Antwerp,KV Mechelen,3
+294,08/29,0,1,Belgium,BE,Kortrijk,Cercle Brugge,-1
+295,09/13,3,0,Belgium,BE,Kortrijk,Mouscron,3
+296,09/20,2,1,Belgium,BE,Kortrijk,Standard Liege,1
+297,09/25,1,3,Belgium,BE,Kortrijk,Antwerp,-2
+298,10/03,0,0,Belgium,BE,Kortrijk,Sint-Truiden,0
+299,10/17,1,2,Belgium,BE,Kortrijk,KV Mechelen,-1
+300,08/22,1,3,Belgium,BE,OH Leuven,Charleroi,-2
+301,08/29,1,3,Belgium,BE,OH Leuven,Beveren,-2
+302,09/12,1,0,Belgium,BE,OH Leuven,Standard Liege,1
+303,09/19,3,1,Belgium,BE,OH Leuven,Oostende,2
+304,09/26,2,3,Belgium,BE,OH Leuven,Gent,-1
+305,10/03,2,1,Belgium,BE,OH Leuven,Zulte-Waregem,1
+306,08/23,1,1,Belgium,BE,Anderlecht,Mouscron,0
+307,08/28,2,2,Belgium,BE,Anderlecht,Oostende,0
+308,09/13,2,0,Belgium,BE,Anderlecht,Cercle Brugge,2
+309,09/19,2,4,Belgium,BE,Anderlecht,Beveren,-2
+310,09/27,1,1,Belgium,BE,Anderlecht,Eupen,0
+311,10/04,3,0,Belgium,BE,Anderlecht,Club Brugge,3
+312,08/24,0,0,Belgium,BE,Oostende,Sint-Truiden,0
+313,08/28,2,2,Belgium,BE,Oostende,Anderlecht,0
+314,09/12,0,1,Belgium,BE,Oostende,KV Mechelen,-1
+315,09/19,3,1,Belgium,BE,Oostende,OH Leuven,2
+316,09/28,2,2,Belgium,BE,Oostende,KRC Genk,0
+317,10/04,3,0,Belgium,BE,Oostende,Mouscron,3
+318,08/23,0,0,Belgium,BE,KRC Genk,Standard Liege,0
+319,08/30,1,2,Belgium,BE,KRC Genk,Club Brugge,-1
+320,09/14,5,2,Belgium,BE,KRC Genk,Beerschot-Wil.,3
+321,09/20,3,1,Belgium,BE,KRC Genk,KV Mechelen,2
+322,09/28,2,2,Belgium,BE,KRC Genk,Oostende,0
+323,10/03,1,1,Belgium,BE,KRC Genk,Beveren,0
+324,08/30,1,0,Belgium,BE,Gent,KV Mechelen,1
+325,09/11,2,1,Belgium,BE,Gent,Eupen,1
+326,09/19,0,1,Belgium,BE,Gent,Mouscron,-1
+327,09/26,2,3,Belgium,BE,Gent,OH Leuven,-1
+328,10/04,5,1,Belgium,BE,Gent,Beerschot-Wil.,4
+329,10/17,5,2,Belgium,BE,Gent,Cercle Brugge,3
+330,08/21,0,0,Belgium,BE,Eupen,Kortrijk,0
+331,08/29,1,1,Belgium,BE,Eupen,Sint-Truiden,0
+332,09/11,2,1,Belgium,BE,Eupen,Gent,1
+333,09/20,2,2,Belgium,BE,Eupen,Antwerp,0
+334,09/27,1,1,Belgium,BE,Eupen,Anderlecht,0
+335,10/03,1,2,Belgium,BE,Eupen,Cercle Brugge,-1
+336,08/30,1,0,Belgium,BE,KV Mechelen,Gent,1
+337,09/12,0,1,Belgium,BE,KV Mechelen,Oostende,-1
+338,09/20,3,1,Belgium,BE,KV Mechelen,KRC Genk,2
+339,09/26,2,0,Belgium,BE,KV Mechelen,Sint-Truiden,2
+340,10/02,4,1,Belgium,BE,KV Mechelen,Antwerp,3
+341,10/17,1,2,Belgium,BE,KV Mechelen,Kortrijk,-1
+342,08/22,4,1,Belgium,BE,Zulte-Waregem,Beveren,3
+343,08/29,0,1,Belgium,BE,Zulte-Waregem,Mouscron,-1
+344,09/13,0,2,Belgium,BE,Zulte-Waregem,Charleroi,-2
+345,09/20,0,6,Belgium,BE,Zulte-Waregem,Club Brugge,-6
+346,09/27,2,2,Belgium,BE,Zulte-Waregem,Standard Liege,0
+347,10/03,2,1,Belgium,BE,Zulte-Waregem,OH Leuven,1
+348,08/29,1,1,Belgium,BE,Sint-Truiden,Eupen,0
+349,09/13,2,3,Belgium,BE,Sint-Truiden,Antwerp,-1
+350,09/21,3,0,Belgium,BE,Sint-Truiden,Cercle Brugge,3
+351,09/26,2,0,Belgium,BE,Sint-Truiden,KV Mechelen,2
+352,10/03,0,0,Belgium,BE,Sint-Truiden,Kortrijk,0
+353,10/17,6,3,Belgium,BE,Sint-Truiden,Beerschot-Wil.,3
+354,08/22,4,1,Belgium,BE,Beveren,Zulte-Waregem,3
+355,08/29,1,3,Belgium,BE,Beveren,OH Leuven,-2
+356,09/12,4,1,Belgium,BE,Beveren,Club Brugge,3
+357,09/19,2,4,Belgium,BE,Beveren,Anderlecht,-2
+358,09/26,3,2,Belgium,BE,Beveren,Beerschot-Wil.,1
+359,10/03,1,1,Belgium,BE,Beveren,KRC Genk,0
+360,08/23,1,1,Belgium,BE,Mouscron,Anderlecht,0
+361,08/29,0,1,Belgium,BE,Mouscron,Zulte-Waregem,-1
+362,09/13,3,0,Belgium,BE,Mouscron,Kortrijk,3
+363,09/19,0,1,Belgium,BE,Mouscron,Gent,-1
+364,09/27,1,1,Belgium,BE,Mouscron,Charleroi,0
+365,10/04,3,0,Belgium,BE,Mouscron,Oostende,3
+366,09/20,3,4,Brazil,BR,Atletico MG,Atletico GO,-1
+367,09/27,3,1,Brazil,BR,Atletico MG,Gremio,2
+368,10/04,4,1,Brazil,BR,Atletico MG,Vasco da Gama,3
+369,10/08,2,1,Brazil,BR,Atletico MG,Fortaleza,1
+370,10/11,3,0,Brazil,BR,Atletico MG,Goias,3
+371,10/15,1,1,Brazil,BR,Atletico MG,Fluminense,0
+372,09/19,1,0,Brazil,BR,Internacional,Fortaleza,1
+373,09/26,1,1,Brazil,BR,Internacional,Sao Paulo,0
+374,10/03,1,1,Brazil,BR,Internacional,Gremio,0
+375,10/09,0,2,Brazil,BR,Internacional,Bragantino,-2
+376,10/11,2,1,Brazil,BR,Internacional,Atletico PR,1
+377,10/15,3,5,Brazil,BR,Internacional,Sport Recife,-2
+378,09/27,1,1,Brazil,BR,Flamengo,Palmeiras,0
+379,10/04,3,1,Brazil,BR,Flamengo,Atletico PR,2
+380,10/07,3,0,Brazil,BR,Flamengo,Sport Recife,3
+381,10/10,1,2,Brazil,BR,Flamengo,Vasco da Gama,-1
+382,10/13,2,1,Brazil,BR,Flamengo,Goias,1
+383,10/15,1,1,Brazil,BR,Flamengo,Bragantino,0
+384,09/12,2,2,Brazil,BR,Sao Paulo,Santos,0
+385,09/26,1,1,Brazil,BR,Sao Paulo,Internacional,0
+386,10/04,1,1,Brazil,BR,Sao Paulo,Coritiba,0
+387,10/07,3,0,Brazil,BR,Sao Paulo,Atletico GO,3
+388,10/10,0,2,Brazil,BR,Sao Paulo,Palmeiras,-2
+389,10/18,0,0,Brazil,BR,Sao Paulo,Gremio,0
+390,09/27,1,1,Brazil,BR,Santos,Fortaleza,0
+391,10/04,2,3,Brazil,BR,Santos,Goias,-1
+392,10/07,1,1,Brazil,BR,Santos,Corinthians,0
+393,10/11,2,1,Brazil,BR,Santos,Gremio,1
+394,10/14,0,1,Brazil,BR,Santos,Atletico GO,-1
+395,10/17,1,2,Brazil,BR,Santos,Coritiba,-1
+396,09/28,4,0,Brazil,BR,Fluminense,Coritiba,4
+397,10/04,1,1,Brazil,BR,Fluminense,Botafogo,0
+398,10/07,2,4,Brazil,BR,Fluminense,Goias,-2
+399,10/11,1,0,Brazil,BR,Fluminense,Bahia,1
+400,10/15,1,1,Brazil,BR,Fluminense,Atletico MG,0
+401,10/17,2,2,Brazil,BR,Fluminense,Ceara,0
+402,09/20,1,1,Brazil,BR,Palmeiras,Gremio,0
+403,09/27,1,1,Brazil,BR,Palmeiras,Flamengo,0
+404,10/03,2,1,Brazil,BR,Palmeiras,Ceara,1
+405,10/08,2,1,Brazil,BR,Palmeiras,Botafogo,1
+406,10/10,0,2,Brazil,BR,Palmeiras,Sao Paulo,-2
+407,10/14,1,3,Brazil,BR,Palmeiras,Coritiba,-2
+408,10/01,0,0,Brazil,BR,Atletico GO,Corinthians,0
+409,10/04,0,0,Brazil,BR,Atletico GO,Fortaleza,0
+410,10/07,3,0,Brazil,BR,Atletico GO,Sao Paulo,3
+411,10/11,2,1,Brazil,BR,Atletico GO,Bragantino,1
+412,10/14,0,1,Brazil,BR,Atletico GO,Santos,-1
+413,10/17,1,1,Brazil,BR,Atletico GO,Atletico PR,0
+414,09/13,1,1,Brazil,BR,Fortaleza,Gremio,0
+415,09/19,1,0,Brazil,BR,Fortaleza,Internacional,1
+416,09/27,1,1,Brazil,BR,Fortaleza,Santos,0
+417,10/04,0,0,Brazil,BR,Fortaleza,Atletico GO,0
+418,10/08,2,1,Brazil,BR,Fortaleza,Atletico MG,1
+419,10/10,0,0,Brazil,BR,Fortaleza,Coritiba,0
+420,09/27,3,1,Brazil,BR,Gremio,Atletico MG,2
+421,10/03,1,1,Brazil,BR,Gremio,Internacional,0
+422,10/07,2,1,Brazil,BR,Gremio,Coritiba,1
+423,10/11,2,1,Brazil,BR,Gremio,Santos,1
+424,10/14,3,1,Brazil,BR,Gremio,Botafogo,2
+425,10/18,0,0,Brazil,BR,Gremio,Sao Paulo,0
+426,09/20,1,0,Brazil,BR,Sport Recife,Fluminense,1
+427,09/24,1,0,Brazil,BR,Sport Recife,Corinthians,1
+428,10/04,1,2,Brazil,BR,Sport Recife,Bahia,-1
+429,10/07,3,0,Brazil,BR,Sport Recife,Flamengo,3
+430,10/11,1,2,Brazil,BR,Sport Recife,Botafogo,-1
+431,10/15,3,5,Brazil,BR,Sport Recife,Internacional,-2
+432,09/19,4,2,Brazil,BR,Ceara,Bragantino,2
+433,09/27,2,2,Brazil,BR,Ceara,Goias,0
+434,10/03,2,1,Brazil,BR,Ceara,Palmeiras,1
+435,10/08,0,0,Brazil,BR,Ceara,Atletico PR,0
+436,10/11,2,1,Brazil,BR,Ceara,Corinthians,1
+437,10/17,2,2,Brazil,BR,Ceara,Fluminense,0
+438,09/13,2,3,Brazil,BR,Vasco da Gama,Botafogo,-1
+439,09/20,1,0,Brazil,BR,Vasco da Gama,Coritiba,1
+440,09/27,1,1,Brazil,BR,Vasco da Gama,Bragantino,0
+441,10/04,4,1,Brazil,BR,Vasco da Gama,Atletico MG,3
+442,10/07,3,0,Brazil,BR,Vasco da Gama,Bahia,3
+443,10/10,1,2,Brazil,BR,Vasco da Gama,Flamengo,-1
+444,09/24,1,0,Brazil,BR,Corinthians,Sport Recife,1
+445,10/01,0,0,Brazil,BR,Corinthians,Atletico GO,0
+446,10/04,0,0,Brazil,BR,Corinthians,Bragantino,0
+447,10/07,1,1,Brazil,BR,Corinthians,Santos,0
+448,10/11,2,1,Brazil,BR,Corinthians,Ceara,1
+449,10/15,0,1,Brazil,BR,Corinthians,Atletico PR,-1
+450,09/27,1,1,Brazil,BR,Botafogo,Atletico GO,0
+451,10/01,1,2,Brazil,BR,Botafogo,Bahia,-1
+452,10/04,1,1,Brazil,BR,Botafogo,Fluminense,0
+453,10/08,2,1,Brazil,BR,Botafogo,Palmeiras,1
+454,10/11,1,2,Brazil,BR,Botafogo,Sport Recife,-1
+455,10/14,3,1,Brazil,BR,Botafogo,Gremio,2
+456,09/26,1,0,Brazil,BR,Atletico PR,Bahia,1
+457,10/04,3,1,Brazil,BR,Atletico PR,Flamengo,2
+458,10/08,0,0,Brazil,BR,Atletico PR,Ceara,0
+459,10/11,2,1,Brazil,BR,Atletico PR,Internacional,1
+460,10/15,0,1,Brazil,BR,Atletico PR,Corinthians,-1
+461,10/17,1,1,Brazil,BR,Atletico PR,Atletico GO,0
+462,09/26,1,0,Brazil,BR,Bahia,Atletico PR,1
+463,10/01,1,2,Brazil,BR,Bahia,Botafogo,-1
+464,10/04,1,2,Brazil,BR,Bahia,Sport Recife,-1
+465,10/07,3,0,Brazil,BR,Bahia,Vasco da Gama,3
+466,10/11,1,0,Brazil,BR,Bahia,Fluminense,1
+467,10/16,1,1,Brazil,BR,Bahia,Goias,0
+468,09/28,4,0,Brazil,BR,Coritiba,Fluminense,4
+469,10/04,1,1,Brazil,BR,Coritiba,Sao Paulo,0
+470,10/07,2,1,Brazil,BR,Coritiba,Gremio,1
+471,10/10,0,0,Brazil,BR,Coritiba,Fortaleza,0
+472,10/14,1,3,Brazil,BR,Coritiba,Palmeiras,-2
+473,10/17,1,2,Brazil,BR,Coritiba,Santos,-1
+474,09/19,4,2,Brazil,BR,Bragantino,Ceara,2
+475,09/27,1,1,Brazil,BR,Bragantino,Vasco da Gama,0
+476,10/04,0,0,Brazil,BR,Bragantino,Corinthians,0
+477,10/09,0,2,Brazil,BR,Bragantino,Internacional,-2
+478,10/11,2,1,Brazil,BR,Bragantino,Atletico GO,1
+479,10/15,1,1,Brazil,BR,Bragantino,Flamengo,0
+480,09/27,2,2,Brazil,BR,Goias,Ceara,0
+481,10/04,2,3,Brazil,BR,Goias,Santos,-1
+482,10/07,2,4,Brazil,BR,Goias,Fluminense,-2
+483,10/11,3,0,Brazil,BR,Goias,Atletico MG,3
+484,10/13,2,1,Brazil,BR,Goias,Flamengo,1
+485,10/16,1,1,Brazil,BR,Goias,Bahia,0
+486,09/20,1,0,Switzerland,CH,St. Gallen,Sion,1
+487,09/27,0,1,Switzerland,CH,St. Gallen,Vaduz,-1
+488,10/04,1,0,Switzerland,CH,St. Gallen,Servette,1
+489,09/19,2,1,Switzerland,CH,BSC Young Boys,FC Zurich,1
+490,09/26,0,0,Switzerland,CH,BSC Young Boys,Sion,0
+491,10/04,1,0,Switzerland,CH,BSC Young Boys,Vaduz,1
+492,10/17,0,0,Switzerland,CH,BSC Young Boys,Servette,0
+493,09/20,2,1,Switzerland,CH,Lausanne Sport,Servette,1
+494,09/27,2,2,Switzerland,CH,Lausanne Sport,Luzern,0
+495,10/03,4,0,Switzerland,CH,Lausanne Sport,FC Zurich,4
+496,09/19,2,1,Switzerland,CH,Lugano,Luzern,1
+497,09/26,2,2,Switzerland,CH,Lugano,FC Zurich,0
+498,10/03,2,2,Switzerland,CH,Lugano,Sion,0
+499,10/17,1,1,Switzerland,CH,Lugano,Vaduz,0
+500,09/20,2,2,Switzerland,CH,FC Basel,Vaduz,0
+501,09/27,1,0,Switzerland,CH,FC Basel,Servette,1
+502,10/04,3,2,Switzerland,CH,FC Basel,Luzern,1
+503,09/20,2,1,Switzerland,CH,Servette,Lausanne Sport,1
+504,09/27,1,0,Switzerland,CH,Servette,FC Basel,1
+505,10/04,1,0,Switzerland,CH,Servette,St. Gallen,1
+506,10/17,0,0,Switzerland,CH,Servette,BSC Young Boys,0
+507,09/20,1,0,Switzerland,CH,Sion,St. Gallen,1
+508,09/26,0,0,Switzerland,CH,Sion,BSC Young Boys,0
+509,10/03,2,2,Switzerland,CH,Sion,Lugano,0
+510,09/20,2,2,Switzerland,CH,Vaduz,FC Basel,0
+511,09/27,0,1,Switzerland,CH,Vaduz,St. Gallen,-1
+512,10/04,1,0,Switzerland,CH,Vaduz,BSC Young Boys,1
+513,10/17,1,1,Switzerland,CH,Vaduz,Lugano,0
+514,09/19,2,1,Switzerland,CH,Luzern,Lugano,1
+515,09/27,2,2,Switzerland,CH,Luzern,Lausanne Sport,0
+516,10/04,3,2,Switzerland,CH,Luzern,FC Basel,1
+517,09/19,2,1,Switzerland,CH,FC Zurich,BSC Young Boys,1
+518,09/26,2,2,Switzerland,CH,FC Zurich,Lugano,0
+519,10/03,4,0,Switzerland,CH,FC Zurich,Lausanne Sport,4
+520,09/20,3,1,Germany - Bundesliga,DE,RB Leipzig,FSV Mainz,2
+521,09/26,1,1,Germany - Bundesliga,DE,RB Leipzig,Leverkusen,0
+522,10/03,4,0,Germany - Bundesliga,DE,RB Leipzig,Schalke 04,4
+523,10/17,0,2,Germany - Bundesliga,DE,RB Leipzig,FC Augsburg,-2
+524,09/18,8,0,Germany - Bundesliga,DE,Bayern Munich,Schalke 04,8
+525,09/27,4,1,Germany - Bundesliga,DE,Bayern Munich,Hoffenheim,3
+526,10/04,4,3,Germany - Bundesliga,DE,Bayern Munich,Hertha Berlin,1
+527,10/17,1,4,Germany - Bundesliga,DE,Bayern Munich,Bielefeld,-3
+528,09/19,3,0,Germany - Bundesliga,DE,Dortmumd,Monchengladbach,3
+529,09/26,2,0,Germany - Bundesliga,DE,Dortmumd,FC Augsburg,2
+530,10/03,4,0,Germany - Bundesliga,DE,Dortmumd,Freiburg,4
+531,10/17,0,1,Germany - Bundesliga,DE,Dortmumd,Hoffenheim,-1
+532,09/19,2,3,Germany - Bundesliga,DE,Stuttgart,Freiburg,-1
+533,09/26,1,4,Germany - Bundesliga,DE,Stuttgart,FSV Mainz,-3
+534,10/03,1,1,Germany - Bundesliga,DE,Stuttgart,Leverkusen,0
+535,10/17,0,2,Germany - Bundesliga,DE,Stuttgart,Hertha Berlin,-2
+536,09/19,1,1,Germany - Bundesliga,DE,E. Frankfurt,Bielefeld,0
+537,09/25,1,3,Germany - Bundesliga,DE,E. Frankfurt,Hertha Berlin,-2
+538,10/03,2,1,Germany - Bundesliga,DE,E. Frankfurt,Hoffenheim,1
+539,09/19,1,3,Germany - Bundesliga,DE,FC Augsburg,Union Berlin,-2
+540,09/26,2,0,Germany - Bundesliga,DE,FC Augsburg,Dortmumd,2
+541,10/04,0,0,Germany - Bundesliga,DE,FC Augsburg,Wolfsburg,0
+542,10/17,0,2,Germany - Bundesliga,DE,FC Augsburg,RB Leipzig,-2
+543,09/19,1,4,Germany - Bundesliga,DE,Werder Bremen,Hertha Berlin,-3
+544,09/26,1,3,Germany - Bundesliga,DE,Werder Bremen,Schalke 04,-2
+545,10/03,1,0,Germany - Bundesliga,DE,Werder Bremen,Bielefeld,1
+546,10/17,1,1,Germany - Bundesliga,DE,Werder Bremen,Freiburg,0
+547,09/19,2,3,Germany - Bundesliga,DE,Hoffenheim,FC Koln,-1
+548,09/27,4,1,Germany - Bundesliga,DE,Hoffenheim,Bayern Munich,3
+549,10/03,2,1,Germany - Bundesliga,DE,Hoffenheim,E. Frankfurt,1
+550,10/17,0,1,Germany - Bundesliga,DE,Hoffenheim,Dortmumd,-1
+551,09/20,0,0,Germany - Bundesliga,DE,Leverkusen,Wolfsburg,0
+552,09/26,1,1,Germany - Bundesliga,DE,Leverkusen,RB Leipzig,0
+553,10/03,1,1,Germany - Bundesliga,DE,Leverkusen,Stuttgart,0
+554,10/17,0,1,Germany - Bundesliga,DE,Leverkusen,FSV Mainz,-1
+555,09/19,3,0,Germany - Bundesliga,DE,Monchengladbach,Dortmumd,3
+556,09/26,1,1,Germany - Bundesliga,DE,Monchengladbach,Union Berlin,0
+557,10/03,1,3,Germany - Bundesliga,DE,Monchengladbach,FC Koln,-2
+558,10/17,1,1,Germany - Bundesliga,DE,Monchengladbach,Wolfsburg,0
+559,09/19,2,3,Germany - Bundesliga,DE,Freiburg,Stuttgart,-1
+560,09/27,1,1,Germany - Bundesliga,DE,Freiburg,Wolfsburg,0
+561,10/03,4,0,Germany - Bundesliga,DE,Freiburg,Dortmumd,4
+562,10/17,1,1,Germany - Bundesliga,DE,Freiburg,Werder Bremen,0
+563,09/19,1,3,Germany - Bundesliga,DE,Union Berlin,FC Augsburg,-2
+564,09/26,1,1,Germany - Bundesliga,DE,Union Berlin,Monchengladbach,0
+565,10/02,4,0,Germany - Bundesliga,DE,Union Berlin,FSV Mainz,4
+566,09/20,0,0,Germany - Bundesliga,DE,Wolfsburg,Leverkusen,0
+567,09/27,1,1,Germany - Bundesliga,DE,Wolfsburg,Freiburg,0
+568,10/04,0,0,Germany - Bundesliga,DE,Wolfsburg,FC Augsburg,0
+569,10/17,1,1,Germany - Bundesliga,DE,Wolfsburg,Monchengladbach,0
+570,09/19,1,1,Germany - Bundesliga,DE,Bielefeld,E. Frankfurt,0
+571,09/26,1,0,Germany - Bundesliga,DE,Bielefeld,FC Koln,1
+572,10/03,1,0,Germany - Bundesliga,DE,Bielefeld,Werder Bremen,1
+573,10/17,1,4,Germany - Bundesliga,DE,Bielefeld,Bayern Munich,-3
+574,09/19,1,4,Germany - Bundesliga,DE,Hertha Berlin,Werder Bremen,-3
+575,09/25,1,3,Germany - Bundesliga,DE,Hertha Berlin,E. Frankfurt,-2
+576,10/04,4,3,Germany - Bundesliga,DE,Hertha Berlin,Bayern Munich,1
+577,10/17,0,2,Germany - Bundesliga,DE,Hertha Berlin,Stuttgart,-2
+578,09/19,2,3,Germany - Bundesliga,DE,FC Koln,Hoffenheim,-1
+579,09/26,1,0,Germany - Bundesliga,DE,FC Koln,Bielefeld,1
+580,10/03,1,3,Germany - Bundesliga,DE,FC Koln,Monchengladbach,-2
+581,09/20,3,1,Germany - Bundesliga,DE,FSV Mainz,RB Leipzig,2
+582,09/26,1,4,Germany - Bundesliga,DE,FSV Mainz,Stuttgart,-3
+583,10/02,4,0,Germany - Bundesliga,DE,FSV Mainz,Union Berlin,4
+584,10/17,0,1,Germany - Bundesliga,DE,FSV Mainz,Leverkusen,-1
+585,09/18,8,0,Germany - Bundesliga,DE,Schalke 04,Bayern Munich,8
+586,09/26,1,3,Germany - Bundesliga,DE,Schalke 04,Werder Bremen,-2
+587,10/03,4,0,Germany - Bundesliga,DE,Schalke 04,RB Leipzig,4
+588,09/18,2,1,Germany - 2. Bundesliga,D2,Hamburger SV,Dusseldorf,1
+589,09/28,3,4,Germany - 2. Bundesliga,D2,Hamburger SV,Paderborn,-1
+590,10/17,0,1,Germany - 2. Bundesliga,D2,Hamburger SV,Greuther Furth,-1
+591,09/20,1,0,Germany - 2. Bundesliga,D2,Holstein Kiel,Paderborn,1
+592,09/26,0,0,Germany - 2. Bundesliga,D2,Holstein Kiel,Braunschweig,0
+593,10/04,2,1,Germany - 2. Bundesliga,D2,Holstein Kiel,Dusseldorf,1
+594,09/19,2,0,Germany - 2. Bundesliga,D2,Hannover 96,Karlsruher SC,2
+595,09/25,2,1,Germany - 2. Bundesliga,D2,Hannover 96,Osnabruck,1
+596,10/03,4,1,Germany - 2. Bundesliga,D2,Hannover 96,Braunschweig,3
+597,09/19,3,2,Germany - 2. Bundesliga,D2,Sandhausen,Darmstadt,1
+598,09/27,1,0,Germany - 2. Bundesliga,D2,Sandhausen,Nurnberg,1
+599,10/02,1,0,Germany - 2. Bundesliga,D2,Sandhausen,Sankt Pauli,1
+600,10/17,3,0,Germany - 2. Bundesliga,D2,Sandhausen,Karlsruher SC,3
+601,09/20,1,1,Germany - 2. Bundesliga,D2,Osnabruck,Greuther Furth,0
+602,09/25,2,1,Germany - 2. Bundesliga,D2,Osnabruck,Hannover 96,1
+603,10/02,0,0,Germany - 2. Bundesliga,D2,Osnabruck,Bochum,0
+604,09/18,1,1,Germany - 2. Bundesliga,D2,Regensburg,Nurnberg,0
+605,09/26,0,0,Germany - 2. Bundesliga,D2,Regensburg,Darmstadt,0
+606,10/03,1,0,Germany - 2. Bundesliga,D2,Regensburg,Karlsruher SC,1
+607,09/21,2,2,Germany - 2. Bundesliga,D2,Bochum,Sankt Pauli,0
+608,09/27,0,1,Germany - 2. Bundesliga,D2,Bochum,Karlsruher SC,-1
+609,10/02,0,0,Germany - 2. Bundesliga,D2,Bochum,Osnabruck,0
+610,10/17,2,1,Germany - 2. Bundesliga,D2,Bochum,Braunschweig,1
+611,09/19,0,3,Germany - 2. Bundesliga,D2,Erzgebirge Aue,Wurzburger K.,-3
+612,09/25,1,1,Germany - 2. Bundesliga,D2,Erzgebirge Aue,Greuther Furth,0
+613,09/21,2,2,Germany - 2. Bundesliga,D2,Sankt Pauli,Bochum,0
+614,09/27,4,2,Germany - 2. Bundesliga,D2,Sankt Pauli,Heidenheim,2
+615,10/02,1,0,Germany - 2. Bundesliga,D2,Sankt Pauli,Sandhausen,1
+616,09/19,3,2,Germany - 2. Bundesliga,D2,Darmstadt,Sandhausen,1
+617,09/26,0,0,Germany - 2. Bundesliga,D2,Darmstadt,Regensburg,0
+618,10/05,2,3,Germany - 2. Bundesliga,D2,Darmstadt,Nurnberg,-1
+619,09/20,2,0,Germany - 2. Bundesliga,D2,Heidenheim,Braunschweig,2
+620,09/27,4,2,Germany - 2. Bundesliga,D2,Heidenheim,Sankt Pauli,2
+621,10/03,0,0,Germany - 2. Bundesliga,D2,Heidenheim,Paderborn,0
+622,09/18,1,1,Germany - 2. Bundesliga,D2,Nurnberg,Regensburg,0
+623,09/27,1,0,Germany - 2. Bundesliga,D2,Nurnberg,Sandhausen,1
+624,10/05,2,3,Germany - 2. Bundesliga,D2,Nurnberg,Darmstadt,-1
+625,09/20,2,0,Germany - 2. Bundesliga,D2,Braunschweig,Heidenheim,2
+626,09/26,0,0,Germany - 2. Bundesliga,D2,Braunschweig,Holstein Kiel,0
+627,10/03,4,1,Germany - 2. Bundesliga,D2,Braunschweig,Hannover 96,3
+628,10/17,2,1,Germany - 2. Bundesliga,D2,Braunschweig,Bochum,1
+629,09/20,1,1,Germany - 2. Bundesliga,D2,Greuther Furth,Osnabruck,0
+630,09/25,1,1,Germany - 2. Bundesliga,D2,Greuther Furth,Erzgebirge Aue,0
+631,10/04,2,2,Germany - 2. Bundesliga,D2,Greuther Furth,Wurzburger K.,0
+632,10/17,0,1,Germany - 2. Bundesliga,D2,Greuther Furth,Hamburger SV,-1
+633,09/18,2,1,Germany - 2. Bundesliga,D2,Dusseldorf,Hamburger SV,1
+634,09/26,1,0,Germany - 2. Bundesliga,D2,Dusseldorf,Wurzburger K.,1
+635,10/04,2,1,Germany - 2. Bundesliga,D2,Dusseldorf,Holstein Kiel,1
+636,09/19,2,0,Germany - 2. Bundesliga,D2,Karlsruher SC,Hannover 96,2
+637,09/27,0,1,Germany - 2. Bundesliga,D2,Karlsruher SC,Bochum,-1
+638,10/03,1,0,Germany - 2. Bundesliga,D2,Karlsruher SC,Regensburg,1
+639,10/17,3,0,Germany - 2. Bundesliga,D2,Karlsruher SC,Sandhausen,3
+640,09/20,1,0,Germany - 2. Bundesliga,D2,Paderborn,Holstein Kiel,1
+641,09/28,3,4,Germany - 2. Bundesliga,D2,Paderborn,Hamburger SV,-1
+642,10/03,0,0,Germany - 2. Bundesliga,D2,Paderborn,Heidenheim,0
+643,09/19,0,3,Germany - 2. Bundesliga,D2,Wurzburger K.,Erzgebirge Aue,-3
+644,09/26,1,0,Germany - 2. Bundesliga,D2,Wurzburger K.,Dusseldorf,1
+645,10/04,2,2,Germany - 2. Bundesliga,D2,Wurzburger K.,Greuther Furth,0
+646,09/13,3,2,Denmark,DK,Brondby IF,Nordsjaelland,1
+647,09/20,1,2,Denmark,DK,Brondby IF,FC Kobenhavn,-1
+648,09/27,2,1,Denmark,DK,Brondby IF,AC Horsens,1
+649,10/02,1,2,Denmark,DK,Brondby IF,Randers FC,-1
+650,09/11,2,0,Denmark,DK,FC Midtjylland,SonderjyskE,2
+651,09/19,1,0,Denmark,DK,FC Midtjylland,Lyngby,1
+652,09/26,1,0,Denmark,DK,FC Midtjylland,Randers FC,1
+653,10/04,2,2,Denmark,DK,FC Midtjylland,AC Horsens,0
+654,10/17,3,1,Denmark,DK,FC Midtjylland,Odense BK,2
+655,09/14,4,2,Denmark,DK,AGF Aarhus,Vejle BK,2
+656,09/20,1,1,Denmark,DK,AGF Aarhus,Randers FC,0
+657,09/27,4,2,Denmark,DK,AGF Aarhus,Odense BK,2
+658,10/04,1,1,Denmark,DK,AGF Aarhus,Aalborg BK,0
+659,09/14,4,2,Denmark,DK,Vejle BK,AGF Aarhus,2
+660,09/20,4,1,Denmark,DK,Vejle BK,SonderjyskE,3
+661,09/27,2,2,Denmark,DK,Vejle BK,FC Kobenhavn,0
+662,10/04,0,1,Denmark,DK,Vejle BK,Odense BK,-1
+663,09/11,2,0,Denmark,DK,SonderjyskE,FC Midtjylland,2
+664,09/20,4,1,Denmark,DK,SonderjyskE,Vejle BK,3
+665,09/27,3,1,Denmark,DK,SonderjyskE,Aalborg BK,2
+666,10/04,2,2,Denmark,DK,SonderjyskE,Lyngby,0
+667,09/13,0,0,Denmark,DK,Aalborg BK,Lyngby,0
+668,09/21,1,0,Denmark,DK,Aalborg BK,AC Horsens,1
+669,09/27,3,1,Denmark,DK,Aalborg BK,SonderjyskE,2
+670,10/04,1,1,Denmark,DK,Aalborg BK,AGF Aarhus,0
+671,09/13,3,2,Denmark,DK,Nordsjaelland,Brondby IF,1
+672,09/20,1,1,Denmark,DK,Nordsjaelland,Odense BK,0
+673,09/28,4,1,Denmark,DK,Nordsjaelland,Lyngby,3
+674,10/04,3,2,Denmark,DK,Nordsjaelland,FC Kobenhavn,1
+675,09/13,0,3,Denmark,DK,Randers FC,AC Horsens,-3
+676,09/20,1,1,Denmark,DK,Randers FC,AGF Aarhus,0
+677,09/26,1,0,Denmark,DK,Randers FC,FC Midtjylland,1
+678,10/02,1,2,Denmark,DK,Randers FC,Brondby IF,-1
+679,09/13,3,2,Denmark,DK,FC Kobenhavn,Odense BK,1
+680,09/20,1,2,Denmark,DK,FC Kobenhavn,Brondby IF,-1
+681,09/27,2,2,Denmark,DK,FC Kobenhavn,Vejle BK,0
+682,10/04,3,2,Denmark,DK,FC Kobenhavn,Nordsjaelland,1
+683,09/13,3,2,Denmark,DK,Odense BK,FC Kobenhavn,1
+684,09/20,1,1,Denmark,DK,Odense BK,Nordsjaelland,0
+685,09/27,4,2,Denmark,DK,Odense BK,AGF Aarhus,2
+686,10/04,0,1,Denmark,DK,Odense BK,Vejle BK,-1
+687,10/17,3,1,Denmark,DK,Odense BK,FC Midtjylland,2
+688,09/13,0,0,Denmark,DK,Lyngby,Aalborg BK,0
+689,09/19,1,0,Denmark,DK,Lyngby,FC Midtjylland,1
+690,09/28,4,1,Denmark,DK,Lyngby,Nordsjaelland,3
+691,10/04,2,2,Denmark,DK,Lyngby,SonderjyskE,0
+692,09/13,0,3,Denmark,DK,AC Horsens,Randers FC,-3
+693,09/21,1,0,Denmark,DK,AC Horsens,Aalborg BK,1
+694,09/27,2,1,Denmark,DK,AC Horsens,Brondby IF,1
+695,10/04,2,2,Denmark,DK,AC Horsens,FC Midtjylland,0
+696,09/13,0,1,England - Premier League,EN,Everton,Tottenham,-1
+697,09/19,5,2,England - Premier League,EN,Everton,West Brom,3
+698,09/26,1,2,England - Premier League,EN,Everton,Crystal Palace,-1
+699,10/03,4,2,England - Premier League,EN,Everton,Brighton,2
+700,10/17,2,2,England - Premier League,EN,Everton,Liverpool,0
+701,09/12,4,3,England - Premier League,EN,Liverpool,Leeds Utd,1
+702,09/20,0,2,England - Premier League,EN,Liverpool,Chelsea,-2
+703,09/28,3,1,England - Premier League,EN,Liverpool,Arsenal,2
+704,10/04,7,2,England - Premier League,EN,Liverpool,Aston Villa,5
+705,10/17,2,2,England - Premier League,EN,Liverpool,Everton,0
+706,09/21,1,0,England - Premier League,EN,Aston Villa,Sheffield Utd,1
+707,09/28,0,3,England - Premier League,EN,Aston Villa,Fulham,-3
+708,10/04,7,2,England - Premier League,EN,Aston Villa,Liverpool,5
+709,09/13,0,3,England - Premier League,EN,Leicester City,West Brom,-3
+710,09/20,4,2,England - Premier League,EN,Leicester City,Burnley,2
+711,09/27,2,5,England - Premier League,EN,Leicester City,Manchester City,-3
+712,10/04,0,3,England - Premier League,EN,Leicester City,West Ham Utd,-3
+713,09/12,0,3,England - Premier League,EN,Arsenal,Fulham,-3
+714,09/19,2,1,England - Premier League,EN,Arsenal,West Ham Utd,1
+715,09/28,3,1,England - Premier League,EN,Arsenal,Liverpool,2
+716,10/04,2,1,England - Premier League,EN,Arsenal,Sheffield Utd,1
+717,10/17,1,0,England - Premier League,EN,Arsenal,Manchester City,1
+718,09/14,1,3,England - Premier League,EN,Chelsea,Brighton,-2
+719,09/20,0,2,England - Premier League,EN,Chelsea,Liverpool,-2
+720,09/26,3,3,England - Premier League,EN,Chelsea,West Brom,0
+721,10/03,4,0,England - Premier League,EN,Chelsea,Crystal Palace,4
+722,10/17,3,3,England - Premier League,EN,Chelsea,Southampton,0
+723,09/13,0,1,England - Premier League,EN,Tottenham,Everton,-1
+724,09/20,2,5,England - Premier League,EN,Tottenham,Southampton,-3
+725,09/27,1,1,England - Premier League,EN,Tottenham,Newcastle Utd,0
+726,10/04,1,6,England - Premier League,EN,Tottenham,Manchester Utd,-5
+727,09/12,4,3,England - Premier League,EN,Leeds Utd,Liverpool,1
+728,09/19,4,3,England - Premier League,EN,Leeds Utd,Fulham,1
+729,09/27,0,1,England - Premier League,EN,Leeds Utd,Sheffield Utd,-1
+730,10/03,1,1,England - Premier League,EN,Leeds Utd,Manchester City,0
+731,09/21,1,3,England - Premier League,EN,Manchester City,Wolverhampton,-2
+732,09/27,2,5,England - Premier League,EN,Manchester City,Leicester City,-3
+733,10/03,1,1,England - Premier League,EN,Manchester City,Leeds Utd,0
+734,10/17,1,0,England - Premier League,EN,Manchester City,Arsenal,1
+735,09/12,1,0,England - Premier League,EN,Southampton,Crystal Palace,1
+736,09/20,2,5,England - Premier League,EN,Southampton,Tottenham,-3
+737,09/26,0,1,England - Premier League,EN,Southampton,Burnley,-1
+738,10/04,2,0,England - Premier League,EN,Southampton,West Brom,2
+739,10/17,3,3,England - Premier League,EN,Southampton,Chelsea,0
+740,09/12,0,2,England - Premier League,EN,Newcastle Utd,West Ham Utd,-2
+741,09/20,0,3,England - Premier League,EN,Newcastle Utd,Brighton,-3
+742,09/27,1,1,England - Premier League,EN,Newcastle Utd,Tottenham,0
+743,10/03,3,1,England - Premier League,EN,Newcastle Utd,Burnley,2
+744,10/17,1,4,England - Premier League,EN,Newcastle Utd,Manchester Utd,-3
+745,09/12,0,2,England - Premier League,EN,West Ham Utd,Newcastle Utd,-2
+746,09/19,2,1,England - Premier League,EN,West Ham Utd,Arsenal,1
+747,09/27,4,0,England - Premier League,EN,West Ham Utd,Wolverhampton,4
+748,10/04,0,3,England - Premier League,EN,West Ham Utd,Leicester City,-3
+749,09/12,1,0,England - Premier League,EN,Crystal Palace,Southampton,1
+750,09/19,1,3,England - Premier League,EN,Crystal Palace,Manchester Utd,-2
+751,09/26,1,2,England - Premier League,EN,Crystal Palace,Everton,-1
+752,10/03,4,0,England - Premier League,EN,Crystal Palace,Chelsea,4
+753,09/19,1,3,England - Premier League,EN,Manchester Utd,Crystal Palace,-2
+754,09/26,2,3,England - Premier League,EN,Manchester Utd,Brighton,-1
+755,10/04,1,6,England - Premier League,EN,Manchester Utd,Tottenham,-5
+756,10/17,1,4,England - Premier League,EN,Manchester Utd,Newcastle Utd,-3
+757,09/14,0,2,England - Premier League,EN,Wolverhampton,Sheffield Utd,-2
+758,09/21,1,3,England - Premier League,EN,Wolverhampton,Manchester City,-2
+759,09/27,4,0,England - Premier League,EN,Wolverhampton,West Ham Utd,4
+760,10/04,1,0,England - Premier League,EN,Wolverhampton,Fulham,1
+761,09/14,1,3,England - Premier League,EN,Brighton,Chelsea,-2
+762,09/20,0,3,England - Premier League,EN,Brighton,Newcastle Utd,-3
+763,09/26,2,3,England - Premier League,EN,Brighton,Manchester Utd,-1
+764,10/03,4,2,England - Premier League,EN,Brighton,Everton,2
+765,09/13,0,3,England - Premier League,EN,West Brom,Leicester City,-3
+766,09/19,5,2,England - Premier League,EN,West Brom,Everton,3
+767,09/26,3,3,England - Premier League,EN,West Brom,Chelsea,0
+768,10/04,2,0,England - Premier League,EN,West Brom,Southampton,2
+769,09/20,4,2,England - Premier League,EN,Burnley,Leicester City,2
+770,09/26,0,1,England - Premier League,EN,Burnley,Southampton,-1
+771,10/03,3,1,England - Premier League,EN,Burnley,Newcastle Utd,2
+772,09/14,0,2,England - Premier League,EN,Sheffield Utd,Wolverhampton,-2
+773,09/21,1,0,England - Premier League,EN,Sheffield Utd,Aston Villa,1
+774,09/27,0,1,England - Premier League,EN,Sheffield Utd,Leeds Utd,-1
+775,10/04,2,1,England - Premier League,EN,Sheffield Utd,Arsenal,1
+776,09/12,0,3,England - Premier League,EN,Fulham,Arsenal,-3
+777,09/19,4,3,England - Premier League,EN,Fulham,Leeds Utd,1
+778,09/28,0,3,England - Premier League,EN,Fulham,Aston Villa,-3
+779,10/04,1,0,England - Premier League,EN,Fulham,Wolverhampton,1
+780,09/12,2,1,England - Championship,E2,Bristol City,Coventry City,1
+781,09/20,0,2,England - Championship,E2,Bristol City,Stoke City,-2
+782,09/27,2,0,England - Championship,E2,Bristol City,Sheffield Wed,2
+783,10/03,1,2,England - Championship,E2,Bristol City,Nottm Forest,-1
+784,10/17,2,2,England - Championship,E2,Bristol City,Barnsley,0
+785,09/12,0,2,England - Championship,E2,Reading,Derby County,-2
+786,09/19,2,0,England - Championship,E2,Reading,Barnsley,2
+787,09/26,1,2,England - Championship,E2,Reading,Cardiff City,-1
+788,10/03,1,0,England - Championship,E2,Reading,Watford,1
+789,10/17,0,0,England - Championship,E2,Reading,Middlesbrough,0
+790,09/12,3,2,England - Championship,E2,Bournemouth,Blackburn,1
+791,09/19,1,1,England - Championship,E2,Bournemouth,Middlesbrough,0
+792,09/27,1,0,England - Championship,E2,Bournemouth,Norwich City,1
+793,10/02,1,3,England - Championship,E2,Bournemouth,Coventry City,-2
+794,10/17,0,0,England - Championship,E2,Bournemouth,QP Rangers,0
+795,09/12,0,1,England - Championship,E2,Swansea City,Preston,-1
+796,09/19,0,0,England - Championship,E2,Swansea City,Birmingham City,0
+797,09/26,0,2,England - Championship,E2,Swansea City,Wycombe,-2
+798,10/03,2,1,England - Championship,E2,Swansea City,Millwall,1
+799,10/17,1,2,England - Championship,E2,Swansea City,Huddersfield,-1
+800,09/11,1,0,England - Championship,E2,Watford,Middlesbrough,1
+801,09/19,0,0,England - Championship,E2,Watford,Sheffield Wed,0
+802,09/26,1,0,England - Championship,E2,Watford,Luton Town,1
+803,10/03,1,0,England - Championship,E2,Watford,Reading,1
+804,10/16,0,1,England - Championship,E2,Watford,Derby County,-1
+805,09/12,0,1,England - Championship,E2,Luton Town,Barnsley,-1
+806,09/19,2,1,England - Championship,E2,Luton Town,Derby County,1
+807,09/26,1,0,England - Championship,E2,Luton Town,Watford,1
+808,10/03,2,0,England - Championship,E2,Luton Town,Wycombe,2
+809,10/17,0,2,England - Championship,E2,Luton Town,Stoke City,-2
+810,09/12,0,0,England - Championship,E2,Millwall,Stoke City,0
+811,09/19,0,1,England - Championship,E2,Millwall,Rotherham,-1
+812,09/26,1,1,England - Championship,E2,Millwall,Brentford,0
+813,10/03,2,1,England - Championship,E2,Millwall,Swansea City,1
+814,10/17,1,2,England - Championship,E2,Millwall,Wycombe,-1
+815,09/12,0,0,England - Championship,E2,Stoke City,Millwall,0
+816,09/20,0,2,England - Championship,E2,Stoke City,Bristol City,-2
+817,09/26,0,1,England - Championship,E2,Stoke City,Preston,-1
+818,10/04,1,1,England - Championship,E2,Stoke City,Birmingham City,0
+819,10/17,0,2,England - Championship,E2,Stoke City,Luton Town,-2
+820,09/12,3,2,England - Championship,E2,Blackburn,Bournemouth,1
+821,09/19,5,0,England - Championship,E2,Blackburn,Wycombe,5
+822,09/26,0,4,England - Championship,E2,Blackburn,Derby County,-4
+823,10/03,0,0,England - Championship,E2,Blackburn,Cardiff City,0
+824,10/17,0,1,England - Championship,E2,Blackburn,Nottm Forest,-1
+825,09/12,1,0,England - Championship,E2,Brentford,Birmingham City,1
+826,09/19,3,0,England - Championship,E2,Brentford,Huddersfield,3
+827,09/26,1,1,England - Championship,E2,Brentford,Millwall,0
+828,10/04,2,4,England - Championship,E2,Brentford,Preston,-2
+829,10/17,2,0,England - Championship,E2,Brentford,Coventry City,2
+830,09/12,0,1,England - Championship,E2,Norwich City,Huddersfield,-1
+831,09/19,2,2,England - Championship,E2,Norwich City,Preston,0
+832,09/27,1,0,England - Championship,E2,Norwich City,Bournemouth,1
+833,10/03,0,1,England - Championship,E2,Norwich City,Derby County,-1
+834,10/17,1,2,England - Championship,E2,Norwich City,Rotherham,-1
+835,09/12,0,1,England - Championship,E2,Huddersfield,Norwich City,-1
+836,09/19,3,0,England - Championship,E2,Huddersfield,Brentford,3
+837,09/25,1,0,England - Championship,E2,Huddersfield,Nottm Forest,1
+838,10/03,1,1,England - Championship,E2,Huddersfield,Rotherham,0
+839,10/17,1,2,England - Championship,E2,Huddersfield,Swansea City,-1
+840,09/12,2,0,England - Championship,E2,QP Rangers,Nottm Forest,2
+841,09/18,3,2,England - Championship,E2,QP Rangers,Coventry City,1
+842,09/26,1,1,England - Championship,E2,QP Rangers,Middlesbrough,0
+843,10/03,1,1,England - Championship,E2,QP Rangers,Sheffield Wed,0
+844,10/17,0,0,England - Championship,E2,QP Rangers,Bournemouth,0
+845,09/11,1,0,England - Championship,E2,Middlesbrough,Watford,1
+846,09/19,1,1,England - Championship,E2,Middlesbrough,Bournemouth,0
+847,09/26,1,1,England - Championship,E2,Middlesbrough,QP Rangers,0
+848,10/03,2,1,England - Championship,E2,Middlesbrough,Barnsley,1
+849,10/17,0,0,England - Championship,E2,Middlesbrough,Reading,0
+850,09/12,1,0,England - Championship,E2,Birmingham City,Brentford,1
+851,09/19,0,0,England - Championship,E2,Birmingham City,Swansea City,0
+852,09/26,1,1,England - Championship,E2,Birmingham City,Rotherham,0
+853,10/04,1,1,England - Championship,E2,Birmingham City,Stoke City,0
+854,10/17,0,1,England - Championship,E2,Birmingham City,Sheffield Wed,-1
+855,09/12,0,1,England - Championship,E2,Rotherham,Wycombe,-1
+856,09/19,0,1,England - Championship,E2,Rotherham,Millwall,-1
+857,09/26,1,1,England - Championship,E2,Rotherham,Birmingham City,0
+858,10/03,1,1,England - Championship,E2,Rotherham,Huddersfield,0
+859,10/17,1,2,England - Championship,E2,Rotherham,Norwich City,-1
+860,09/12,0,1,England - Championship,E2,Preston,Swansea City,-1
+861,09/19,2,2,England - Championship,E2,Preston,Norwich City,0
+862,09/26,0,1,England - Championship,E2,Preston,Stoke City,-1
+863,10/04,2,4,England - Championship,E2,Preston,Brentford,-2
+864,09/12,0,2,England - Championship,E2,Cardiff City,Sheffield Wed,-2
+865,09/19,0,2,England - Championship,E2,Cardiff City,Nottm Forest,-2
+866,09/26,1,2,England - Championship,E2,Cardiff City,Reading,-1
+867,10/03,0,0,England - Championship,E2,Cardiff City,Blackburn,0
+868,09/12,2,1,England - Championship,E2,Coventry City,Bristol City,1
+869,09/18,3,2,England - Championship,E2,Coventry City,QP Rangers,1
+870,09/26,0,0,England - Championship,E2,Coventry City,Barnsley,0
+871,10/02,1,3,England - Championship,E2,Coventry City,Bournemouth,-2
+872,10/17,2,0,England - Championship,E2,Coventry City,Brentford,2
+873,09/12,2,0,England - Championship,E2,Nottm Forest,QP Rangers,2
+874,09/19,0,2,England - Championship,E2,Nottm Forest,Cardiff City,-2
+875,09/25,1,0,England - Championship,E2,Nottm Forest,Huddersfield,1
+876,10/03,1,2,England - Championship,E2,Nottm Forest,Bristol City,-1
+877,10/17,0,1,England - Championship,E2,Nottm Forest,Blackburn,-1
+878,09/12,0,2,England - Championship,E2,Derby County,Reading,-2
+879,09/19,2,1,England - Championship,E2,Derby County,Luton Town,1
+880,09/26,0,4,England - Championship,E2,Derby County,Blackburn,-4
+881,10/03,0,1,England - Championship,E2,Derby County,Norwich City,-1
+882,10/16,0,1,England - Championship,E2,Derby County,Watford,-1
+883,09/12,0,1,England - Championship,E2,Barnsley,Luton Town,-1
+884,09/19,2,0,England - Championship,E2,Barnsley,Reading,2
+885,09/26,0,0,England - Championship,E2,Barnsley,Coventry City,0
+886,10/03,2,1,England - Championship,E2,Barnsley,Middlesbrough,1
+887,10/17,2,2,England - Championship,E2,Barnsley,Bristol City,0
+888,09/12,0,1,England - Championship,E2,Wycombe,Rotherham,-1
+889,09/19,5,0,England - Championship,E2,Wycombe,Blackburn,5
+890,09/26,0,2,England - Championship,E2,Wycombe,Swansea City,-2
+891,10/03,2,0,England - Championship,E2,Wycombe,Luton Town,2
+892,10/17,1,2,England - Championship,E2,Wycombe,Millwall,-1
+893,09/12,0,2,England - Championship,E2,Sheffield Wed,Cardiff City,-2
+894,09/19,0,0,England - Championship,E2,Sheffield Wed,Watford,0
+895,09/27,2,0,England - Championship,E2,Sheffield Wed,Bristol City,2
+896,10/03,1,1,England - Championship,E2,Sheffield Wed,QP Rangers,0
+897,10/17,0,1,England - Championship,E2,Sheffield Wed,Birmingham City,-1
+898,09/13,2,0,England - League One,E3,Ipswich Town,Wigan Athletic,2
+899,09/19,0,2,England - League One,E3,Ipswich Town,Bristol Rovers,-2
+900,09/26,2,0,England - League One,E3,Ipswich Town,Rochdale,2
+901,10/03,1,1,England - League One,E3,Ipswich Town,Milton Keynes,0
+902,10/10,1,4,England - League One,E3,Ipswich Town,Blackpool,-3
+903,10/17,2,0,England - League One,E3,Ipswich Town,Accrington,2
+904,09/12,0,2,England - League One,E3,Hull City,Gillingham,-2
+905,09/19,1,0,England - League One,E3,Hull City,Crewe Alexandra,1
+906,09/26,0,2,England - League One,E3,Hull City,Northampton,-2
+907,10/03,1,0,England - League One,E3,Hull City,Plymouth,1
+908,10/09,4,1,England - League One,E3,Hull City,Fleetwood,3
+909,10/17,0,3,England - League One,E3,Hull City,Rochdale,-3
+910,09/12,2,0,England - League One,E3,Lincoln City,Oxford Utd,2
+911,09/19,1,2,England - League One,E3,Lincoln City,Milton Keynes,-1
+912,09/27,2,0,England - League One,E3,Lincoln City,Charlton,2
+913,10/03,2,3,England - League One,E3,Lincoln City,Blackpool,-1
+914,10/10,1,2,England - League One,E3,Lincoln City,Bristol Rovers,-1
+915,10/17,0,0,England - League One,E3,Lincoln City,Fleetwood,0
+916,09/12,2,0,England - League One,E3,Peterborough,Accrington,2
+917,09/19,2,1,England - League One,E3,Peterborough,Fleetwood,1
+918,09/26,1,0,England - League One,E3,Peterborough,Sunderland,1
+919,10/03,3,1,England - League One,E3,Peterborough,Swindon Town,2
+920,10/10,0,2,England - League One,E3,Peterborough,Northampton,-2
+921,10/17,2,0,England - League One,E3,Peterborough,Oxford Utd,2
+922,09/12,1,1,England - League One,E3,Sunderland,Bristol Rovers,0
+923,09/19,0,2,England - League One,E3,Sunderland,Oxford Utd,-2
+924,09/26,1,0,England - League One,E3,Sunderland,Peterborough,1
+925,10/03,0,0,England - League One,E3,Sunderland,Charlton,0
+926,10/17,0,2,England - League One,E3,Sunderland,Swindon Town,-2
+927,09/12,1,0,England - League One,E3,Plymouth,Blackpool,1
+928,09/19,4,4,England - League One,E3,Plymouth,AFC Wimbledon,0
+929,09/26,1,1,England - League One,E3,Plymouth,Shrewsbury,0
+930,10/03,1,0,England - League One,E3,Plymouth,Hull City,1
+931,10/10,2,0,England - League One,E3,Plymouth,Burton Albion,2
+932,10/17,2,1,England - League One,E3,Plymouth,Northampton,1
+933,09/12,1,1,England - League One,E3,Doncaster,Milton Keynes,0
+934,09/19,1,3,England - League One,E3,Doncaster,Charlton,-2
+935,09/26,4,1,England - League One,E3,Doncaster,Bristol Rovers,3
+936,10/03,1,0,England - League One,E3,Doncaster,Wigan Athletic,1
+937,10/17,0,1,England - League One,E3,Doncaster,Portsmouth,-1
+938,09/12,0,2,England - League One,E3,Gillingham,Hull City,-2
+939,09/19,2,3,England - League One,E3,Gillingham,Wigan Athletic,-1
+940,09/26,2,0,England - League One,E3,Gillingham,Blackpool,2
+941,10/03,1,1,England - League One,E3,Gillingham,Shrewsbury,0
+942,10/10,3,1,England - League One,E3,Gillingham,Oxford Utd,2
+943,10/17,2,0,England - League One,E3,Gillingham,Milton Keynes,2
+944,09/12,2,0,England - League One,E3,Accrington,Peterborough,2
+945,09/19,2,1,England - League One,E3,Accrington,Burton Albion,1
+946,09/26,1,4,England - League One,E3,Accrington,Oxford Utd,-3
+947,10/03,1,2,England - League One,E3,Accrington,AFC Wimbledon,-1
+948,10/10,2,1,England - League One,E3,Accrington,Rochdale,1
+949,10/17,2,0,England - League One,E3,Accrington,Ipswich Town,2
+950,09/12,0,0,England - League One,E3,Portsmouth,Shrewsbury,0
+951,09/20,0,0,England - League One,E3,Portsmouth,Rochdale,0
+952,09/26,1,2,England - League One,E3,Portsmouth,Wigan Athletic,-1
+953,10/03,2,4,England - League One,E3,Portsmouth,Burton Albion,-2
+954,10/10,2,1,England - League One,E3,Portsmouth,Milton Keynes,1
+955,10/17,0,1,England - League One,E3,Portsmouth,Doncaster,-1
+956,09/12,2,2,England - League One,E3,AFC Wimbledon,Northampton,0
+957,09/19,4,4,England - League One,E3,AFC Wimbledon,Plymouth,0
+958,09/26,0,1,England - League One,E3,AFC Wimbledon,Fleetwood,-1
+959,10/03,1,2,England - League One,E3,AFC Wimbledon,Accrington,-1
+960,10/10,0,1,England - League One,E3,AFC Wimbledon,Swindon Town,-1
+961,10/17,0,1,England - League One,E3,AFC Wimbledon,Shrewsbury,-1
+962,09/12,1,1,England - League One,E3,Bristol Rovers,Sunderland,0
+963,09/19,0,2,England - League One,E3,Bristol Rovers,Ipswich Town,-2
+964,09/26,4,1,England - League One,E3,Bristol Rovers,Doncaster,3
+965,10/03,2,0,England - League One,E3,Bristol Rovers,Northampton,2
+966,10/10,1,2,England - League One,E3,Bristol Rovers,Lincoln City,-1
+967,10/17,1,1,England - League One,E3,Bristol Rovers,Burton Albion,0
+968,09/12,0,2,England - League One,E3,Crewe Alexandra,Charlton,-2
+969,09/19,1,0,England - League One,E3,Crewe Alexandra,Hull City,1
+970,09/26,2,0,England - League One,E3,Crewe Alexandra,Milton Keynes,2
+971,10/10,3,0,England - League One,E3,Crewe Alexandra,Wigan Athletic,3
+972,10/17,1,1,England - League One,E3,Crewe Alexandra,Blackpool,0
+973,09/12,2,1,England - League One,E3,Fleetwood,Burton Albion,1
+974,09/19,2,1,England - League One,E3,Fleetwood,Peterborough,1
+975,09/26,0,1,England - League One,E3,Fleetwood,AFC Wimbledon,-1
+976,10/03,2,1,England - League One,E3,Fleetwood,Rochdale,1
+977,10/09,4,1,England - League One,E3,Fleetwood,Hull City,3
+978,10/17,0,0,England - League One,E3,Fleetwood,Lincoln City,0
+979,09/12,0,2,England - League One,E3,Charlton,Crewe Alexandra,-2
+980,09/19,1,3,England - League One,E3,Charlton,Doncaster,-2
+981,09/27,2,0,England - League One,E3,Charlton,Lincoln City,2
+982,10/03,0,0,England - League One,E3,Charlton,Sunderland,0
+983,10/17,1,0,England - League One,E3,Charlton,Wigan Athletic,1
+984,09/12,0,0,England - League One,E3,Shrewsbury,Portsmouth,0
+985,09/19,1,2,England - League One,E3,Shrewsbury,Northampton,-1
+986,09/26,1,1,England - League One,E3,Shrewsbury,Plymouth,0
+987,10/03,1,1,England - League One,E3,Shrewsbury,Gillingham,0
+988,10/17,0,1,England - League One,E3,Shrewsbury,AFC Wimbledon,-1
+989,09/12,3,1,England - League One,E3,Swindon Town,Rochdale,2
+990,09/19,2,0,England - League One,E3,Swindon Town,Blackpool,2
+991,09/26,4,2,England - League One,E3,Swindon Town,Burton Albion,2
+992,10/03,3,1,England - League One,E3,Swindon Town,Peterborough,2
+993,10/10,0,1,England - League One,E3,Swindon Town,AFC Wimbledon,-1
+994,10/17,0,2,England - League One,E3,Swindon Town,Sunderland,-2
+995,09/13,2,0,England - League One,E3,Wigan Athletic,Ipswich Town,2
+996,09/19,2,3,England - League One,E3,Wigan Athletic,Gillingham,-1
+997,09/26,1,2,England - League One,E3,Wigan Athletic,Portsmouth,-1
+998,10/03,1,0,England - League One,E3,Wigan Athletic,Doncaster,1
+999,10/10,3,0,England - League One,E3,Wigan Athletic,Crewe Alexandra,3
+1000,10/17,1,0,England - League One,E3,Wigan Athletic,Charlton,1
+1001,09/12,1,1,England - League One,E3,Milton Keynes,Doncaster,0
+1002,09/19,1,2,England - League One,E3,Milton Keynes,Lincoln City,-1
+1003,09/26,2,0,England - League One,E3,Milton Keynes,Crewe Alexandra,2
+1004,10/03,1,1,England - League One,E3,Milton Keynes,Ipswich Town,0
+1005,10/10,2,1,England - League One,E3,Milton Keynes,Portsmouth,1
+1006,10/17,2,0,England - League One,E3,Milton Keynes,Gillingham,2
+1007,09/12,1,0,England - League One,E3,Blackpool,Plymouth,1
+1008,09/19,2,0,England - League One,E3,Blackpool,Swindon Town,2
+1009,09/26,2,0,England - League One,E3,Blackpool,Gillingham,2
+1010,10/03,2,3,England - League One,E3,Blackpool,Lincoln City,-1
+1011,10/10,1,4,England - League One,E3,Blackpool,Ipswich Town,-3
+1012,10/17,1,1,England - League One,E3,Blackpool,Crewe Alexandra,0
+1013,09/12,2,1,England - League One,E3,Burton Albion,Fleetwood,1
+1014,09/19,2,1,England - League One,E3,Burton Albion,Accrington,1
+1015,09/26,4,2,England - League One,E3,Burton Albion,Swindon Town,2
+1016,10/03,2,4,England - League One,E3,Burton Albion,Portsmouth,-2
+1017,10/10,2,0,England - League One,E3,Burton Albion,Plymouth,2
+1018,10/17,1,1,England - League One,E3,Burton Albion,Bristol Rovers,0
+1019,09/12,2,2,England - League One,E3,Northampton,AFC Wimbledon,0
+1020,09/19,1,2,England - League One,E3,Northampton,Shrewsbury,-1
+1021,09/26,0,2,England - League One,E3,Northampton,Hull City,-2
+1022,10/03,2,0,England - League One,E3,Northampton,Bristol Rovers,2
+1023,10/10,0,2,England - League One,E3,Northampton,Peterborough,-2
+1024,10/17,2,1,England - League One,E3,Northampton,Plymouth,1
+1025,09/12,3,1,England - League One,E3,Rochdale,Swindon Town,2
+1026,09/20,0,0,England - League One,E3,Rochdale,Portsmouth,0
+1027,09/26,2,0,England - League One,E3,Rochdale,Ipswich Town,2
+1028,10/03,2,1,England - League One,E3,Rochdale,Fleetwood,1
+1029,10/10,2,1,England - League One,E3,Rochdale,Accrington,1
+1030,10/17,0,3,England - League One,E3,Rochdale,Hull City,-3
+1031,09/12,2,0,England - League One,E3,Oxford Utd,Lincoln City,2
+1032,09/19,0,2,England - League One,E3,Oxford Utd,Sunderland,-2
+1033,09/26,1,4,England - League One,E3,Oxford Utd,Accrington,-3
+1034,10/10,3,1,England - League One,E3,Oxford Utd,Gillingham,2
+1035,10/17,2,0,England - League One,E3,Oxford Utd,Peterborough,2
+1036,09/12,3,0,England - League Two,E4,Cambridge Utd,Carlisle Utd,3
+1037,09/19,0,5,England - League Two,E4,Cambridge Utd,Morecambe,-5
+1038,09/26,0,0,England - League Two,E4,Cambridge Utd,Tranmere,0
+1039,10/03,2,0,England - League Two,E4,Cambridge Utd,Exeter City,2
+1040,10/10,2,1,England - League Two,E4,Cambridge Utd,Newport,1
+1041,10/17,0,5,England - League Two,E4,Cambridge Utd,Scunthorpe,-5
+1042,09/12,1,1,England - League Two,E4,Newport,Scunthorpe,0
+1043,09/19,2,1,England - League Two,E4,Newport,Barrow,1
+1044,09/26,0,2,England - League Two,E4,Newport,Bolton,-2
+1045,10/03,2,1,England - League Two,E4,Newport,Mansfield,1
+1046,10/10,2,1,England - League Two,E4,Newport,Cambridge Utd,1
+1047,10/17,1,0,England - League Two,E4,Newport,Tranmere,1
+1048,09/12,1,2,England - League Two,E4,Cheltenham,Morecambe,-1
+1049,09/19,0,3,England - League Two,E4,Cheltenham,Tranmere,-3
+1050,10/03,0,2,England - League Two,E4,Cheltenham,Leyton Orient,-2
+1051,10/10,2,0,England - League Two,E4,Cheltenham,Crawley Town,2
+1052,10/13,1,3,England - League Two,E4,Cheltenham,Grimsby,-2
+1053,10/17,0,2,England - League Two,E4,Cheltenham,Southend Utd,-2
+1054,09/12,0,1,England - League Two,E4,Forest Green,Bolton,-1
+1055,09/19,2,2,England - League Two,E4,Forest Green,Bradford,0
+1056,09/26,0,0,England - League Two,E4,Forest Green,Salford City,0
+1057,10/03,1,1,England - League Two,E4,Forest Green,Walsall,0
+1058,10/10,1,4,England - League Two,E4,Forest Green,Scunthorpe,-3
+1059,10/17,1,0,England - League Two,E4,Forest Green,Stevenage,1
+1060,09/12,3,0,England - League Two,E4,Carlisle Utd,Cambridge Utd,3
+1061,09/19,2,0,England - League Two,E4,Carlisle Utd,Southend Utd,2
+1062,09/26,1,0,England - League Two,E4,Carlisle Utd,Scunthorpe,1
+1063,10/03,1,0,England - League Two,E4,Carlisle Utd,Barrow,1
+1064,10/10,0,1,England - League Two,E4,Carlisle Utd,Port Vale,-1
+1065,10/17,3,2,England - League Two,E4,Carlisle Utd,Colchester Utd,1
+1066,09/12,1,2,England - League Two,E4,Morecambe,Cheltenham,-1
+1067,09/19,0,5,England - League Two,E4,Morecambe,Cambridge Utd,-5
+1068,09/26,1,2,England - League Two,E4,Morecambe,Southend Utd,-1
+1069,10/03,1,0,England - League Two,E4,Morecambe,Port Vale,1
+1070,10/10,2,3,England - League Two,E4,Morecambe,Oldham,-1
+1071,10/17,4,0,England - League Two,E4,Morecambe,Crawley Town,4
+1072,09/12,0,4,England - League Two,E4,Harrogate,Southend Utd,-4
+1073,09/19,2,2,England - League Two,E4,Harrogate,Walsall,0
+1074,09/26,0,0,England - League Two,E4,Harrogate,Port Vale,0
+1075,10/03,1,2,England - League Two,E4,Harrogate,Bolton,-1
+1076,10/12,0,1,England - League Two,E4,Harrogate,Bradford,-1
+1077,10/17,1,0,England - League Two,E4,Harrogate,Barrow,1
+1078,09/12,2,0,England - League Two,E4,Port Vale,Crawley Town,2
+1079,09/19,0,2,England - League Two,E4,Port Vale,Exeter City,-2
+1080,09/26,0,0,England - League Two,E4,Port Vale,Harrogate,0
+1081,10/03,1,0,England - League Two,E4,Port Vale,Morecambe,1
+1082,10/10,0,1,England - League Two,E4,Port Vale,Carlisle Utd,-1
+1083,10/17,1,0,England - League Two,E4,Port Vale,Salford City,1
+1084,09/12,2,0,England - League Two,E4,Crawley Town,Port Vale,2
+1085,09/19,1,0,England - League Two,E4,Crawley Town,Scunthorpe,1
+1086,09/26,2,3,England - League Two,E4,Crawley Town,Oldham,-1
+1087,10/03,1,1,England - League Two,E4,Crawley Town,Southend Utd,0
+1088,10/10,2,0,England - League Two,E4,Crawley Town,Cheltenham,2
+1089,10/17,4,0,England - League Two,E4,Crawley Town,Morecambe,4
+1090,09/12,1,0,England - League Two,E4,Walsall,Grimsby,1
+1091,09/19,2,2,England - League Two,E4,Walsall,Harrogate,0
+1092,10/03,1,1,England - League Two,E4,Walsall,Forest Green,0
+1093,10/10,1,1,England - League Two,E4,Walsall,Colchester Utd,0
+1094,10/13,2,1,England - League Two,E4,Walsall,Leyton Orient,1
+1095,10/17,0,0,England - League Two,E4,Walsall,Exeter City,0
+1096,09/12,2,2,England - League Two,E4,Salford City,Exeter City,0
+1097,09/19,0,4,England - League Two,E4,Salford City,Grimsby,-4
+1098,09/26,0,0,England - League Two,E4,Salford City,Forest Green,0
+1099,10/03,0,1,England - League Two,E4,Salford City,Stevenage,-1
+1100,10/10,2,2,England - League Two,E4,Salford City,Tranmere,0
+1101,10/17,1,0,England - League Two,E4,Salford City,Port Vale,1
+1102,09/12,2,2,England - League Two,E4,Exeter City,Salford City,0
+1103,09/19,0,2,England - League Two,E4,Exeter City,Port Vale,-2
+1104,09/26,1,2,England - League Two,E4,Exeter City,Mansfield,-1
+1105,10/03,2,0,England - League Two,E4,Exeter City,Cambridge Utd,2
+1106,10/10,2,2,England - League Two,E4,Exeter City,Southend Utd,0
+1107,10/17,0,0,England - League Two,E4,Exeter City,Walsall,0
+1108,09/12,0,0,England - League Two,E4,Bradford,Colchester Utd,0
+1109,09/19,2,2,England - League Two,E4,Bradford,Forest Green,0
+1110,09/26,2,1,England - League Two,E4,Bradford,Stevenage,1
+1111,10/12,0,1,England - League Two,E4,Bradford,Harrogate,-1
+1112,10/17,1,3,England - League Two,E4,Bradford,Mansfield,-2
+1113,09/12,0,0,England - League Two,E4,Colchester Utd,Bradford,0
+1114,09/19,2,0,England - League Two,E4,Colchester Utd,Bolton,2
+1115,09/26,1,1,England - League Two,E4,Colchester Utd,Barrow,0
+1116,10/03,3,3,England - League Two,E4,Colchester Utd,Oldham,0
+1117,10/10,1,1,England - League Two,E4,Colchester Utd,Walsall,0
+1118,10/17,3,2,England - League Two,E4,Colchester Utd,Carlisle Utd,1
+1119,09/12,1,0,England - League Two,E4,Grimsby,Walsall,1
+1120,09/19,0,4,England - League Two,E4,Grimsby,Salford City,-4
+1121,10/10,0,0,England - League Two,E4,Grimsby,Bolton,0
+1122,10/13,1,3,England - League Two,E4,Grimsby,Cheltenham,-2
+1123,10/17,2,3,England - League Two,E4,Grimsby,Leyton Orient,-1
+1124,09/12,0,0,England - League Two,E4,Tranmere,Mansfield,0
+1125,09/19,0,3,England - League Two,E4,Tranmere,Cheltenham,-3
+1126,09/26,0,0,England - League Two,E4,Tranmere,Cambridge Utd,0
+1127,10/03,2,0,England - League Two,E4,Tranmere,Scunthorpe,2
+1128,10/10,2,2,England - League Two,E4,Tranmere,Salford City,0
+1129,10/17,1,0,England - League Two,E4,Tranmere,Newport,1
+1130,09/12,1,1,England - League Two,E4,Stevenage,Barrow,0
+1131,09/19,3,0,England - League Two,E4,Stevenage,Oldham,3
+1132,09/26,2,1,England - League Two,E4,Stevenage,Bradford,1
+1133,10/03,0,1,England - League Two,E4,Stevenage,Salford City,-1
+1134,10/10,0,0,England - League Two,E4,Stevenage,Mansfield,0
+1135,10/17,1,0,England - League Two,E4,Stevenage,Forest Green,1
+1136,09/12,0,1,England - League Two,E4,Leyton Orient,Oldham,-1
+1137,09/19,2,2,England - League Two,E4,Leyton Orient,Mansfield,0
+1138,10/03,0,2,England - League Two,E4,Leyton Orient,Cheltenham,-2
+1139,10/10,1,1,England - League Two,E4,Leyton Orient,Barrow,0
+1140,10/13,2,1,England - League Two,E4,Leyton Orient,Walsall,1
+1141,10/17,2,3,England - League Two,E4,Leyton Orient,Grimsby,-1
+1142,09/12,0,1,England - League Two,E4,Oldham,Leyton Orient,-1
+1143,09/19,3,0,England - League Two,E4,Oldham,Stevenage,3
+1144,09/26,2,3,England - League Two,E4,Oldham,Crawley Town,-1
+1145,10/03,3,3,England - League Two,E4,Oldham,Colchester Utd,0
+1146,10/10,2,3,England - League Two,E4,Oldham,Morecambe,-1
+1147,10/17,1,2,England - League Two,E4,Oldham,Bolton,-1
+1148,09/12,0,1,England - League Two,E4,Bolton,Forest Green,-1
+1149,09/19,2,0,England - League Two,E4,Bolton,Colchester Utd,2
+1150,09/26,0,2,England - League Two,E4,Bolton,Newport,-2
+1151,10/03,1,2,England - League Two,E4,Bolton,Harrogate,-1
+1152,10/10,0,0,England - League Two,E4,Bolton,Grimsby,0
+1153,10/17,1,2,England - League Two,E4,Bolton,Oldham,-1
+1154,09/12,1,1,England - League Two,E4,Scunthorpe,Newport,0
+1155,09/19,1,0,England - League Two,E4,Scunthorpe,Crawley Town,1
+1156,09/26,1,0,England - League Two,E4,Scunthorpe,Carlisle Utd,1
+1157,10/03,2,0,England - League Two,E4,Scunthorpe,Tranmere,2
+1158,10/10,1,4,England - League Two,E4,Scunthorpe,Forest Green,-3
+1159,10/17,0,5,England - League Two,E4,Scunthorpe,Cambridge Utd,-5
+1160,09/12,1,1,England - League Two,E4,Barrow,Stevenage,0
+1161,09/19,2,1,England - League Two,E4,Barrow,Newport,1
+1162,09/26,1,1,England - League Two,E4,Barrow,Colchester Utd,0
+1163,10/03,1,0,England - League Two,E4,Barrow,Carlisle Utd,1
+1164,10/10,1,1,England - League Two,E4,Barrow,Leyton Orient,0
+1165,10/17,1,0,England - League Two,E4,Barrow,Harrogate,1
+1166,09/12,0,0,England - League Two,E4,Mansfield,Tranmere,0
+1167,09/19,2,2,England - League Two,E4,Mansfield,Leyton Orient,0
+1168,09/26,1,2,England - League Two,E4,Mansfield,Exeter City,-1
+1169,10/03,2,1,England - League Two,E4,Mansfield,Newport,1
+1170,10/10,0,0,England - League Two,E4,Mansfield,Stevenage,0
+1171,10/17,1,3,England - League Two,E4,Mansfield,Bradford,-2
+1172,09/12,0,4,England - League Two,E4,Southend Utd,Harrogate,-4
+1173,09/19,2,0,England - League Two,E4,Southend Utd,Carlisle Utd,2
+1174,09/26,1,2,England - League Two,E4,Southend Utd,Morecambe,-1
+1175,10/03,1,1,England - League Two,E4,Southend Utd,Crawley Town,0
+1176,10/10,2,2,England - League Two,E4,Southend Utd,Exeter City,0
+1177,10/17,0,2,England - League Two,E4,Southend Utd,Cheltenham,-2
+1178,10/03,1,0,England - National league,E5,Stockport,Torquay Utd,1
+1179,10/06,2,1,England - National league,E5,Stockport,Halifax Town,1
+1180,10/10,3,0,England - National league,E5,Stockport,Dover Athletic,3
+1181,10/13,2,5,England - National league,E5,Stockport,Wealdstone,-3
+1182,10/17,1,2,England - National league,E5,Stockport,Chesterfield,-1
+1183,10/03,1,0,England - National league,E5,Torquay Utd,Stockport,1
+1184,10/06,2,1,England - National league,E5,Torquay Utd,Eastleigh,1
+1185,10/10,1,2,England - National league,E5,Torquay Utd,Bromley,-1
+1186,10/13,2,1,England - National league,E5,Torquay Utd,Chesterfield,1
+1187,10/17,2,0,England - National league,E5,Torquay Utd,Dover Athletic,2
+1188,10/03,2,1,England - National league,E5,Hartlepool,Aldershot Town,1
+1189,10/06,1,2,England - National league,E5,Hartlepool,Chesterfield,-1
+1190,10/10,0,4,England - National league,E5,Hartlepool,Maidenhead Utd,-4
+1191,10/13,0,0,England - National league,E5,Hartlepool,Bromley,0
+1192,10/03,2,1,England - National league,E5,Woking,Solihull Moors,1
+1193,10/06,0,1,England - National league,E5,Woking,Weymouth,-1
+1194,10/10,4,0,England - National league,E5,Woking,Chesterfield,4
+1195,10/13,2,0,England - National league,E5,Woking,Dagenham & R.,2
+1196,10/17,0,0,England - National league,E5,Woking,Halifax Town,0
+1197,10/03,2,1,England - National league,E5,Solihull Moors,Woking,1
+1198,10/06,1,0,England - National league,E5,Solihull Moors,Wrexham,1
+1199,10/10,5,0,England - National league,E5,Solihull Moors,King`s Lynn,5
+1200,10/17,1,0,England - National league,E5,Solihull Moors,Boreham Wood,1
+1201,10/03,3,0,England - National league,E5,Sutton Utd,Maidenhead Utd,3
+1202,10/06,1,2,England - National league,E5,Sutton Utd,Aldershot Town,-1
+1203,10/10,0,1,England - National league,E5,Sutton Utd,Weymouth,-1
+1204,10/13,0,1,England - National league,E5,Sutton Utd,Notts County,-1
+1205,10/03,1,0,England - National league,E5,Notts County,Dover Athletic,1
+1206,10/07,3,1,England - National league,E5,Notts County,Altrincham,2
+1207,10/10,4,2,England - National league,E5,Notts County,Barnet,2
+1208,10/13,0,1,England - National league,E5,Notts County,Sutton Utd,-1
+1209,10/17,2,3,England - National league,E5,Notts County,Maidenhead Utd,-1
+1210,10/03,1,5,England - National league,E5,Eastleigh,Barnet,-4
+1211,10/06,2,1,England - National league,E5,Eastleigh,Torquay Utd,1
+1212,10/10,1,1,England - National league,E5,Eastleigh,Altrincham,0
+1213,10/17,2,2,England - National league,E5,Eastleigh,Aldershot Town,0
+1214,10/03,2,0,England - National league,E5,Halifax Town,Dagenham & R.,2
+1215,10/06,2,1,England - National league,E5,Halifax Town,Stockport,1
+1216,10/10,0,0,England - National league,E5,Halifax Town,Boreham Wood,0
+1217,10/13,1,1,England - National league,E5,Halifax Town,Yeovil Town,0
+1218,10/17,0,0,England - National league,E5,Halifax Town,Woking,0
+1219,10/03,2,1,England - National league,E5,Wrexham,Boreham Wood,1
+1220,10/06,1,0,England - National league,E5,Wrexham,Solihull Moors,1
+1221,10/10,0,1,England - National league,E5,Wrexham,Yeovil Town,-1
+1222,10/12,0,1,England - National league,E5,Wrexham,Maidenhead Utd,-1
+1223,10/17,4,3,England - National league,E5,Wrexham,Wealdstone,1
+1224,10/03,1,5,England - National league,E5,Barnet,Eastleigh,-4
+1225,10/06,1,2,England - National league,E5,Barnet,Dagenham & R.,-1
+1226,10/10,4,2,England - National league,E5,Barnet,Notts County,2
+1227,10/13,1,0,England - National league,E5,Barnet,Weymouth,1
+1228,10/03,3,0,England - National league,E5,Maidenhead Utd,Sutton Utd,3
+1229,10/06,2,3,England - National league,E5,Maidenhead Utd,King`s Lynn,-1
+1230,10/10,0,4,England - National league,E5,Maidenhead Utd,Hartlepool,-4
+1231,10/12,0,1,England - National league,E5,Maidenhead Utd,Wrexham,-1
+1232,10/17,2,3,England - National league,E5,Maidenhead Utd,Notts County,-1
+1233,10/03,2,1,England - National league,E5,Aldershot Town,Hartlepool,1
+1234,10/06,1,2,England - National league,E5,Aldershot Town,Sutton Utd,-1
+1235,10/13,0,5,England - National league,E5,Aldershot Town,Dover Athletic,-5
+1236,10/17,2,2,England - National league,E5,Aldershot Town,Eastleigh,0
+1237,10/06,4,1,England - National league,E5,Bromley,Dover Athletic,3
+1238,10/10,1,2,England - National league,E5,Bromley,Torquay Utd,-1
+1239,10/13,0,0,England - National league,E5,Bromley,Hartlepool,0
+1240,10/03,2,1,England - National league,E5,Boreham Wood,Wrexham,1
+1241,10/10,0,0,England - National league,E5,Boreham Wood,Halifax Town,0
+1242,10/13,0,3,England - National league,E5,Boreham Wood,King`s Lynn,-3
+1243,10/17,1,0,England - National league,E5,Boreham Wood,Solihull Moors,1
+1244,10/03,2,2,England - National league,E5,Yeovil Town,King`s Lynn,0
+1245,10/06,2,2,England - National league,E5,Yeovil Town,Wealdstone,0
+1246,10/10,0,1,England - National league,E5,Yeovil Town,Wrexham,-1
+1247,10/13,1,1,England - National league,E5,Yeovil Town,Halifax Town,0
+1248,10/17,0,0,England - National league,E5,Yeovil Town,Dagenham & R.,0
+1249,10/03,0,0,England - National league,E5,Weymouth,Altrincham,0
+1250,10/06,0,1,England - National league,E5,Weymouth,Woking,-1
+1251,10/10,0,1,England - National league,E5,Weymouth,Sutton Utd,-1
+1252,10/13,1,0,England - National league,E5,Weymouth,Barnet,1
+1253,10/17,2,1,England - National league,E5,Weymouth,King`s Lynn,1
+1254,10/06,2,2,England - National league,E5,Wealdstone,Yeovil Town,0
+1255,10/10,1,0,England - National league,E5,Wealdstone,Dagenham & R.,1
+1256,10/13,2,5,England - National league,E5,Wealdstone,Stockport,-3
+1257,10/17,4,3,England - National league,E5,Wealdstone,Wrexham,1
+1258,10/03,2,0,England - National league,E5,Dagenham & R.,Halifax Town,2
+1259,10/06,1,2,England - National league,E5,Dagenham & R.,Barnet,-1
+1260,10/10,1,0,England - National league,E5,Dagenham & R.,Wealdstone,1
+1261,10/13,2,0,England - National league,E5,Dagenham & R.,Woking,2
+1262,10/17,0,0,England - National league,E5,Dagenham & R.,Yeovil Town,0
+1263,10/03,2,2,England - National league,E5,King`s Lynn,Yeovil Town,0
+1264,10/06,2,3,England - National league,E5,King`s Lynn,Maidenhead Utd,-1
+1265,10/10,5,0,England - National league,E5,King`s Lynn,Solihull Moors,5
+1266,10/13,0,3,England - National league,E5,King`s Lynn,Boreham Wood,-3
+1267,10/17,2,1,England - National league,E5,King`s Lynn,Weymouth,1
+1268,10/06,1,2,England - National league,E5,Chesterfield,Hartlepool,-1
+1269,10/10,4,0,England - National league,E5,Chesterfield,Woking,4
+1270,10/13,2,1,England - National league,E5,Chesterfield,Torquay Utd,1
+1271,10/17,1,2,England - National league,E5,Chesterfield,Stockport,-1
+1272,10/03,1,0,England - National league,E5,Dover Athletic,Notts County,1
+1273,10/06,4,1,England - National league,E5,Dover Athletic,Bromley,3
+1274,10/10,3,0,England - National league,E5,Dover Athletic,Stockport,3
+1275,10/13,0,5,England - National league,E5,Dover Athletic,Aldershot Town,-5
+1276,10/17,2,0,England - National league,E5,Dover Athletic,Torquay Utd,2
+1277,10/03,0,0,England - National league,E5,Altrincham,Weymouth,0
+1278,10/07,3,1,England - National league,E5,Altrincham,Notts County,2
+1279,10/10,1,1,England - National league,E5,Altrincham,Eastleigh,0
+1280,09/20,0,0,Spain - La Liga,ES,Real Madrid,Real Sociedad,0
+1281,09/26,2,3,Spain - La Liga,ES,Real Madrid,Real Betis,-1
+1282,09/30,1,0,Spain - La Liga,ES,Real Madrid,Valladolid,1
+1283,10/04,0,2,Spain - La Liga,ES,Real Madrid,Levante,-2
+1284,10/17,0,1,Spain - La Liga,ES,Real Madrid,Cadiz,-1
+1285,09/19,1,0,Spain - La Liga,ES,Getafe,Osasuna,1
+1286,09/26,0,0,Spain - La Liga,ES,Getafe,Alaves,0
+1287,09/29,3,0,Spain - La Liga,ES,Getafe,Real Betis,3
+1288,10/03,3,0,Spain - La Liga,ES,Getafe,Real Sociedad,3
+1289,10/17,1,0,Spain - La Liga,ES,Getafe,Barcelona,1
+1290,09/12,0,2,Spain - La Liga,ES,Cadiz,Osasuna,-2
+1291,09/20,0,2,Spain - La Liga,ES,Cadiz,Huesca,-2
+1292,09/27,1,3,Spain - La Liga,ES,Cadiz,FC Sevilla,-2
+1293,10/01,0,1,Spain - La Liga,ES,Cadiz,Athletic Bilbao,-1
+1294,10/04,1,1,Spain - La Liga,ES,Cadiz,Granada,0
+1295,10/17,0,1,Spain - La Liga,ES,Cadiz,Real Madrid,-1
+1296,09/12,2,0,Spain - La Liga,ES,Granada,Athletic Bilbao,2
+1297,09/20,2,1,Spain - La Liga,ES,Granada,Alaves,1
+1298,09/27,6,1,Spain - La Liga,ES,Granada,Atletico Madrid,5
+1299,10/04,1,1,Spain - La Liga,ES,Granada,Cadiz,0
+1300,10/17,1,0,Spain - La Liga,ES,Granada,FC Sevilla,1
+1301,09/13,0,1,Spain - La Liga,ES,Real Betis,Alaves,-1
+1302,09/20,2,0,Spain - La Liga,ES,Real Betis,Valladolid,2
+1303,09/26,2,3,Spain - La Liga,ES,Real Betis,Real Madrid,-1
+1304,09/29,3,0,Spain - La Liga,ES,Real Betis,Getafe,3
+1305,10/03,0,2,Spain - La Liga,ES,Real Betis,Valencia,-2
+1306,09/27,6,1,Spain - La Liga,ES,Atletico Madrid,Granada,5
+1307,09/30,0,0,Spain - La Liga,ES,Atletico Madrid,Huesca,0
+1308,10/03,0,0,Spain - La Liga,ES,Atletico Madrid,Villarreal,0
+1309,10/17,0,2,Spain - La Liga,ES,Atletico Madrid,Celta Vigo,-2
+1310,09/13,1,1,Spain - La Liga,ES,Real Sociedad,Valladolid,0
+1311,09/20,0,0,Spain - La Liga,ES,Real Sociedad,Real Madrid,0
+1312,09/26,0,3,Spain - La Liga,ES,Real Sociedad,Elche,-3
+1313,09/29,0,1,Spain - La Liga,ES,Real Sociedad,Valencia,-1
+1314,10/03,3,0,Spain - La Liga,ES,Real Sociedad,Getafe,3
+1315,09/13,1,1,Spain - La Liga,ES,Villarreal,Huesca,0
+1316,09/19,2,1,Spain - La Liga,ES,Villarreal,Eibar,1
+1317,09/27,4,0,Spain - La Liga,ES,Villarreal,Barcelona,4
+1318,09/30,3,1,Spain - La Liga,ES,Villarreal,Alaves,2
+1319,10/03,0,0,Spain - La Liga,ES,Villarreal,Atletico Madrid,0
+1320,09/27,4,0,Spain - La Liga,ES,Barcelona,Villarreal,4
+1321,10/01,0,3,Spain - La Liga,ES,Barcelona,Celta Vigo,-3
+1322,10/04,1,1,Spain - La Liga,ES,Barcelona,FC Sevilla,0
+1323,10/17,1,0,Spain - La Liga,ES,Barcelona,Getafe,1
+1324,09/27,1,3,Spain - La Liga,ES,FC Sevilla,Cadiz,-2
+1325,10/01,1,0,Spain - La Liga,ES,FC Sevilla,Levante,1
+1326,10/04,1,1,Spain - La Liga,ES,FC Sevilla,Barcelona,0
+1327,10/17,1,0,Spain - La Liga,ES,FC Sevilla,Granada,1
+1328,09/13,4,2,Spain - La Liga,ES,Valencia,Levante,2
+1329,09/19,2,1,Spain - La Liga,ES,Valencia,Celta Vigo,1
+1330,09/26,1,1,Spain - La Liga,ES,Valencia,Huesca,0
+1331,09/29,0,1,Spain - La Liga,ES,Valencia,Real Sociedad,-1
+1332,10/03,0,2,Spain - La Liga,ES,Valencia,Real Betis,-2
+1333,09/12,0,2,Spain - La Liga,ES,Osasuna,Cadiz,-2
+1334,09/19,1,0,Spain - La Liga,ES,Osasuna,Getafe,1
+1335,09/27,1,3,Spain - La Liga,ES,Osasuna,Levante,-2
+1336,10/04,2,0,Spain - La Liga,ES,Osasuna,Celta Vigo,2
+1337,09/12,0,0,Spain - La Liga,ES,Celta Vigo,Eibar,0
+1338,09/19,2,1,Spain - La Liga,ES,Celta Vigo,Valencia,1
+1339,09/27,1,1,Spain - La Liga,ES,Celta Vigo,Valladolid,0
+1340,10/01,0,3,Spain - La Liga,ES,Celta Vigo,Barcelona,-3
+1341,10/04,2,0,Spain - La Liga,ES,Celta Vigo,Osasuna,2
+1342,10/17,0,2,Spain - La Liga,ES,Celta Vigo,Atletico Madrid,-2
+1343,09/12,0,0,Spain - La Liga,ES,Eibar,Celta Vigo,0
+1344,09/19,2,1,Spain - La Liga,ES,Eibar,Villarreal,1
+1345,09/27,1,2,Spain - La Liga,ES,Eibar,Athletic Bilbao,-1
+1346,09/30,0,1,Spain - La Liga,ES,Eibar,Elche,-1
+1347,10/03,1,2,Spain - La Liga,ES,Eibar,Valladolid,-1
+1348,09/13,1,1,Spain - La Liga,ES,Huesca,Villarreal,0
+1349,09/20,0,2,Spain - La Liga,ES,Huesca,Cadiz,-2
+1350,09/26,1,1,Spain - La Liga,ES,Huesca,Valencia,0
+1351,09/30,0,0,Spain - La Liga,ES,Huesca,Atletico Madrid,0
+1352,10/03,0,0,Spain - La Liga,ES,Huesca,Elche,0
+1353,09/26,0,3,Spain - La Liga,ES,Elche,Real Sociedad,-3
+1354,09/30,0,1,Spain - La Liga,ES,Elche,Eibar,-1
+1355,10/03,0,0,Spain - La Liga,ES,Elche,Huesca,0
+1356,09/13,0,1,Spain - La Liga,ES,Alaves,Real Betis,-1
+1357,09/20,2,1,Spain - La Liga,ES,Alaves,Granada,1
+1358,09/26,0,0,Spain - La Liga,ES,Alaves,Getafe,0
+1359,09/30,3,1,Spain - La Liga,ES,Alaves,Villarreal,2
+1360,10/04,1,0,Spain - La Liga,ES,Alaves,Athletic Bilbao,1
+1361,09/13,4,2,Spain - La Liga,ES,Levante,Valencia,2
+1362,09/27,1,3,Spain - La Liga,ES,Levante,Osasuna,-2
+1363,10/01,1,0,Spain - La Liga,ES,Levante,FC Sevilla,1
+1364,10/04,0,2,Spain - La Liga,ES,Levante,Real Madrid,-2
+1365,09/12,2,0,Spain - La Liga,ES,Athletic Bilbao,Granada,2
+1366,09/27,1,2,Spain - La Liga,ES,Athletic Bilbao,Eibar,-1
+1367,10/01,0,1,Spain - La Liga,ES,Athletic Bilbao,Cadiz,-1
+1368,10/04,1,0,Spain - La Liga,ES,Athletic Bilbao,Alaves,1
+1369,09/13,1,1,Spain - La Liga,ES,Valladolid,Real Sociedad,0
+1370,09/20,2,0,Spain - La Liga,ES,Valladolid,Real Betis,2
+1371,09/27,1,1,Spain - La Liga,ES,Valladolid,Celta Vigo,0
+1372,09/30,1,0,Spain - La Liga,ES,Valladolid,Real Madrid,1
+1373,10/03,1,2,Spain - La Liga,ES,Valladolid,Eibar,-1
+1374,09/12,3,0,Spain - La Liga 2,E2,Espanyol,Albacete,3
+1375,09/20,0,0,Spain - La Liga 2,E2,Espanyol,Mallorca,0
+1376,09/27,0,2,Spain - La Liga 2,E2,Espanyol,Real Oviedo,-2
+1377,10/04,0,1,Spain - La Liga 2,E2,Espanyol,Sabadell,-1
+1378,10/10,1,0,Spain - La Liga 2,E2,Espanyol,Alcorcon,1
+1379,09/13,2,0,Spain - La Liga 2,E2,Fuenlabrada,Lugo,2
+1380,09/20,3,3,Spain - La Liga 2,E2,Fuenlabrada,Las Palmas,0
+1381,09/26,1,0,Spain - La Liga 2,E2,Fuenlabrada,Albacete,1
+1382,10/04,0,1,Spain - La Liga 2,E2,Fuenlabrada,Girona,-1
+1383,10/11,1,1,Spain - La Liga 2,E2,Fuenlabrada,Castellon,0
+1384,10/17,1,1,Spain - La Liga 2,E2,Fuenlabrada,Cartagena,0
+1385,09/12,1,0,Spain - La Liga 2,E2,Sporting Gijon,Logrones,1
+1386,09/20,0,1,Spain - La Liga 2,E2,Sporting Gijon,Cartagena,-1
+1387,09/26,2,0,Spain - La Liga 2,E2,Sporting Gijon,Girona,2
+1388,10/04,0,1,Spain - La Liga 2,E2,Sporting Gijon,Almeria,-1
+1389,10/11,1,0,Spain - La Liga 2,E2,Sporting Gijon,Real Oviedo,1
+1390,09/13,0,1,Spain - La Liga 2,E2,Mallorca,Rayo Vallecano,-1
+1391,09/20,0,0,Spain - La Liga 2,E2,Mallorca,Espanyol,0
+1392,09/27,1,0,Spain - La Liga 2,E2,Mallorca,Sabadell,1
+1393,10/03,2,0,Spain - La Liga 2,E2,Mallorca,Tenerife,2
+1394,10/11,0,1,Spain - La Liga 2,E2,Mallorca,Lugo,-1
+1395,09/12,1,2,Spain - La Liga 2,E2,Ponferradina,Castellon,-1
+1396,09/20,0,2,Spain - La Liga 2,E2,Ponferradina,Albacete,-2
+1397,09/27,3,0,Spain - La Liga 2,E2,Ponferradina,Rayo Vallecano,3
+1398,10/03,0,1,Spain - La Liga 2,E2,Ponferradina,Mirandes,-1
+1399,10/11,0,2,Spain - La Liga 2,E2,Ponferradina,Cartagena,-2
+1400,09/12,1,0,Spain - La Liga 2,E2,Las Palmas,Leganes,1
+1401,09/20,3,3,Spain - La Liga 2,E2,Las Palmas,Fuenlabrada,0
+1402,09/26,2,2,Spain - La Liga 2,E2,Las Palmas,Real Zaragoza,0
+1403,10/03,2,1,Spain - La Liga 2,E2,Las Palmas,Logrones,1
+1404,10/11,0,0,Spain - La Liga 2,E2,Las Palmas,Malaga,0
+1405,10/17,2,0,Spain - La Liga 2,E2,Las Palmas,Almeria,2
+1406,09/13,0,1,Spain - La Liga 2,E2,Rayo Vallecano,Mallorca,-1
+1407,09/19,2,1,Spain - La Liga 2,E2,Rayo Vallecano,Sabadell,1
+1408,09/27,3,0,Spain - La Liga 2,E2,Rayo Vallecano,Ponferradina,3
+1409,10/03,4,0,Spain - La Liga 2,E2,Rayo Vallecano,Malaga,4
+1410,10/10,1,0,Spain - La Liga 2,E2,Rayo Vallecano,Tenerife,1
+1411,09/12,1,0,Spain - La Liga 2,E2,Leganes,Las Palmas,1
+1412,09/20,2,1,Spain - La Liga 2,E2,Leganes,Lugo,1
+1413,09/27,3,1,Spain - La Liga 2,E2,Leganes,Cartagena,2
+1414,10/04,2,0,Spain - La Liga 2,E2,Leganes,Castellon,2
+1415,10/11,0,1,Spain - La Liga 2,E2,Leganes,Girona,-1
+1416,10/17,0,1,Spain - La Liga 2,E2,Leganes,Logrones,-1
+1417,09/13,0,0,Spain - La Liga 2,E2,Mirandes,Alcorcon,0
+1418,09/19,1,1,Spain - La Liga 2,E2,Mirandes,Real Oviedo,0
+1419,09/27,1,2,Spain - La Liga 2,E2,Mirandes,Tenerife,-1
+1420,10/03,0,1,Spain - La Liga 2,E2,Mirandes,Ponferradina,-1
+1421,10/10,0,2,Spain - La Liga 2,E2,Mirandes,Sabadell,-2
+1422,09/12,1,2,Spain - La Liga 2,E2,Castellon,Ponferradina,-1
+1423,09/19,0,1,Spain - La Liga 2,E2,Castellon,Malaga,-1
+1424,09/26,1,1,Spain - La Liga 2,E2,Castellon,Logrones,0
+1425,10/04,2,0,Spain - La Liga 2,E2,Castellon,Leganes,2
+1426,10/11,1,1,Spain - La Liga 2,E2,Castellon,Fuenlabrada,0
+1427,10/17,0,1,Spain - La Liga 2,E2,Castellon,Lugo,-1
+1428,09/13,0,0,Spain - La Liga 2,E2,Cartagena,Real Oviedo,0
+1429,09/20,0,1,Spain - La Liga 2,E2,Cartagena,Sporting Gijon,-1
+1430,09/27,3,1,Spain - La Liga 2,E2,Cartagena,Leganes,2
+1431,10/04,2,1,Spain - La Liga 2,E2,Cartagena,Lugo,1
+1432,10/11,0,2,Spain - La Liga 2,E2,Cartagena,Ponferradina,-2
+1433,10/17,1,1,Spain - La Liga 2,E2,Cartagena,Fuenlabrada,0
+1434,09/13,2,0,Spain - La Liga 2,E2,Malaga,Tenerife,2
+1435,09/19,0,1,Spain - La Liga 2,E2,Malaga,Castellon,-1
+1436,09/26,1,0,Spain - La Liga 2,E2,Malaga,Alcorcon,1
+1437,10/03,4,0,Spain - La Liga 2,E2,Malaga,Rayo Vallecano,4
+1438,10/11,0,0,Spain - La Liga 2,E2,Malaga,Las Palmas,0
+1439,09/13,0,0,Spain - La Liga 2,E2,Real Oviedo,Cartagena,0
+1440,09/19,1,1,Spain - La Liga 2,E2,Real Oviedo,Mirandes,0
+1441,09/27,0,2,Spain - La Liga 2,E2,Real Oviedo,Espanyol,-2
+1442,10/03,1,1,Spain - La Liga 2,E2,Real Oviedo,Albacete,0
+1443,10/11,1,0,Spain - La Liga 2,E2,Real Oviedo,Sporting Gijon,1
+1444,09/13,2,0,Spain - La Liga 2,E2,Tenerife,Malaga,2
+1445,09/19,2,0,Spain - La Liga 2,E2,Tenerife,Alcorcon,2
+1446,09/27,1,2,Spain - La Liga 2,E2,Tenerife,Mirandes,-1
+1447,10/03,2,0,Spain - La Liga 2,E2,Tenerife,Mallorca,2
+1448,10/10,1,0,Spain - La Liga 2,E2,Tenerife,Rayo Vallecano,1
+1449,09/13,2,0,Spain - La Liga 2,E2,Lugo,Fuenlabrada,2
+1450,09/20,2,1,Spain - La Liga 2,E2,Lugo,Leganes,1
+1451,09/27,0,2,Spain - La Liga 2,E2,Lugo,Almeria,-2
+1452,10/04,2,1,Spain - La Liga 2,E2,Lugo,Cartagena,1
+1453,10/11,0,1,Spain - La Liga 2,E2,Lugo,Mallorca,-1
+1454,10/17,0,1,Spain - La Liga 2,E2,Lugo,Castellon,-1
+1455,09/26,2,2,Spain - La Liga 2,E2,Real Zaragoza,Las Palmas,0
+1456,10/03,0,0,Spain - La Liga 2,E2,Real Zaragoza,Alcorcon,0
+1457,10/11,1,0,Spain - La Liga 2,E2,Real Zaragoza,Albacete,1
+1458,09/13,0,0,Spain - La Liga 2,E2,Alcorcon,Mirandes,0
+1459,09/19,2,0,Spain - La Liga 2,E2,Alcorcon,Tenerife,2
+1460,09/26,1,0,Spain - La Liga 2,E2,Alcorcon,Malaga,1
+1461,10/03,0,0,Spain - La Liga 2,E2,Alcorcon,Real Zaragoza,0
+1462,10/10,1,0,Spain - La Liga 2,E2,Alcorcon,Espanyol,1
+1463,09/12,1,0,Spain - La Liga 2,E2,Logrones,Sporting Gijon,1
+1464,09/26,1,1,Spain - La Liga 2,E2,Logrones,Castellon,0
+1465,10/03,2,1,Spain - La Liga 2,E2,Logrones,Las Palmas,1
+1466,10/10,1,0,Spain - La Liga 2,E2,Logrones,Almeria,1
+1467,10/17,0,1,Spain - La Liga 2,E2,Logrones,Leganes,-1
+1468,09/12,3,0,Spain - La Liga 2,E2,Albacete,Espanyol,3
+1469,09/20,0,2,Spain - La Liga 2,E2,Albacete,Ponferradina,-2
+1470,09/26,1,0,Spain - La Liga 2,E2,Albacete,Fuenlabrada,1
+1471,10/03,1,1,Spain - La Liga 2,E2,Albacete,Real Oviedo,0
+1472,10/11,1,0,Spain - La Liga 2,E2,Albacete,Real Zaragoza,1
+1473,10/17,3,0,Spain - La Liga 2,E2,Albacete,Sabadell,3
+1474,09/27,0,2,Spain - La Liga 2,E2,Almeria,Lugo,-2
+1475,10/04,0,1,Spain - La Liga 2,E2,Almeria,Sporting Gijon,-1
+1476,10/10,1,0,Spain - La Liga 2,E2,Almeria,Logrones,1
+1477,10/17,2,0,Spain - La Liga 2,E2,Almeria,Las Palmas,2
+1478,09/26,2,0,Spain - La Liga 2,E2,Girona,Sporting Gijon,2
+1479,10/04,0,1,Spain - La Liga 2,E2,Girona,Fuenlabrada,-1
+1480,10/11,0,1,Spain - La Liga 2,E2,Girona,Leganes,-1
+1481,09/19,2,1,Spain - La Liga 2,E2,Sabadell,Rayo Vallecano,1
+1482,09/27,1,0,Spain - La Liga 2,E2,Sabadell,Mallorca,1
+1483,10/04,0,1,Spain - La Liga 2,E2,Sabadell,Espanyol,-1
+1484,10/10,0,2,Spain - La Liga 2,E2,Sabadell,Mirandes,-2
+1485,10/17,3,0,Spain - La Liga 2,E2,Sabadell,Albacete,3
+1486,09/10,4,3,Finland,FI,HJK Helsinki,HIFK,1
+1487,09/13,1,2,Finland,FI,HJK Helsinki,Ilves,-1
+1488,09/20,0,0,Finland,FI,HJK Helsinki,Honka,0
+1489,09/24,2,2,Finland,FI,HJK Helsinki,TPS,0
+1490,09/28,4,0,Finland,FI,HJK Helsinki,Rovaniemi,4
+1491,10/15,1,2,Finland,FI,HJK Helsinki,SJK,-1
+1492,09/14,1,2,Finland,FI,KuPS,FC Lahti,-1
+1493,09/20,0,2,Finland,FI,KuPS,Rovaniemi,-2
+1494,09/27,0,2,Finland,FI,KuPS,Mariehamn,-2
+1495,10/05,1,1,Finland,FI,KuPS,Ilves,0
+1496,10/08,3,2,Finland,FI,KuPS,HIFK,1
+1497,10/15,2,0,Finland,FI,KuPS,Inter Turku,2
+1498,09/09,3,2,Finland,FI,Inter Turku,SJK,1
+1499,09/14,0,0,Finland,FI,Inter Turku,HIFK,0
+1500,09/19,0,1,Finland,FI,Inter Turku,SJK,-1
+1501,09/23,0,0,Finland,FI,Inter Turku,Honka,0
+1502,09/28,3,0,Finland,FI,Inter Turku,FC Lahti,3
+1503,10/15,2,0,Finland,FI,Inter Turku,KuPS,2
+1504,09/12,1,3,Finland,FI,Honka,Rovaniemi,-2
+1505,09/20,0,0,Finland,FI,Honka,HJK Helsinki,0
+1506,09/23,0,0,Finland,FI,Honka,Inter Turku,0
+1507,09/27,1,2,Finland,FI,Honka,Haka,-1
+1508,10/02,1,1,Finland,FI,Honka,HIFK,0
+1509,10/15,1,0,Finland,FI,Honka,Mariehamn,1
+1510,09/13,1,2,Finland,FI,Ilves,HJK Helsinki,-1
+1511,09/19,1,1,Finland,FI,Ilves,Haka,0
+1512,09/23,0,2,Finland,FI,Ilves,Mariehamn,-2
+1513,09/27,4,0,Finland,FI,Ilves,TPS,4
+1514,10/05,1,1,Finland,FI,Ilves,KuPS,0
+1515,10/15,1,2,Finland,FI,Ilves,HIFK,-1
+1516,09/14,1,2,Finland,FI,FC Lahti,KuPS,-1
+1517,09/17,1,1,Finland,FI,FC Lahti,TPS,0
+1518,09/23,0,1,Finland,FI,FC Lahti,SJK,-1
+1519,09/28,3,0,Finland,FI,FC Lahti,Inter Turku,3
+1520,10/02,3,1,Finland,FI,FC Lahti,Mariehamn,2
+1521,10/15,0,4,Finland,FI,FC Lahti,Rovaniemi,-4
+1522,09/14,0,0,Finland,FI,HIFK,Inter Turku,0
+1523,09/19,2,2,Finland,FI,HIFK,Mariehamn,0
+1524,09/28,3,2,Finland,FI,HIFK,SJK,1
+1525,10/02,1,1,Finland,FI,HIFK,Honka,0
+1526,10/08,3,2,Finland,FI,HIFK,KuPS,1
+1527,10/15,1,2,Finland,FI,HIFK,Ilves,-1
+1528,09/09,3,2,Finland,FI,SJK,Inter Turku,1
+1529,09/12,1,4,Finland,FI,SJK,Haka,-3
+1530,09/19,0,1,Finland,FI,SJK,Inter Turku,-1
+1531,09/23,0,1,Finland,FI,SJK,FC Lahti,-1
+1532,09/28,3,2,Finland,FI,SJK,HIFK,1
+1533,10/15,1,2,Finland,FI,SJK,HJK Helsinki,-1
+1534,09/14,1,1,Finland,FI,Mariehamn,TPS,0
+1535,09/19,2,2,Finland,FI,Mariehamn,HIFK,0
+1536,09/23,0,2,Finland,FI,Mariehamn,Ilves,-2
+1537,09/27,0,2,Finland,FI,Mariehamn,KuPS,-2
+1538,10/02,3,1,Finland,FI,Mariehamn,FC Lahti,2
+1539,10/15,1,0,Finland,FI,Mariehamn,Honka,1
+1540,09/09,2,3,Finland,FI,Haka,TPS,-1
+1541,09/12,1,4,Finland,FI,Haka,SJK,-3
+1542,09/19,1,1,Finland,FI,Haka,Ilves,0
+1543,09/23,0,2,Finland,FI,Haka,Rovaniemi,-2
+1544,09/27,1,2,Finland,FI,Haka,Honka,-1
+1545,10/16,2,1,Finland,FI,Haka,TPS,1
+1546,09/09,2,3,Finland,FI,TPS,Haka,-1
+1547,09/14,1,1,Finland,FI,TPS,Mariehamn,0
+1548,09/17,1,1,Finland,FI,TPS,FC Lahti,0
+1549,09/24,2,2,Finland,FI,TPS,HJK Helsinki,0
+1550,09/27,4,0,Finland,FI,TPS,Ilves,4
+1551,10/16,2,1,Finland,FI,TPS,Haka,1
+1552,09/09,3,0,Finland,FI,Rovaniemi,KuPS,3
+1553,09/12,1,3,Finland,FI,Rovaniemi,Honka,-2
+1554,09/20,0,2,Finland,FI,Rovaniemi,KuPS,-2
+1555,09/23,0,2,Finland,FI,Rovaniemi,Haka,-2
+1556,09/28,4,0,Finland,FI,Rovaniemi,HJK Helsinki,4
+1557,10/15,0,4,Finland,FI,Rovaniemi,FC Lahti,-4
+1558,09/13,0,1,France - Ligue 1,FR,Paris SG,Marseille,-1
+1559,09/16,1,0,France - Ligue 1,FR,Paris SG,Metz,1
+1560,09/20,0,3,France - Ligue 1,FR,Paris SG,Nice,-3
+1561,09/27,0,2,France - Ligue 1,FR,Paris SG,Reims,-2
+1562,10/02,6,1,France - Ligue 1,FR,Paris SG,Angers,5
+1563,10/16,0,4,France - Ligue 1,FR,Paris SG,Nimes,-4
+1564,08/29,2,1,France - Ligue 1,FR,Rennes,Montpellier,1
+1565,09/13,2,4,France - Ligue 1,FR,Rennes,Nimes,-2
+1566,09/19,2,1,France - Ligue 1,FR,Rennes,Monaco,1
+1567,09/26,0,3,France - Ligue 1,FR,Rennes,Saint-Etienne,-3
+1568,10/04,2,2,France - Ligue 1,FR,Rennes,Reims,0
+1569,10/16,1,1,France - Ligue 1,FR,Rennes,Dijon,0
+1570,08/22,1,1,France - Ligue 1,FR,Lille,Rennes,0
+1571,08/30,0,1,France - Ligue 1,FR,Lille,Reims,-1
+1572,09/13,1,0,France - Ligue 1,FR,Lille,Metz,1
+1573,09/20,1,1,France - Ligue 1,FR,Lille,Marseille,0
+1574,09/25,2,0,France - Ligue 1,FR,Lille,Nantes,2
+1575,10/04,0,3,France - Ligue 1,FR,Lille,Strasbourg,-3
+1576,08/23,2,1,France - Ligue 1,FR,Lens,Nice,1
+1577,09/10,1,0,France - Ligue 1,FR,Lens,Paris SG,1
+1578,09/13,2,3,France - Ligue 1,FR,Lens,Lorient,-1
+1579,09/19,2,1,France - Ligue 1,FR,Lens,Bordeaux,1
+1580,09/27,1,1,France - Ligue 1,FR,Lens,Nimes,0
+1581,10/03,2,0,France - Ligue 1,FR,Lens,Saint-Etienne,2
+1582,09/13,0,1,France - Ligue 1,FR,Marseille,Paris SG,-1
+1583,09/17,0,2,France - Ligue 1,FR,Marseille,Saint-Etienne,-2
+1584,09/20,1,1,France - Ligue 1,FR,Marseille,Lille,0
+1585,09/26,1,1,France - Ligue 1,FR,Marseille,Metz,0
+1586,10/04,1,1,France - Ligue 1,FR,Marseille,Lyon,0
+1587,10/17,3,1,France - Ligue 1,FR,Marseille,Bordeaux,2
+1588,08/29,2,1,France - Ligue 1,FR,Montpellier,Rennes,1
+1589,09/12,3,1,France - Ligue 1,FR,Montpellier,Nice,2
+1590,09/15,2,1,France - Ligue 1,FR,Montpellier,Lyon,1
+1591,09/20,4,1,France - Ligue 1,FR,Montpellier,Angers,3
+1592,09/27,2,2,France - Ligue 1,FR,Montpellier,Dijon,0
+1593,10/04,0,1,France - Ligue 1,FR,Montpellier,Nimes,-1
+1594,08/23,2,2,France - Ligue 1,FR,Monaco,Reims,0
+1595,08/30,0,1,France - Ligue 1,FR,Monaco,Metz,-1
+1596,09/13,2,1,France - Ligue 1,FR,Monaco,Nantes,1
+1597,09/19,2,1,France - Ligue 1,FR,Monaco,Rennes,1
+1598,09/27,3,2,France - Ligue 1,FR,Monaco,Strasbourg,1
+1599,10/04,1,0,France - Ligue 1,FR,Monaco,Brest,1
+1600,08/30,2,0,France - Ligue 1,FR,Saint-Etienne,Lorient,2
+1601,09/12,2,0,France - Ligue 1,FR,Saint-Etienne,Strasbourg,2
+1602,09/17,0,2,France - Ligue 1,FR,Saint-Etienne,Marseille,-2
+1603,09/20,2,2,France - Ligue 1,FR,Saint-Etienne,Nantes,0
+1604,09/26,0,3,France - Ligue 1,FR,Saint-Etienne,Rennes,-3
+1605,10/03,2,0,France - Ligue 1,FR,Saint-Etienne,Lens,2
+1606,08/23,2,1,France - Ligue 1,FR,Nice,Lens,1
+1607,08/29,0,2,France - Ligue 1,FR,Nice,Strasbourg,-2
+1608,09/12,3,1,France - Ligue 1,FR,Nice,Montpellier,2
+1609,09/20,0,3,France - Ligue 1,FR,Nice,Paris SG,-3
+1610,09/27,0,0,France - Ligue 1,FR,Nice,Bordeaux,0
+1611,10/03,2,1,France - Ligue 1,FR,Nice,Nantes,1
+1612,08/30,0,2,France - Ligue 1,FR,Bordeaux,Angers,-2
+1613,09/11,0,0,France - Ligue 1,FR,Bordeaux,Lyon,0
+1614,09/19,2,1,France - Ligue 1,FR,Bordeaux,Lens,1
+1615,09/27,0,0,France - Ligue 1,FR,Bordeaux,Nice,0
+1616,10/04,3,0,France - Ligue 1,FR,Bordeaux,Dijon,3
+1617,10/17,3,1,France - Ligue 1,FR,Bordeaux,Marseille,2
+1618,08/23,4,0,France - Ligue 1,FR,Brest,Nimes,4
+1619,08/30,2,3,France - Ligue 1,FR,Brest,Marseille,-1
+1620,09/13,0,2,France - Ligue 1,FR,Brest,Dijon,-2
+1621,09/20,3,2,France - Ligue 1,FR,Brest,Lorient,1
+1622,09/27,3,2,France - Ligue 1,FR,Brest,Angers,1
+1623,10/04,1,0,France - Ligue 1,FR,Brest,Monaco,1
+1624,08/22,0,1,France - Ligue 1,FR,Angers,Dijon,-1
+1625,08/30,0,2,France - Ligue 1,FR,Angers,Bordeaux,-2
+1626,09/13,1,0,France - Ligue 1,FR,Angers,Reims,1
+1627,09/20,4,1,France - Ligue 1,FR,Angers,Montpellier,3
+1628,09/27,3,2,France - Ligue 1,FR,Angers,Brest,1
+1629,10/02,6,1,France - Ligue 1,FR,Angers,Paris SG,5
+1630,08/30,2,1,France - Ligue 1,FR,Nimes,Nantes,1
+1631,09/13,2,4,France - Ligue 1,FR,Nimes,Rennes,-2
+1632,09/18,0,0,France - Ligue 1,FR,Nimes,Lyon,0
+1633,09/27,1,1,France - Ligue 1,FR,Nimes,Lens,0
+1634,10/04,0,1,France - Ligue 1,FR,Nimes,Montpellier,-1
+1635,10/16,0,4,France - Ligue 1,FR,Nimes,Paris SG,-4
+1636,08/28,4,1,France - Ligue 1,FR,Lyon,Dijon,3
+1637,09/11,0,0,France - Ligue 1,FR,Lyon,Bordeaux,0
+1638,09/15,2,1,France - Ligue 1,FR,Lyon,Montpellier,1
+1639,09/18,0,0,France - Ligue 1,FR,Lyon,Nimes,0
+1640,09/27,1,1,France - Ligue 1,FR,Lyon,Lorient,0
+1641,10/04,1,1,France - Ligue 1,FR,Lyon,Marseille,0
+1642,08/30,0,1,France - Ligue 1,FR,Metz,Monaco,-1
+1643,09/13,1,0,France - Ligue 1,FR,Metz,Lille,1
+1644,09/16,1,0,France - Ligue 1,FR,Metz,Paris SG,1
+1645,09/20,2,1,France - Ligue 1,FR,Metz,Reims,1
+1646,09/26,1,1,France - Ligue 1,FR,Metz,Marseille,0
+1647,10/04,3,1,France - Ligue 1,FR,Metz,Lorient,2
+1648,08/30,2,0,France - Ligue 1,FR,Lorient,Saint-Etienne,2
+1649,09/13,2,3,France - Ligue 1,FR,Lorient,Lens,-1
+1650,09/20,3,2,France - Ligue 1,FR,Lorient,Brest,1
+1651,09/27,1,1,France - Ligue 1,FR,Lorient,Lyon,0
+1652,10/04,3,1,France - Ligue 1,FR,Lorient,Metz,2
+1653,10/17,1,3,France - Ligue 1,FR,Lorient,Reims,-2
+1654,08/21,0,0,France - Ligue 1,FR,Nantes,Bordeaux,0
+1655,08/30,2,1,France - Ligue 1,FR,Nantes,Nimes,1
+1656,09/13,2,1,France - Ligue 1,FR,Nantes,Monaco,1
+1657,09/20,2,2,France - Ligue 1,FR,Nantes,Saint-Etienne,0
+1658,09/25,2,0,France - Ligue 1,FR,Nantes,Lille,2
+1659,10/03,2,1,France - Ligue 1,FR,Nantes,Nice,1
+1660,08/23,3,1,France - Ligue 1,FR,Strasbourg,Lorient,2
+1661,08/29,0,2,France - Ligue 1,FR,Strasbourg,Nice,-2
+1662,09/12,2,0,France - Ligue 1,FR,Strasbourg,Saint-Etienne,2
+1663,09/20,1,0,France - Ligue 1,FR,Strasbourg,Dijon,1
+1664,09/27,3,2,France - Ligue 1,FR,Strasbourg,Monaco,1
+1665,10/04,0,3,France - Ligue 1,FR,Strasbourg,Lille,-3
+1666,08/30,0,1,France - Ligue 1,FR,Reims,Lille,-1
+1667,09/13,1,0,France - Ligue 1,FR,Reims,Angers,1
+1668,09/20,2,1,France - Ligue 1,FR,Reims,Metz,1
+1669,09/27,0,2,France - Ligue 1,FR,Reims,Paris SG,-2
+1670,10/04,2,2,France - Ligue 1,FR,Reims,Rennes,0
+1671,10/17,1,3,France - Ligue 1,FR,Reims,Lorient,-2
+1672,08/28,4,1,France - Ligue 1,FR,Dijon,Lyon,3
+1673,09/13,0,2,France - Ligue 1,FR,Dijon,Brest,-2
+1674,09/20,1,0,France - Ligue 1,FR,Dijon,Strasbourg,1
+1675,09/27,2,2,France - Ligue 1,FR,Dijon,Montpellier,0
+1676,10/04,3,0,France - Ligue 1,FR,Dijon,Bordeaux,3
+1677,10/16,1,1,France - Ligue 1,FR,Dijon,Rennes,0
+1678,08/29,1,0,France - Ligue 2,F2,Paris FC,Valenciennes,1
+1679,09/12,1,2,France - Ligue 2,F2,Paris FC,Amiens,-1
+1680,09/19,0,2,France - Ligue 2,F2,Paris FC,Nancy,-2
+1681,09/26,2,2,France - Ligue 2,F2,Paris FC,Niort,0
+1682,10/03,3,0,France - Ligue 2,F2,Paris FC,Le Havre,3
+1683,10/17,1,0,France - Ligue 2,F2,Paris FC,Pau FC,1
+1684,08/29,1,1,France - Ligue 2,F2,Niort,Chambly,0
+1685,09/12,1,0,France - Ligue 2,F2,Niort,Nancy,1
+1686,09/19,0,1,France - Ligue 2,F2,Niort,Le Havre,-1
+1687,09/26,2,2,France - Ligue 2,F2,Niort,Paris FC,0
+1688,10/03,2,0,France - Ligue 2,F2,Niort,Chateauroux,2
+1689,10/17,3,0,France - Ligue 2,F2,Niort,Caen,3
+1690,08/29,2,1,France - Ligue 2,F2,Sochaux,Troyes,1
+1691,09/14,0,0,France - Ligue 2,F2,Sochaux,Toulouse,0
+1692,09/19,2,2,France - Ligue 2,F2,Sochaux,Rodez Aveyron,0
+1693,09/26,1,1,France - Ligue 2,F2,Sochaux,Ajaccio,0
+1694,10/03,3,2,France - Ligue 2,F2,Sochaux,Chambly,1
+1695,10/17,0,0,France - Ligue 2,F2,Sochaux,Valenciennes,0
+1696,08/29,2,1,France - Ligue 2,F2,Troyes,Sochaux,1
+1697,09/12,2,0,France - Ligue 2,F2,Troyes,Pau FC,2
+1698,09/21,2,1,France - Ligue 2,F2,Troyes,Auxerre,1
+1699,09/28,1,0,France - Ligue 2,F2,Troyes,Clermont,1
+1700,10/03,0,0,France - Ligue 2,F2,Troyes,Toulouse,0
+1701,10/17,0,1,France - Ligue 2,F2,Troyes,Rodez Aveyron,-1
+1702,08/29,1,1,France - Ligue 2,F2,Clermont,USL Dunkerque,0
+1703,09/12,0,1,France - Ligue 2,F2,Clermont,Auxerre,-1
+1704,09/19,1,1,France - Ligue 2,F2,Clermont,Toulouse,0
+1705,09/28,1,0,France - Ligue 2,F2,Clermont,Troyes,1
+1706,10/03,3,0,France - Ligue 2,F2,Clermont,Rodez Aveyron,3
+1707,10/16,0,3,France - Ligue 2,F2,Clermont,Chambly,-3
+1708,08/29,5,3,France - Ligue 2,F2,Grenoble,Toulouse,2
+1709,09/12,1,2,France - Ligue 2,F2,Grenoble,Chambly,-1
+1710,09/19,2,0,France - Ligue 2,F2,Grenoble,Ajaccio,2
+1711,09/26,1,0,France - Ligue 2,F2,Grenoble,Guingamp,1
+1712,10/03,2,0,France - Ligue 2,F2,Grenoble,Valenciennes,2
+1713,10/17,1,0,France - Ligue 2,F2,Grenoble,Amiens,1
+1714,08/29,1,0,France - Ligue 2,F2,Caen,Ajaccio,1
+1715,09/12,0,3,France - Ligue 2,F2,Caen,Rodez Aveyron,-3
+1716,09/19,0,0,France - Ligue 2,F2,Caen,Chambly,0
+1717,09/26,1,0,France - Ligue 2,F2,Caen,Valenciennes,1
+1718,10/03,1,0,France - Ligue 2,F2,Caen,Amiens,1
+1719,10/17,3,0,France - Ligue 2,F2,Caen,Niort,3
+1720,08/29,1,0,France - Ligue 2,F2,Valenciennes,Paris FC,1
+1721,09/12,1,0,France - Ligue 2,F2,Valenciennes,Chateauroux,1
+1722,09/19,1,0,France - Ligue 2,F2,Valenciennes,USL Dunkerque,1
+1723,09/26,1,0,France - Ligue 2,F2,Valenciennes,Caen,1
+1724,10/03,2,0,France - Ligue 2,F2,Valenciennes,Grenoble,2
+1725,10/17,0,0,France - Ligue 2,F2,Valenciennes,Sochaux,0
+1726,08/29,1,1,France - Ligue 2,F2,USL Dunkerque,Clermont,0
+1727,09/19,1,0,France - Ligue 2,F2,USL Dunkerque,Valenciennes,1
+1728,09/26,2,1,France - Ligue 2,F2,USL Dunkerque,Rodez Aveyron,1
+1729,09/30,1,0,France - Ligue 2,F2,USL Dunkerque,Ajaccio,1
+1730,10/03,1,0,France - Ligue 2,F2,USL Dunkerque,Guingamp,1
+1731,10/17,2,1,France - Ligue 2,F2,USL Dunkerque,Nancy,1
+1732,08/29,1,0,France - Ligue 2,F2,Le Havre,Amiens,1
+1733,09/12,1,3,France - Ligue 2,F2,Le Havre,Guingamp,-2
+1734,09/19,0,1,France - Ligue 2,F2,Le Havre,Niort,-1
+1735,09/26,0,1,France - Ligue 2,F2,Le Havre,Nancy,-1
+1736,10/03,3,0,France - Ligue 2,F2,Le Havre,Paris FC,3
+1737,10/17,1,1,France - Ligue 2,F2,Le Havre,Chateauroux,0
+1738,08/22,0,2,France - Ligue 2,F2,Auxerre,Sochaux,-2
+1739,08/29,1,2,France - Ligue 2,F2,Auxerre,Chateauroux,-1
+1740,09/12,0,1,France - Ligue 2,F2,Auxerre,Clermont,-1
+1741,09/21,2,1,France - Ligue 2,F2,Auxerre,Troyes,1
+1742,09/26,3,1,France - Ligue 2,F2,Auxerre,Toulouse,2
+1743,10/03,5,1,France - Ligue 2,F2,Auxerre,Ajaccio,4
+1744,08/29,5,3,France - Ligue 2,F2,Toulouse,Grenoble,2
+1745,09/14,0,0,France - Ligue 2,F2,Toulouse,Sochaux,0
+1746,09/19,1,1,France - Ligue 2,F2,Toulouse,Clermont,0
+1747,09/26,3,1,France - Ligue 2,F2,Toulouse,Auxerre,2
+1748,10/03,0,0,France - Ligue 2,F2,Toulouse,Troyes,0
+1749,10/17,0,1,France - Ligue 2,F2,Toulouse,Ajaccio,-1
+1750,08/29,2,2,France - Ligue 2,F2,Nancy,Guingamp,0
+1751,09/12,1,0,France - Ligue 2,F2,Nancy,Niort,1
+1752,09/19,0,2,France - Ligue 2,F2,Nancy,Paris FC,-2
+1753,09/26,0,1,France - Ligue 2,F2,Nancy,Le Havre,-1
+1754,10/03,1,1,France - Ligue 2,F2,Nancy,Pau FC,0
+1755,10/17,2,1,France - Ligue 2,F2,Nancy,USL Dunkerque,1
+1756,08/29,1,2,France - Ligue 2,F2,Chateauroux,Auxerre,-1
+1757,09/12,1,0,France - Ligue 2,F2,Chateauroux,Valenciennes,1
+1758,09/19,0,0,France - Ligue 2,F2,Chateauroux,Amiens,0
+1759,09/26,2,1,France - Ligue 2,F2,Chateauroux,Chambly,1
+1760,10/03,2,0,France - Ligue 2,F2,Chateauroux,Niort,2
+1761,10/17,1,1,France - Ligue 2,F2,Chateauroux,Le Havre,0
+1762,08/29,1,0,France - Ligue 2,F2,Amiens,Le Havre,1
+1763,09/12,1,2,France - Ligue 2,F2,Amiens,Paris FC,-1
+1764,09/19,0,0,France - Ligue 2,F2,Amiens,Chateauroux,0
+1765,09/26,0,0,France - Ligue 2,F2,Amiens,Pau FC,0
+1766,10/03,1,0,France - Ligue 2,F2,Amiens,Caen,1
+1767,10/17,1,0,France - Ligue 2,F2,Amiens,Grenoble,1
+1768,08/29,1,1,France - Ligue 2,F2,Rodez Aveyron,Pau FC,0
+1769,09/12,0,3,France - Ligue 2,F2,Rodez Aveyron,Caen,-3
+1770,09/19,2,2,France - Ligue 2,F2,Rodez Aveyron,Sochaux,0
+1771,09/26,2,1,France - Ligue 2,F2,Rodez Aveyron,USL Dunkerque,1
+1772,10/03,3,0,France - Ligue 2,F2,Rodez Aveyron,Clermont,3
+1773,10/17,0,1,France - Ligue 2,F2,Rodez Aveyron,Troyes,-1
+1774,08/22,0,1,France - Ligue 2,F2,Guingamp,Niort,-1
+1775,08/29,2,2,France - Ligue 2,F2,Guingamp,Nancy,0
+1776,09/12,1,3,France - Ligue 2,F2,Guingamp,Le Havre,-2
+1777,09/19,0,1,France - Ligue 2,F2,Guingamp,Pau FC,-1
+1778,09/26,1,0,France - Ligue 2,F2,Guingamp,Grenoble,1
+1779,10/03,1,0,France - Ligue 2,F2,Guingamp,USL Dunkerque,1
+1780,08/29,1,1,France - Ligue 2,F2,Chambly,Niort,0
+1781,09/12,1,2,France - Ligue 2,F2,Chambly,Grenoble,-1
+1782,09/19,0,0,France - Ligue 2,F2,Chambly,Caen,0
+1783,09/26,2,1,France - Ligue 2,F2,Chambly,Chateauroux,1
+1784,10/03,3,2,France - Ligue 2,F2,Chambly,Sochaux,1
+1785,10/16,0,3,France - Ligue 2,F2,Chambly,Clermont,-3
+1786,08/29,1,0,France - Ligue 2,F2,Ajaccio,Caen,1
+1787,09/19,2,0,France - Ligue 2,F2,Ajaccio,Grenoble,2
+1788,09/26,1,1,France - Ligue 2,F2,Ajaccio,Sochaux,0
+1789,09/30,1,0,France - Ligue 2,F2,Ajaccio,USL Dunkerque,1
+1790,10/03,5,1,France - Ligue 2,F2,Ajaccio,Auxerre,4
+1791,10/17,0,1,France - Ligue 2,F2,Ajaccio,Toulouse,-1
+1792,08/29,1,1,France - Ligue 2,F2,Pau FC,Rodez Aveyron,0
+1793,09/12,2,0,France - Ligue 2,F2,Pau FC,Troyes,2
+1794,09/19,0,1,France - Ligue 2,F2,Pau FC,Guingamp,-1
+1795,09/26,0,0,France - Ligue 2,F2,Pau FC,Amiens,0
+1796,10/03,1,1,France - Ligue 2,F2,Pau FC,Nancy,0
+1797,10/17,1,0,France - Ligue 2,F2,Pau FC,Paris FC,1
+1798,09/12,2,0,Netherlands,NL,FC Twente,Fortuna Sittard,2
+1799,09/20,1,1,Netherlands,NL,FC Twente,Feyenoord,0
+1800,09/25,3,1,Netherlands,NL,FC Twente,FC Groningen,2
+1801,10/03,1,1,Netherlands,NL,FC Twente,FC Emmen,0
+1802,10/17,0,3,Netherlands,NL,FC Twente,Willem II,-3
+1803,09/12,0,2,Netherlands,NL,Feyenoord,PEC Zwolle,-2
+1804,09/20,1,1,Netherlands,NL,Feyenoord,FC Twente,0
+1805,09/27,4,2,Netherlands,NL,Feyenoord,ADO Den Haag,2
+1806,10/04,1,4,Netherlands,NL,Feyenoord,Willem II,-3
+1807,09/13,1,3,Netherlands,NL,PSV Eindhoven,FC Groningen,-2
+1808,09/19,2,1,Netherlands,NL,PSV Eindhoven,FC Emmen,1
+1809,09/27,1,1,Netherlands,NL,PSV Eindhoven,Heracles Alemlo,0
+1810,10/04,2,0,Netherlands,NL,PSV Eindhoven,Fortuna Sittard,2
+1811,09/12,2,0,Netherlands,NL,Heerenveen,Willem II,2
+1812,09/19,1,3,Netherlands,NL,Heerenveen,Fortuna Sittard,-2
+1813,09/26,1,0,Netherlands,NL,Heerenveen,VVV,1
+1814,10/02,1,1,Netherlands,NL,Heerenveen,FC Utrecht,0
+1815,09/13,0,1,Netherlands,NL,Vitesse Arnhem,RKC Waalwijk,-1
+1816,09/19,2,0,Netherlands,NL,Vitesse Arnhem,Sparta,2
+1817,09/26,2,1,Netherlands,NL,Vitesse Arnhem,Ajax Amsterdam,1
+1818,10/03,3,0,Netherlands,NL,Vitesse Arnhem,Heracles Alemlo,3
+1819,09/13,0,1,Netherlands,NL,Ajax Amsterdam,Sparta,-1
+1820,09/20,3,0,Netherlands,NL,Ajax Amsterdam,RKC Waalwijk,3
+1821,09/26,2,1,Netherlands,NL,Ajax Amsterdam,Vitesse Arnhem,1
+1822,10/04,1,0,Netherlands,NL,Ajax Amsterdam,FC Groningen,1
+1823,09/13,1,3,Netherlands,NL,FC Groningen,PSV Eindhoven,-2
+1824,09/20,0,1,Netherlands,NL,FC Groningen,ADO Den Haag,-1
+1825,09/25,3,1,Netherlands,NL,FC Groningen,FC Twente,2
+1826,10/04,1,0,Netherlands,NL,FC Groningen,Ajax Amsterdam,1
+1827,09/18,1,1,Netherlands,NL,FC Utrecht,VVV,0
+1828,09/27,3,1,Netherlands,NL,FC Utrecht,RKC Waalwijk,2
+1829,10/02,1,1,Netherlands,NL,FC Utrecht,Heerenveen,0
+1830,09/13,3,5,Netherlands,NL,VVV,FC Emmen,-2
+1831,09/18,1,1,Netherlands,NL,VVV,FC Utrecht,0
+1832,09/26,1,0,Netherlands,NL,VVV,Heerenveen,1
+1833,10/03,1,2,Netherlands,NL,VVV,ADO Den Haag,-1
+1834,10/17,2,2,Netherlands,NL,VVV,AZ Alkmaar,0
+1835,09/12,0,2,Netherlands,NL,PEC Zwolle,Feyenoord,-2
+1836,09/19,1,1,Netherlands,NL,PEC Zwolle,AZ Alkmaar,0
+1837,09/26,4,0,Netherlands,NL,PEC Zwolle,Sparta,4
+1838,09/19,1,1,Netherlands,NL,AZ Alkmaar,PEC Zwolle,0
+1839,09/26,3,3,Netherlands,NL,AZ Alkmaar,Fortuna Sittard,0
+1840,10/04,4,4,Netherlands,NL,AZ Alkmaar,Sparta,0
+1841,10/17,2,2,Netherlands,NL,AZ Alkmaar,VVV,0
+1842,09/12,2,0,Netherlands,NL,Willem II,Heerenveen,2
+1843,09/20,4,0,Netherlands,NL,Willem II,Heracles Alemlo,4
+1844,09/27,1,1,Netherlands,NL,Willem II,FC Emmen,0
+1845,10/04,1,4,Netherlands,NL,Willem II,Feyenoord,-3
+1846,10/17,0,3,Netherlands,NL,Willem II,FC Twente,-3
+1847,09/13,2,0,Netherlands,NL,Heracles Alemlo,ADO Den Haag,2
+1848,09/20,4,0,Netherlands,NL,Heracles Alemlo,Willem II,4
+1849,09/27,1,1,Netherlands,NL,Heracles Alemlo,PSV Eindhoven,0
+1850,10/03,3,0,Netherlands,NL,Heracles Alemlo,Vitesse Arnhem,3
+1851,10/17,0,1,Netherlands,NL,Heracles Alemlo,RKC Waalwijk,-1
+1852,09/13,2,0,Netherlands,NL,ADO Den Haag,Heracles Alemlo,2
+1853,09/20,0,1,Netherlands,NL,ADO Den Haag,FC Groningen,-1
+1854,09/27,4,2,Netherlands,NL,ADO Den Haag,Feyenoord,2
+1855,10/03,1,2,Netherlands,NL,ADO Den Haag,VVV,-1
+1856,09/13,0,1,Netherlands,NL,RKC Waalwijk,Vitesse Arnhem,-1
+1857,09/20,3,0,Netherlands,NL,RKC Waalwijk,Ajax Amsterdam,3
+1858,09/27,3,1,Netherlands,NL,RKC Waalwijk,FC Utrecht,2
+1859,10/17,0,1,Netherlands,NL,RKC Waalwijk,Heracles Alemlo,-1
+1860,09/13,3,5,Netherlands,NL,FC Emmen,VVV,-2
+1861,09/19,2,1,Netherlands,NL,FC Emmen,PSV Eindhoven,1
+1862,09/27,1,1,Netherlands,NL,FC Emmen,Willem II,0
+1863,10/03,1,1,Netherlands,NL,FC Emmen,FC Twente,0
+1864,09/12,2,0,Netherlands,NL,Fortuna Sittard,FC Twente,2
+1865,09/19,1,3,Netherlands,NL,Fortuna Sittard,Heerenveen,-2
+1866,09/26,3,3,Netherlands,NL,Fortuna Sittard,AZ Alkmaar,0
+1867,10/04,2,0,Netherlands,NL,Fortuna Sittard,PSV Eindhoven,2
+1868,09/13,0,1,Netherlands,NL,Sparta,Ajax Amsterdam,-1
+1869,09/19,2,0,Netherlands,NL,Sparta,Vitesse Arnhem,2
+1870,09/26,4,0,Netherlands,NL,Sparta,PEC Zwolle,4
+1871,10/04,4,4,Netherlands,NL,Sparta,AZ Alkmaar,0
+1872,09/21,2,0,Italy - Serie A,IT,AC Milan,Bologna,2
+1873,09/27,0,2,Italy - Serie A,IT,AC Milan,Crotone,-2
+1874,10/04,3,0,Italy - Serie A,IT,AC Milan,Spezia,3
+1875,10/17,1,2,Italy - Serie A,IT,AC Milan,Inter Milan,-1
+1876,09/20,0,2,Italy - Serie A,IT,Napoli,Parma,-2
+1877,09/27,6,0,Italy - Serie A,IT,Napoli,Genoa,6
+1878,10/17,4,1,Italy - Serie A,IT,Napoli,Atalanta,3
+1879,09/26,2,4,Italy - Serie A,IT,Atalanta,Torino,-2
+1880,09/30,1,4,Italy - Serie A,IT,Atalanta,Lazio,-3
+1881,10/04,5,2,Italy - Serie A,IT,Atalanta,Cagliari,3
+1882,10/17,4,1,Italy - Serie A,IT,Atalanta,Napoli,3
+1883,09/20,1,1,Italy - Serie A,IT,Sassuolo,Cagliari,0
+1884,09/27,1,4,Italy - Serie A,IT,Sassuolo,Spezia,-3
+1885,10/03,4,1,Italy - Serie A,IT,Sassuolo,Crotone,3
+1886,09/26,4,3,Italy - Serie A,IT,Inter Milan,Fiorentina,1
+1887,09/30,2,5,Italy - Serie A,IT,Inter Milan,Benevento,-3
+1888,10/04,1,1,Italy - Serie A,IT,Inter Milan,Lazio,0
+1889,10/17,1,2,Italy - Serie A,IT,Inter Milan,AC Milan,-1
+1890,09/19,3,0,Italy - Serie A,IT,Hellas Verona,AS Roma,3
+1891,09/27,1,0,Italy - Serie A,IT,Hellas Verona,Udinese,1
+1892,10/04,1,0,Italy - Serie A,IT,Hellas Verona,Parma,1
+1893,09/20,3,0,Italy - Serie A,IT,Sampdoria,Juventus,3
+1894,09/26,2,3,Italy - Serie A,IT,Sampdoria,Benevento,-1
+1895,10/02,1,2,Italy - Serie A,IT,Sampdoria,Fiorentina,-1
+1896,10/17,3,0,Italy - Serie A,IT,Sampdoria,Lazio,3
+1897,09/26,2,3,Italy - Serie A,IT,Benevento,Sampdoria,-1
+1898,09/30,2,5,Italy - Serie A,IT,Benevento,Inter Milan,-3
+1899,10/04,1,0,Italy - Serie A,IT,Benevento,Bologna,1
+1900,09/20,3,0,Italy - Serie A,IT,Juventus,Sampdoria,3
+1901,09/27,2,2,Italy - Serie A,IT,Juventus,AS Roma,0
+1902,10/17,1,1,Italy - Serie A,IT,Juventus,Crotone,0
+1903,09/19,3,0,Italy - Serie A,IT,AS Roma,Hellas Verona,3
+1904,09/27,2,2,Italy - Serie A,IT,AS Roma,Juventus,0
+1905,10/03,0,1,Italy - Serie A,IT,AS Roma,Udinese,-1
+1906,09/26,0,2,Italy - Serie A,IT,Lazio,Cagliari,-2
+1907,09/30,1,4,Italy - Serie A,IT,Lazio,Atalanta,-3
+1908,10/04,1,1,Italy - Serie A,IT,Lazio,Inter Milan,0
+1909,10/17,3,0,Italy - Serie A,IT,Lazio,Sampdoria,3
+1910,09/21,2,0,Italy - Serie A,IT,Bologna,AC Milan,2
+1911,09/28,4,1,Italy - Serie A,IT,Bologna,Parma,3
+1912,10/04,1,0,Italy - Serie A,IT,Bologna,Benevento,1
+1913,09/19,1,0,Italy - Serie A,IT,Fiorentina,Torino,1
+1914,09/26,4,3,Italy - Serie A,IT,Fiorentina,Inter Milan,1
+1915,10/02,1,2,Italy - Serie A,IT,Fiorentina,Sampdoria,-1
+1916,09/20,4,1,Italy - Serie A,IT,Genoa,Crotone,3
+1917,09/27,6,0,Italy - Serie A,IT,Genoa,Napoli,6
+1918,09/27,1,4,Italy - Serie A,IT,Spezia,Sassuolo,-3
+1919,09/30,0,2,Italy - Serie A,IT,Spezia,Udinese,-2
+1920,10/04,3,0,Italy - Serie A,IT,Spezia,AC Milan,3
+1921,09/20,0,2,Italy - Serie A,IT,Parma,Napoli,-2
+1922,09/28,4,1,Italy - Serie A,IT,Parma,Bologna,3
+1923,10/04,1,0,Italy - Serie A,IT,Parma,Hellas Verona,1
+1924,09/20,1,1,Italy - Serie A,IT,Cagliari,Sassuolo,0
+1925,09/26,0,2,Italy - Serie A,IT,Cagliari,Lazio,-2
+1926,10/04,5,2,Italy - Serie A,IT,Cagliari,Atalanta,3
+1927,09/20,4,1,Italy - Serie A,IT,Crotone,Genoa,3
+1928,09/27,0,2,Italy - Serie A,IT,Crotone,AC Milan,-2
+1929,10/03,4,1,Italy - Serie A,IT,Crotone,Sassuolo,3
+1930,10/17,1,1,Italy - Serie A,IT,Crotone,Juventus,0
+1931,09/19,1,0,Italy - Serie A,IT,Torino,Fiorentina,1
+1932,09/26,2,4,Italy - Serie A,IT,Torino,Atalanta,-2
+1933,09/27,1,0,Italy - Serie A,IT,Udinese,Hellas Verona,1
+1934,09/30,0,2,Italy - Serie A,IT,Udinese,Spezia,-2
+1935,10/03,0,1,Italy - Serie A,IT,Udinese,AS Roma,-1
+1936,09/27,0,2,Italy - Serie B,I2,Cittadella,Cremonese,-2
+1937,10/04,3,0,Italy - Serie B,I2,Cittadella,Brescia,3
+1938,10/17,1,1,Italy - Serie B,I2,Cittadella,Cosenza,0
+1939,09/26,1,1,Italy - Serie B,I2,Salernitana,Reggina,0
+1940,10/03,1,2,Italy - Serie B,I2,Salernitana,Chievo,-1
+1941,10/17,4,1,Italy - Serie B,I2,Salernitana,Pisa,3
+1942,09/26,0,2,Italy - Serie B,I2,Empoli,Frosinone,-2
+1943,10/03,0,0,Italy - Serie B,I2,Empoli,Monza,0
+1944,10/17,1,2,Italy - Serie B,I2,Empoli,Pescara,-1
+1945,09/26,0,2,Italy - Serie B,I2,Frosinone,Empoli,-2
+1946,10/03,0,2,Italy - Serie B,I2,Frosinone,Venezia,-2
+1947,10/17,1,0,Italy - Serie B,I2,Frosinone,Ascoli,1
+1948,09/26,1,1,Italy - Serie B,I2,Reggina,Salernitana,0
+1949,10/03,3,1,Italy - Serie B,I2,Reggina,Pescara,2
+1950,10/17,1,1,Italy - Serie B,I2,Reggina,Virtus Entella,0
+1951,09/27,2,2,Italy - Serie B,I2,Reggiana,Pisa,0
+1952,10/03,0,2,Italy - Serie B,I2,Reggiana,Virtus Entella,-2
+1953,10/17,0,1,Italy - Serie B,I2,Reggiana,Chievo,-1
+1954,09/26,1,1,Italy - Serie B,I2,Brescia,Ascoli,0
+1955,10/04,3,0,Italy - Serie B,I2,Brescia,Cittadella,3
+1956,10/16,3,0,Italy - Serie B,I2,Brescia,Lecce,3
+1957,09/26,0,0,Italy - Serie B,I2,Chievo,Pescara,0
+1958,10/03,1,2,Italy - Serie B,I2,Chievo,Salernitana,-1
+1959,10/17,0,1,Italy - Serie B,I2,Chievo,Reggiana,-1
+1960,09/26,0,0,Italy - Serie B,I2,Lecce,Pordenone,0
+1961,10/03,0,2,Italy - Serie B,I2,Lecce,Ascoli,-2
+1962,10/16,3,0,Italy - Serie B,I2,Lecce,Brescia,3
+1963,09/26,1,0,Italy - Serie B,I2,Venezia,Vicenza,1
+1964,10/03,0,2,Italy - Serie B,I2,Venezia,Frosinone,-2
+1965,10/17,0,0,Italy - Serie B,I2,Venezia,Cremonese,0
+1966,09/26,0,0,Italy - Serie B,I2,Pordenone,Lecce,0
+1967,10/03,1,1,Italy - Serie B,I2,Pordenone,Vicenza,0
+1968,10/17,3,3,Italy - Serie B,I2,Pordenone,SPAL,0
+1969,09/25,0,0,Italy - Serie B,I2,SPAL,Monza,0
+1970,10/03,1,1,Italy - Serie B,I2,SPAL,Cosenza,0
+1971,10/17,3,3,Italy - Serie B,I2,SPAL,Pordenone,0
+1972,09/26,0,0,Italy - Serie B,I2,Cosenza,Virtus Entella,0
+1973,10/03,1,1,Italy - Serie B,I2,Cosenza,SPAL,0
+1974,10/17,1,1,Italy - Serie B,I2,Cosenza,Cittadella,0
+1975,09/25,0,0,Italy - Serie B,I2,Monza,SPAL,0
+1976,10/03,0,0,Italy - Serie B,I2,Monza,Empoli,0
+1977,09/27,0,2,Italy - Serie B,I2,Cremonese,Cittadella,-2
+1978,10/04,1,1,Italy - Serie B,I2,Cremonese,Pisa,0
+1979,10/17,0,0,Italy - Serie B,I2,Cremonese,Venezia,0
+1980,09/26,0,0,Italy - Serie B,I2,Virtus Entella,Cosenza,0
+1981,10/03,0,2,Italy - Serie B,I2,Virtus Entella,Reggiana,-2
+1982,10/17,1,1,Italy - Serie B,I2,Virtus Entella,Reggina,0
+1983,09/27,2,2,Italy - Serie B,I2,Pisa,Reggiana,0
+1984,10/04,1,1,Italy - Serie B,I2,Pisa,Cremonese,0
+1985,10/17,4,1,Italy - Serie B,I2,Pisa,Salernitana,3
+1986,09/26,1,0,Italy - Serie B,I2,Vicenza,Venezia,1
+1987,10/03,1,1,Italy - Serie B,I2,Vicenza,Pordenone,0
+1988,09/26,0,0,Italy - Serie B,I2,Pescara,Chievo,0
+1989,10/03,3,1,Italy - Serie B,I2,Pescara,Reggina,2
+1990,10/17,1,2,Italy - Serie B,I2,Pescara,Empoli,-1
+1991,09/26,1,1,Italy - Serie B,I2,Ascoli,Brescia,0
+1992,10/03,0,2,Italy - Serie B,I2,Ascoli,Lecce,-2
+1993,10/17,1,0,Italy - Serie B,I2,Ascoli,Frosinone,1
+1994,09/20,0,3,Japan,JP,K. Frontale,Urawa RD,-3
+1995,09/23,3,2,Japan,JP,K. Frontale,Yokohama FC,1
+1996,09/27,0,1,Japan,JP,K. Frontale,Shonan Bellmare,-1
+1997,10/03,1,3,Japan,JP,K. Frontale,Cerezo Osaka,-2
+1998,10/10,1,0,Japan,JP,K. Frontale,Vegalta Sendai,1
+1999,10/14,0,2,Japan,JP,K. Frontale,S. Hiroshima,-2
+2000,09/23,2,0,Japan,JP,Cerezo Osaka,FC Tokyo,2
+2001,09/27,2,3,Japan,JP,Cerezo Osaka,Vegalta Sendai,-1
+2002,10/03,1,3,Japan,JP,Cerezo Osaka,K. Frontale,-2
+2003,10/10,1,0,Japan,JP,Cerezo Osaka,Nagoya G.,1
+2004,10/14,1,0,Japan,JP,Cerezo Osaka,Shonan Bellmare,1
+2005,10/17,4,1,Japan,JP,Cerezo Osaka,Yokohama M.,3
+2006,09/23,2,0,Japan,JP,FC Tokyo,Cerezo Osaka,2
+2007,09/27,3,0,Japan,JP,FC Tokyo,Sagan Tosu,3
+2008,09/30,0,1,Japan,JP,FC Tokyo,Urawa RD,-1
+2009,10/04,0,1,Japan,JP,FC Tokyo,Shonan Bellmare,-1
+2010,10/10,0,1,Japan,JP,FC Tokyo,Gamba Osaka,-1
+2011,10/14,3,1,Japan,JP,FC Tokyo,Shimizu S-Pulse,2
+2012,09/23,2,1,Japan,JP,Nagoya G.,Gamba Osaka,1
+2013,09/26,3,1,Japan,JP,Nagoya G.,Shimizu S-Pulse,2
+2014,09/30,1,0,Japan,JP,Nagoya G.,Vissel Kobe,1
+2015,10/04,0,1,Japan,JP,Nagoya G.,Urawa RD,-1
+2016,10/10,1,0,Japan,JP,Nagoya G.,Cerezo Osaka,1
+2017,10/14,3,0,Japan,JP,Nagoya G.,C. Sapporo,3
+2018,09/23,2,1,Japan,JP,Gamba Osaka,Nagoya G.,1
+2019,09/27,1,2,Japan,JP,Gamba Osaka,S. Hiroshima,-1
+2020,10/03,2,0,Japan,JP,Gamba Osaka,Kashima Antlers,2
+2021,10/07,1,2,Japan,JP,Gamba Osaka,Sagan Tosu,-1
+2022,10/10,0,1,Japan,JP,Gamba Osaka,FC Tokyo,-1
+2023,10/14,1,1,Japan,JP,Gamba Osaka,Yokohama M.,0
+2024,09/19,1,2,Japan,JP,Kashima Antlers,Cerezo Osaka,-1
+2025,09/23,1,0,Japan,JP,Kashima Antlers,Shonan Bellmare,1
+2026,09/27,0,2,Japan,JP,Kashima Antlers,Oita Trinita,-2
+2027,10/03,2,0,Japan,JP,Kashima Antlers,Gamba Osaka,2
+2028,10/10,3,2,Japan,JP,Kashima Antlers,Yokohama FC,1
+2029,10/14,0,2,Japan,JP,Kashima Antlers,Sagan Tosu,-2
+2030,09/27,1,3,Japan,JP,Yokohama M.,Kashiwa Reysol,-2
+2031,09/30,1,1,Japan,JP,Yokohama M.,Sagan Tosu,0
+2032,10/04,2,3,Japan,JP,Yokohama M.,Vissel Kobe,-1
+2033,10/10,4,0,Japan,JP,Yokohama M.,Oita Trinita,4
+2034,10/14,1,1,Japan,JP,Yokohama M.,Gamba Osaka,0
+2035,10/17,4,1,Japan,JP,Yokohama M.,Cerezo Osaka,3
+2036,09/19,1,1,Japan,JP,Kashiwa Reysol,S. Hiroshima,0
+2037,09/23,0,1,Japan,JP,Kashiwa Reysol,C. Sapporo,-1
+2038,09/27,1,3,Japan,JP,Kashiwa Reysol,Yokohama M.,-2
+2039,10/03,0,3,Japan,JP,Kashiwa Reysol,Yokohama FC,-3
+2040,10/10,4,3,Japan,JP,Kashiwa Reysol,Vissel Kobe,1
+2041,10/14,1,1,Japan,JP,Kashiwa Reysol,Urawa RD,0
+2042,09/23,1,2,Japan,JP,Urawa RD,Shimizu S-Pulse,-1
+2043,09/26,0,2,Japan,JP,Urawa RD,Yokohama FC,-2
+2044,09/30,0,1,Japan,JP,Urawa RD,FC Tokyo,-1
+2045,10/04,0,1,Japan,JP,Urawa RD,Nagoya G.,-1
+2046,10/10,0,1,Japan,JP,Urawa RD,Sagan Tosu,-1
+2047,10/14,1,1,Japan,JP,Urawa RD,Kashiwa Reysol,0
+2048,09/23,4,3,Japan,JP,Vissel Kobe,Sagan Tosu,1
+2049,09/26,4,0,Japan,JP,Vissel Kobe,C. Sapporo,4
+2050,09/30,1,0,Japan,JP,Vissel Kobe,Nagoya G.,1
+2051,10/04,2,3,Japan,JP,Vissel Kobe,Yokohama M.,-1
+2052,10/10,4,3,Japan,JP,Vissel Kobe,Kashiwa Reysol,1
+2053,10/14,1,1,Japan,JP,Vissel Kobe,Oita Trinita,0
+2054,09/19,1,1,Japan,JP,S. Hiroshima,Kashiwa Reysol,0
+2055,09/23,0,2,Japan,JP,S. Hiroshima,Oita Trinita,-2
+2056,09/27,1,2,Japan,JP,S. Hiroshima,Gamba Osaka,-1
+2057,10/03,3,0,Japan,JP,S. Hiroshima,Sagan Tosu,3
+2058,10/10,2,3,Japan,JP,S. Hiroshima,Shimizu S-Pulse,-1
+2059,10/14,0,2,Japan,JP,S. Hiroshima,K. Frontale,-2
+2060,09/20,1,0,Japan,JP,Oita Trinita,Yokohama FC,1
+2061,09/23,0,2,Japan,JP,Oita Trinita,S. Hiroshima,-2
+2062,09/27,0,2,Japan,JP,Oita Trinita,Kashima Antlers,-2
+2063,10/03,2,1,Japan,JP,Oita Trinita,Shimizu S-Pulse,1
+2064,10/10,4,0,Japan,JP,Oita Trinita,Yokohama M.,4
+2065,10/14,1,1,Japan,JP,Oita Trinita,Vissel Kobe,0
+2066,09/20,1,0,Japan,JP,Yokohama FC,Oita Trinita,1
+2067,09/23,3,2,Japan,JP,Yokohama FC,K. Frontale,1
+2068,09/26,0,2,Japan,JP,Yokohama FC,Urawa RD,-2
+2069,10/03,0,3,Japan,JP,Yokohama FC,Kashiwa Reysol,-3
+2070,10/10,3,2,Japan,JP,Yokohama FC,Kashima Antlers,1
+2071,10/14,0,0,Japan,JP,Yokohama FC,Vegalta Sendai,0
+2072,09/19,0,1,Japan,JP,C. Sapporo,Gamba Osaka,-1
+2073,09/23,0,1,Japan,JP,C. Sapporo,Kashiwa Reysol,-1
+2074,09/26,4,0,Japan,JP,C. Sapporo,Vissel Kobe,4
+2075,10/03,3,3,Japan,JP,C. Sapporo,Vegalta Sendai,0
+2076,10/10,2,1,Japan,JP,C. Sapporo,Shonan Bellmare,1
+2077,10/14,3,0,Japan,JP,C. Sapporo,Nagoya G.,3
+2078,09/27,3,0,Japan,JP,Sagan Tosu,FC Tokyo,3
+2079,09/30,1,1,Japan,JP,Sagan Tosu,Yokohama M.,0
+2080,10/03,3,0,Japan,JP,Sagan Tosu,S. Hiroshima,3
+2081,10/07,1,2,Japan,JP,Sagan Tosu,Gamba Osaka,-1
+2082,10/10,0,1,Japan,JP,Sagan Tosu,Urawa RD,-1
+2083,10/14,0,2,Japan,JP,Sagan Tosu,Kashima Antlers,-2
+2084,09/20,1,0,Japan,JP,Vegalta Sendai,FC Tokyo,1
+2085,09/23,3,1,Japan,JP,Vegalta Sendai,Yokohama M.,2
+2086,09/27,2,3,Japan,JP,Vegalta Sendai,Cerezo Osaka,-1
+2087,10/03,3,3,Japan,JP,Vegalta Sendai,C. Sapporo,0
+2088,10/10,1,0,Japan,JP,Vegalta Sendai,K. Frontale,1
+2089,10/14,0,0,Japan,JP,Vegalta Sendai,Yokohama FC,0
+2090,09/19,0,3,Japan,JP,Shimizu S-Pulse,Shonan Bellmare,-3
+2091,09/23,1,2,Japan,JP,Shimizu S-Pulse,Urawa RD,-1
+2092,09/26,3,1,Japan,JP,Shimizu S-Pulse,Nagoya G.,2
+2093,10/03,2,1,Japan,JP,Shimizu S-Pulse,Oita Trinita,1
+2094,10/10,2,3,Japan,JP,Shimizu S-Pulse,S. Hiroshima,-1
+2095,10/14,3,1,Japan,JP,Shimizu S-Pulse,FC Tokyo,2
+2096,09/19,0,3,Japan,JP,Shonan Bellmare,Shimizu S-Pulse,-3
+2097,09/23,1,0,Japan,JP,Shonan Bellmare,Kashima Antlers,1
+2098,09/27,0,1,Japan,JP,Shonan Bellmare,K. Frontale,-1
+2099,10/04,0,1,Japan,JP,Shonan Bellmare,FC Tokyo,-1
+2100,10/10,2,1,Japan,JP,Shonan Bellmare,C. Sapporo,1
+2101,10/14,1,0,Japan,JP,Shonan Bellmare,Cerezo Osaka,1
+2102,08/30,0,3,Norway,NO,Bodo/Glimt,Sarpsborg 08,-3
+2103,09/13,6,1,Norway,NO,Bodo/Glimt,Odd BK,5
+2104,09/20,1,3,Norway,NO,Bodo/Glimt,Brann,-2
+2105,09/27,2,0,Norway,NO,Bodo/Glimt,Valerenga,2
+2106,10/04,2,1,Norway,NO,Bodo/Glimt,Sandefjord,1
+2107,10/17,4,2,Norway,NO,Bodo/Glimt,Molde,2
+2108,08/22,2,0,Norway,NO,Molde,Odd BK,2
+2109,08/30,3,2,Norway,NO,Molde,Viking,1
+2110,09/19,2,1,Norway,NO,Molde,Valerenga,1
+2111,09/26,0,1,Norway,NO,Molde,Sandefjord,-1
+2112,10/04,1,2,Norway,NO,Molde,Brann,-1
+2113,10/17,4,2,Norway,NO,Molde,Bodo/Glimt,2
+2114,08/22,0,2,Norway,NO,Rosenborg,Mjondalen,-2
+2115,08/30,2,2,Norway,NO,Rosenborg,Stabaek,0
+2116,09/13,3,3,Norway,NO,Rosenborg,Stromsgodset,0
+2117,09/20,2,1,Norway,NO,Rosenborg,Haugesund,1
+2118,09/27,1,2,Norway,NO,Rosenborg,Aalesund FK,-1
+2119,10/04,4,1,Norway,NO,Rosenborg,Odd BK,3
+2120,08/22,2,1,Norway,NO,Valerenga,Sandefjord,1
+2121,08/29,2,1,Norway,NO,Valerenga,Haugesund,1
+2122,09/13,5,1,Norway,NO,Valerenga,Brann,4
+2123,09/19,2,1,Norway,NO,Valerenga,Molde,1
+2124,09/27,2,0,Norway,NO,Valerenga,Bodo/Glimt,2
+2125,10/03,4,1,Norway,NO,Valerenga,Mjondalen,3
+2126,08/22,2,0,Norway,NO,Odd BK,Molde,2
+2127,08/30,6,1,Norway,NO,Odd BK,Mjondalen,5
+2128,09/13,6,1,Norway,NO,Odd BK,Bodo/Glimt,5
+2129,09/20,2,0,Norway,NO,Odd BK,Stabaek,2
+2130,09/27,4,4,Norway,NO,Odd BK,Haugesund,0
+2131,10/04,4,1,Norway,NO,Odd BK,Rosenborg,3
+2132,08/22,4,1,Norway,NO,Kristiansund,Sarpsborg 08,3
+2133,08/30,0,2,Norway,NO,Kristiansund,Sandefjord,-2
+2134,09/12,3,5,Norway,NO,Kristiansund,Viking,-2
+2135,09/20,1,2,Norway,NO,Kristiansund,Start,-1
+2136,09/27,1,1,Norway,NO,Kristiansund,Brann,0
+2137,10/04,1,2,Norway,NO,Kristiansund,Aalesund FK,-1
+2138,08/22,0,2,Norway,NO,Viking,Stromsgodset,-2
+2139,08/30,3,2,Norway,NO,Viking,Molde,1
+2140,09/12,3,5,Norway,NO,Viking,Kristiansund,-2
+2141,09/20,5,2,Norway,NO,Viking,Aalesund FK,3
+2142,09/27,1,2,Norway,NO,Viking,Mjondalen,-1
+2143,10/04,2,2,Norway,NO,Viking,Stromsgodset,0
+2144,08/22,4,1,Norway,NO,Sarpsborg 08,Kristiansund,3
+2145,08/30,0,3,Norway,NO,Sarpsborg 08,Bodo/Glimt,-3
+2146,09/13,0,1,Norway,NO,Sarpsborg 08,Aalesund FK,-1
+2147,09/19,2,0,Norway,NO,Sarpsborg 08,Mjondalen,2
+2148,09/26,0,0,Norway,NO,Sarpsborg 08,Stromsgodset,0
+2149,10/03,4,0,Norway,NO,Sarpsborg 08,Stabaek,4
+2150,08/24,0,2,Norway,NO,Stabaek,Brann,-2
+2151,08/30,2,2,Norway,NO,Stabaek,Rosenborg,0
+2152,09/12,2,1,Norway,NO,Stabaek,Haugesund,1
+2153,09/20,2,0,Norway,NO,Stabaek,Odd BK,2
+2154,09/27,2,0,Norway,NO,Stabaek,Start,2
+2155,10/03,4,0,Norway,NO,Stabaek,Sarpsborg 08,4
+2156,08/22,0,2,Norway,NO,Stromsgodset,Viking,-2
+2157,08/29,1,1,Norway,NO,Stromsgodset,Brann,0
+2158,09/13,3,3,Norway,NO,Stromsgodset,Rosenborg,0
+2159,09/20,0,0,Norway,NO,Stromsgodset,Sandefjord,0
+2160,09/26,0,0,Norway,NO,Stromsgodset,Sarpsborg 08,0
+2161,10/04,2,2,Norway,NO,Stromsgodset,Viking,0
+2162,08/29,1,1,Norway,NO,Brann,Stromsgodset,0
+2163,09/13,5,1,Norway,NO,Brann,Valerenga,4
+2164,09/20,1,3,Norway,NO,Brann,Bodo/Glimt,-2
+2165,09/27,1,1,Norway,NO,Brann,Kristiansund,0
+2166,10/04,1,2,Norway,NO,Brann,Molde,-1
+2167,10/17,2,0,Norway,NO,Brann,Mjondalen,2
+2168,08/22,2,1,Norway,NO,Sandefjord,Valerenga,1
+2169,08/30,0,2,Norway,NO,Sandefjord,Kristiansund,-2
+2170,09/13,0,2,Norway,NO,Sandefjord,Mjondalen,-2
+2171,09/20,0,0,Norway,NO,Sandefjord,Stromsgodset,0
+2172,09/26,0,1,Norway,NO,Sandefjord,Molde,-1
+2173,10/04,2,1,Norway,NO,Sandefjord,Bodo/Glimt,1
+2174,08/22,1,3,Norway,NO,Haugesund,Aalesund FK,-2
+2175,08/29,2,1,Norway,NO,Haugesund,Valerenga,1
+2176,09/12,2,1,Norway,NO,Haugesund,Stabaek,1
+2177,09/20,2,1,Norway,NO,Haugesund,Rosenborg,1
+2178,09/27,4,4,Norway,NO,Haugesund,Odd BK,0
+2179,10/04,5,1,Norway,NO,Haugesund,Start,4
+2180,08/17,2,1,Norway,NO,Start,Valerenga,1
+2181,08/22,6,0,Norway,NO,Start,Bodo/Glimt,6
+2182,08/30,1,0,Norway,NO,Start,Aalesund FK,1
+2183,09/20,1,2,Norway,NO,Start,Kristiansund,-1
+2184,09/27,2,0,Norway,NO,Start,Stabaek,2
+2185,10/04,5,1,Norway,NO,Start,Haugesund,4
+2186,08/30,6,1,Norway,NO,Mjondalen,Odd BK,5
+2187,09/13,0,2,Norway,NO,Mjondalen,Sandefjord,-2
+2188,09/19,2,0,Norway,NO,Mjondalen,Sarpsborg 08,2
+2189,09/27,1,2,Norway,NO,Mjondalen,Viking,-1
+2190,10/03,4,1,Norway,NO,Mjondalen,Valerenga,3
+2191,10/17,2,0,Norway,NO,Mjondalen,Brann,2
+2192,08/22,1,3,Norway,NO,Aalesund FK,Haugesund,-2
+2193,08/30,1,0,Norway,NO,Aalesund FK,Start,1
+2194,09/13,0,1,Norway,NO,Aalesund FK,Sarpsborg 08,-1
+2195,09/20,5,2,Norway,NO,Aalesund FK,Viking,3
+2196,09/27,1,2,Norway,NO,Aalesund FK,Rosenborg,-1
+2197,10/04,1,2,Norway,NO,Aalesund FK,Kristiansund,-1
+2198,08/29,1,3,Poland,PL,Rakow Czest.,Lechia Gdansk,-2
+2199,09/14,2,1,Poland,PL,Rakow Czest.,Zaglebie Lubin,1
+2200,09/18,1,4,Poland,PL,Rakow Czest.,Podbeskidzie,-3
+2201,09/26,2,2,Poland,PL,Rakow Czest.,KS Cracovia,0
+2202,10/02,3,0,Poland,PL,Rakow Czest.,Wisla Plock,3
+2203,10/17,1,3,Poland,PL,Rakow Czest.,Gornik Zabrze,-2
+2204,08/28,0,2,Poland,PL,Gornik Zabrze,Stal Mielec,-2
+2205,09/13,3,0,Poland,PL,Gornik Zabrze,Lechia Gdansk,3
+2206,09/19,1,3,Poland,PL,Gornik Zabrze,Legia Warsaw,-2
+2207,09/25,0,0,Poland,PL,Gornik Zabrze,Wisla Krakow,0
+2208,10/03,2,0,Poland,PL,Gornik Zabrze,Zaglebie Lubin,2
+2209,10/17,1,3,Poland,PL,Gornik Zabrze,Rakow Czest.,-2
+2210,08/21,2,1,Poland,PL,Zaglebie Lubin,Lech Poznan,1
+2211,08/28,1,0,Poland,PL,Zaglebie Lubin,Warta Poznan,1
+2212,09/14,2,1,Poland,PL,Zaglebie Lubin,Rakow Czest.,1
+2213,09/20,1,1,Poland,PL,Zaglebie Lubin,KS Cracovia,0
+2214,09/26,0,1,Poland,PL,Zaglebie Lubin,Jagiellonia,-1
+2215,10/03,2,0,Poland,PL,Zaglebie Lubin,Gornik Zabrze,2
+2216,08/24,1,1,Poland,PL,Jagiellonia,Wisla Krakow,0
+2217,08/29,1,2,Poland,PL,Jagiellonia,Legia Warsaw,-1
+2218,09/11,2,2,Poland,PL,Jagiellonia,Podbeskidzie,0
+2219,09/21,0,1,Poland,PL,Jagiellonia,Piast Gliwice,-1
+2220,09/26,0,1,Poland,PL,Jagiellonia,Zaglebie Lubin,-1
+2221,10/17,2,1,Poland,PL,Jagiellonia,Lech Poznan,1
+2222,08/22,2,0,Poland,PL,Slask Wroclaw,Piast Gliwice,2
+2223,08/29,1,3,Poland,PL,Slask Wroclaw,Wisla Krakow,-2
+2224,09/12,3,3,Poland,PL,Slask Wroclaw,Lech Poznan,0
+2225,09/19,1,0,Poland,PL,Slask Wroclaw,Pogon Szczecin,1
+2226,10/02,3,1,Poland,PL,Slask Wroclaw,KS Cracovia,2
+2227,08/30,2,2,Poland,PL,KS Cracovia,Podbeskidzie,0
+2228,09/12,1,1,Poland,PL,KS Cracovia,Stal Mielec,0
+2229,09/20,1,1,Poland,PL,KS Cracovia,Zaglebie Lubin,0
+2230,09/26,2,2,Poland,PL,KS Cracovia,Rakow Czest.,0
+2231,10/02,3,1,Poland,PL,KS Cracovia,Slask Wroclaw,2
+2232,10/17,1,0,Poland,PL,KS Cracovia,Piast Gliwice,1
+2233,08/23,0,1,Poland,PL,Lechia Gdansk,Warta Poznan,-1
+2234,08/29,1,3,Poland,PL,Lechia Gdansk,Rakow Czest.,-2
+2235,09/13,3,0,Poland,PL,Lechia Gdansk,Gornik Zabrze,3
+2236,09/19,4,2,Poland,PL,Lechia Gdansk,Stal Mielec,2
+2237,09/26,4,0,Poland,PL,Lechia Gdansk,Podbeskidzie,4
+2238,08/21,2,1,Poland,PL,Lech Poznan,Zaglebie Lubin,1
+2239,08/30,2,2,Poland,PL,Lech Poznan,Wisla Plock,0
+2240,09/12,3,3,Poland,PL,Lech Poznan,Slask Wroclaw,0
+2241,09/20,1,0,Poland,PL,Lech Poznan,Warta Poznan,1
+2242,10/04,1,4,Poland,PL,Lech Poznan,Piast Gliwice,-3
+2243,10/17,2,1,Poland,PL,Lech Poznan,Jagiellonia,1
+2244,08/22,2,1,Poland,PL,Pogon Szczecin,KS Cracovia,1
+2245,08/30,0,1,Poland,PL,Pogon Szczecin,Piast Gliwice,-1
+2246,09/13,2,2,Poland,PL,Pogon Szczecin,Wisla Krakow,0
+2247,09/19,1,0,Poland,PL,Pogon Szczecin,Slask Wroclaw,1
+2248,08/22,1,2,Poland,PL,Legia Warsaw,Rakow Czest.,-1
+2249,08/29,1,2,Poland,PL,Legia Warsaw,Jagiellonia,-1
+2250,09/11,0,1,Poland,PL,Legia Warsaw,Wisla Plock,-1
+2251,09/19,1,3,Poland,PL,Legia Warsaw,Gornik Zabrze,-2
+2252,08/23,1,1,Poland,PL,Wisla Plock,Stal Mielec,0
+2253,08/30,2,2,Poland,PL,Wisla Plock,Lech Poznan,0
+2254,09/11,0,1,Poland,PL,Wisla Plock,Legia Warsaw,-1
+2255,09/18,0,3,Poland,PL,Wisla Plock,Wisla Krakow,-3
+2256,09/25,1,3,Poland,PL,Wisla Plock,Warta Poznan,-2
+2257,10/02,3,0,Poland,PL,Wisla Plock,Rakow Czest.,3
+2258,08/23,1,1,Poland,PL,Stal Mielec,Wisla Plock,0
+2259,08/28,0,2,Poland,PL,Stal Mielec,Gornik Zabrze,-2
+2260,09/12,1,1,Poland,PL,Stal Mielec,KS Cracovia,0
+2261,09/19,4,2,Poland,PL,Stal Mielec,Lechia Gdansk,2
+2262,09/28,3,2,Poland,PL,Stal Mielec,Piast Gliwice,1
+2263,10/03,1,0,Poland,PL,Stal Mielec,Podbeskidzie,1
+2264,08/23,4,2,Poland,PL,Podbeskidzie,Gornik Zabrze,2
+2265,08/30,2,2,Poland,PL,Podbeskidzie,KS Cracovia,0
+2266,09/11,2,2,Poland,PL,Podbeskidzie,Jagiellonia,0
+2267,09/18,1,4,Poland,PL,Podbeskidzie,Rakow Czest.,-3
+2268,09/26,4,0,Poland,PL,Podbeskidzie,Lechia Gdansk,4
+2269,10/03,1,0,Poland,PL,Podbeskidzie,Stal Mielec,1
+2270,08/23,0,1,Poland,PL,Warta Poznan,Lechia Gdansk,-1
+2271,08/28,1,0,Poland,PL,Warta Poznan,Zaglebie Lubin,1
+2272,09/12,0,0,Poland,PL,Warta Poznan,Piast Gliwice,0
+2273,09/20,1,0,Poland,PL,Warta Poznan,Lech Poznan,1
+2274,09/25,1,3,Poland,PL,Warta Poznan,Wisla Plock,-2
+2275,08/24,1,1,Poland,PL,Wisla Krakow,Jagiellonia,0
+2276,08/29,1,3,Poland,PL,Wisla Krakow,Slask Wroclaw,-2
+2277,09/13,2,2,Poland,PL,Wisla Krakow,Pogon Szczecin,0
+2278,09/18,0,3,Poland,PL,Wisla Krakow,Wisla Plock,-3
+2279,09/25,0,0,Poland,PL,Wisla Krakow,Gornik Zabrze,0
+2280,08/30,0,1,Poland,PL,Piast Gliwice,Pogon Szczecin,-1
+2281,09/12,0,0,Poland,PL,Piast Gliwice,Warta Poznan,0
+2282,09/21,0,1,Poland,PL,Piast Gliwice,Jagiellonia,-1
+2283,09/28,3,2,Poland,PL,Piast Gliwice,Stal Mielec,1
+2284,10/04,1,4,Poland,PL,Piast Gliwice,Lech Poznan,-3
+2285,10/17,1,0,Poland,PL,Piast Gliwice,KS Cracovia,1
+2286,09/18,1,5,Portugal,PT,Benfica,Famalicao,-4
+2287,09/26,2,0,Portugal,PT,Benfica,Moreirense,2
+2288,10/04,3,2,Portugal,PT,Benfica,SC Farense,1
+2289,09/19,3,1,Portugal,PT,FC Porto,Sporting Braga,2
+2290,09/26,0,5,Portugal,PT,FC Porto,Boavista,-5
+2291,10/03,2,3,Portugal,PT,FC Porto,Maritimo,-1
+2292,10/17,2,2,Portugal,PT,FC Porto,Sporting CP,0
+2293,09/27,0,2,Portugal,PT,Sporting CP,Pacos Ferreira,-2
+2294,10/04,0,2,Portugal,PT,Sporting CP,Portimonense,-2
+2295,10/17,2,2,Portugal,PT,Sporting CP,FC Porto,0
+2296,09/20,2,0,Portugal,PT,Santa Clara,Maritimo,2
+2297,09/25,0,1,Portugal,PT,Santa Clara,Sporting Braga,-1
+2298,10/03,0,0,Portugal,PT,Santa Clara,Gil Vicente,0
+2299,09/19,3,1,Portugal,PT,Sporting Braga,FC Porto,2
+2300,09/25,0,1,Portugal,PT,Sporting Braga,Santa Clara,-1
+2301,10/03,0,4,Portugal,PT,Sporting Braga,Tondela,-4
+2302,10/17,2,1,Portugal,PT,Sporting Braga,Nacional,1
+2303,09/20,2,0,Portugal,PT,Maritimo,Santa Clara,2
+2304,09/26,2,1,Portugal,PT,Maritimo,Tondela,1
+2305,10/03,2,3,Portugal,PT,Maritimo,FC Porto,-1
+2306,10/17,1,2,Portugal,PT,Maritimo,Portimonense,-1
+2307,09/27,1,0,Portugal,PT,Gil Vicente,Portimonense,1
+2308,10/03,0,0,Portugal,PT,Gil Vicente,Santa Clara,0
+2309,10/17,1,1,Portugal,PT,Gil Vicente,Tondela,0
+2310,09/19,3,3,Portugal,PT,Nacional,Boavista,0
+2311,09/27,0,1,Portugal,PT,Nacional,SC Farense,-1
+2312,10/04,0,0,Portugal,PT,Nacional,Belenenses,0
+2313,10/17,2,1,Portugal,PT,Nacional,Sporting Braga,1
+2314,09/20,2,0,Portugal,PT,Moreirense,SC Farense,2
+2315,09/26,2,0,Portugal,PT,Moreirense,Benfica,2
+2316,10/02,1,1,Portugal,PT,Moreirense,Boavista,0
+2317,09/18,0,1,Portugal,PT,Belenenses,Guimaraes,-1
+2318,09/28,1,2,Portugal,PT,Belenenses,Famalicao,-1
+2319,10/04,0,0,Portugal,PT,Belenenses,Nacional,0
+2320,09/18,0,1,Portugal,PT,Guimaraes,Belenenses,-1
+2321,09/27,0,0,Portugal,PT,Guimaraes,Rio Ave,0
+2322,10/02,1,0,Portugal,PT,Guimaraes,Pacos Ferreira,1
+2323,09/21,1,1,Portugal,PT,Portimonense,Pacos Ferreira,0
+2324,09/27,1,0,Portugal,PT,Portimonense,Gil Vicente,1
+2325,10/04,0,2,Portugal,PT,Portimonense,Sporting CP,-2
+2326,10/17,1,2,Portugal,PT,Portimonense,Maritimo,-1
+2327,09/18,1,5,Portugal,PT,Famalicao,Benfica,-4
+2328,09/28,1,2,Portugal,PT,Famalicao,Belenenses,-1
+2329,10/04,1,1,Portugal,PT,Famalicao,Rio Ave,0
+2330,09/20,1,1,Portugal,PT,Rio Ave,Tondela,0
+2331,09/27,0,0,Portugal,PT,Rio Ave,Guimaraes,0
+2332,10/04,1,1,Portugal,PT,Rio Ave,Famalicao,0
+2333,09/19,3,3,Portugal,PT,Boavista,Nacional,0
+2334,09/26,0,5,Portugal,PT,Boavista,FC Porto,-5
+2335,10/02,1,1,Portugal,PT,Boavista,Moreirense,0
+2336,09/20,1,1,Portugal,PT,Tondela,Rio Ave,0
+2337,09/26,2,1,Portugal,PT,Tondela,Maritimo,1
+2338,10/03,0,4,Portugal,PT,Tondela,Sporting Braga,-4
+2339,10/17,1,1,Portugal,PT,Tondela,Gil Vicente,0
+2340,09/21,1,1,Portugal,PT,Pacos Ferreira,Portimonense,0
+2341,09/27,0,2,Portugal,PT,Pacos Ferreira,Sporting CP,-2
+2342,10/02,1,0,Portugal,PT,Pacos Ferreira,Guimaraes,1
+2343,09/20,2,0,Portugal,PT,SC Farense,Moreirense,2
+2344,09/27,0,1,Portugal,PT,SC Farense,Nacional,-1
+2345,10/04,3,2,Portugal,PT,SC Farense,Benfica,1
+2346,08/30,0,0,Russia,RU,Zenit,Lokomotiv M.,0
+2347,09/14,3,1,Russia,RU,Zenit,Arsenal Tula,2
+2348,09/19,1,1,Russia,RU,Zenit,Ural,0
+2349,09/26,6,0,Russia,RU,Zenit,Ufa,6
+2350,10/03,1,1,Russia,RU,Zenit,Spartak Moscow,0
+2351,10/17,3,1,Russia,RU,Zenit,PFC Sochi,2
+2352,08/29,2,1,Russia,RU,Spartak Moscow,Arsenal Tula,1
+2353,09/13,3,1,Russia,RU,Spartak Moscow,CSKA Moscow,2
+2354,09/20,0,2,Russia,RU,Spartak Moscow,Rubin Kazan,-2
+2355,09/26,0,2,Russia,RU,Spartak Moscow,FC Tambov,-2
+2356,10/03,1,1,Russia,RU,Spartak Moscow,Zenit,0
+2357,10/17,2,3,Russia,RU,Spartak Moscow,Khimki,-1
+2358,08/30,0,0,Russia,RU,Lokomotiv M.,Zenit,0
+2359,09/14,0,0,Russia,RU,Lokomotiv M.,Rostov,0
+2360,09/20,1,0,Russia,RU,Lokomotiv M.,FC Tambov,1
+2361,09/27,0,1,Russia,RU,Lokomotiv M.,CSKA Moscow,-1
+2362,10/04,2,1,Russia,RU,Lokomotiv M.,Khimki,1
+2363,10/17,1,0,Russia,RU,Lokomotiv M.,Ufa,1
+2364,08/26,1,1,Russia,RU,CSKA Moscow,FC Krasnodar,0
+2365,08/30,0,3,Russia,RU,CSKA Moscow,Akhmat Grozny,-3
+2366,09/13,3,1,Russia,RU,CSKA Moscow,Spartak Moscow,2
+2367,09/20,0,1,Russia,RU,CSKA Moscow,Ufa,-1
+2368,09/27,0,1,Russia,RU,CSKA Moscow,Lokomotiv M.,-1
+2369,10/03,0,2,Russia,RU,CSKA Moscow,Ural,-2
+2370,08/30,0,0,Russia,RU,PFC Sochi,Ural,0
+2371,09/12,0,1,Russia,RU,PFC Sochi,Akhmat Grozny,-1
+2372,09/20,3,2,Russia,RU,PFC Sochi,Arsenal Tula,1
+2373,09/26,1,1,Russia,RU,PFC Sochi,FC Krasnodar,0
+2374,10/04,4,2,Russia,RU,PFC Sochi,Rostov,2
+2375,10/17,3,1,Russia,RU,PFC Sochi,Zenit,2
+2376,08/30,1,1,Russia,RU,FC Krasnodar,Rostov,0
+2377,09/13,0,3,Russia,RU,FC Krasnodar,Rotor Volgograd,-3
+2378,09/18,7,2,Russia,RU,FC Krasnodar,Khimki,5
+2379,09/26,1,1,Russia,RU,FC Krasnodar,PFC Sochi,0
+2380,10/04,2,0,Russia,RU,FC Krasnodar,Dinamo Moscow,2
+2381,10/17,3,1,Russia,RU,FC Krasnodar,Rubin Kazan,2
+2382,08/26,1,0,Russia,RU,Dinamo Moscow,Zenit,1
+2383,08/30,1,1,Russia,RU,Dinamo Moscow,Ufa,0
+2384,09/13,0,1,Russia,RU,Dinamo Moscow,Rubin Kazan,-1
+2385,09/21,1,0,Russia,RU,Dinamo Moscow,Akhmat Grozny,1
+2386,09/28,1,0,Russia,RU,Dinamo Moscow,Khimki,1
+2387,10/04,2,0,Russia,RU,Dinamo Moscow,FC Krasnodar,2
+2388,08/26,1,0,Russia,RU,Rostov,Ural,1
+2389,08/30,1,1,Russia,RU,Rostov,FC Krasnodar,0
+2390,09/14,0,0,Russia,RU,Rostov,Lokomotiv M.,0
+2391,09/19,3,0,Russia,RU,Rostov,Rotor Volgograd,3
+2392,09/27,2,3,Russia,RU,Rostov,Arsenal Tula,-1
+2393,10/04,4,2,Russia,RU,Rostov,PFC Sochi,2
+2394,08/30,2,2,Russia,RU,Rubin Kazan,FC Tambov,0
+2395,09/13,0,1,Russia,RU,Rubin Kazan,Dinamo Moscow,-1
+2396,09/20,0,2,Russia,RU,Rubin Kazan,Spartak Moscow,-2
+2397,09/27,1,3,Russia,RU,Rubin Kazan,Rotor Volgograd,-2
+2398,10/04,1,1,Russia,RU,Rubin Kazan,Akhmat Grozny,0
+2399,10/17,3,1,Russia,RU,Rubin Kazan,FC Krasnodar,2
+2400,08/26,2,3,Russia,RU,Akhmat Grozny,Lokomotiv M.,-1
+2401,08/30,0,3,Russia,RU,Akhmat Grozny,CSKA Moscow,-3
+2402,09/12,0,1,Russia,RU,Akhmat Grozny,PFC Sochi,-1
+2403,09/21,1,0,Russia,RU,Akhmat Grozny,Dinamo Moscow,1
+2404,09/27,2,0,Russia,RU,Akhmat Grozny,Ural,2
+2405,10/04,1,1,Russia,RU,Akhmat Grozny,Rubin Kazan,0
+2406,08/26,1,0,Russia,RU,Ural,Rostov,1
+2407,08/30,0,0,Russia,RU,Ural,PFC Sochi,0
+2408,09/12,3,1,Russia,RU,Ural,Khimki,2
+2409,09/19,1,1,Russia,RU,Ural,Zenit,0
+2410,09/27,2,0,Russia,RU,Ural,Akhmat Grozny,2
+2411,10/03,0,2,Russia,RU,Ural,CSKA Moscow,-2
+2412,08/25,1,1,Russia,RU,Arsenal Tula,Khimki,0
+2413,08/29,2,1,Russia,RU,Arsenal Tula,Spartak Moscow,1
+2414,09/14,3,1,Russia,RU,Arsenal Tula,Zenit,2
+2415,09/20,3,2,Russia,RU,Arsenal Tula,PFC Sochi,1
+2416,09/27,2,3,Russia,RU,Arsenal Tula,Rostov,-1
+2417,10/03,1,1,Russia,RU,Arsenal Tula,FC Tambov,0
+2418,08/25,0,1,Russia,RU,FC Tambov,PFC Sochi,-1
+2419,08/30,2,2,Russia,RU,FC Tambov,Rubin Kazan,0
+2420,09/12,2,0,Russia,RU,FC Tambov,Ufa,2
+2421,09/20,1,0,Russia,RU,FC Tambov,Lokomotiv M.,1
+2422,09/26,0,2,Russia,RU,FC Tambov,Spartak Moscow,-2
+2423,10/03,1,1,Russia,RU,FC Tambov,Arsenal Tula,0
+2424,08/29,1,1,Russia,RU,Khimki,Rotor Volgograd,0
+2425,09/12,3,1,Russia,RU,Khimki,Ural,2
+2426,09/18,7,2,Russia,RU,Khimki,FC Krasnodar,5
+2427,09/28,1,0,Russia,RU,Khimki,Dinamo Moscow,1
+2428,10/04,2,1,Russia,RU,Khimki,Lokomotiv M.,1
+2429,10/17,2,3,Russia,RU,Khimki,Spartak Moscow,-1
+2430,08/30,1,1,Russia,RU,Ufa,Dinamo Moscow,0
+2431,09/12,2,0,Russia,RU,Ufa,FC Tambov,2
+2432,09/20,0,1,Russia,RU,Ufa,CSKA Moscow,-1
+2433,09/26,6,0,Russia,RU,Ufa,Zenit,6
+2434,10/03,0,0,Russia,RU,Ufa,Rotor Volgograd,0
+2435,10/17,1,0,Russia,RU,Ufa,Lokomotiv M.,1
+2436,08/26,0,1,Russia,RU,Rotor Volgograd,Spartak Moscow,-1
+2437,08/29,1,1,Russia,RU,Rotor Volgograd,Khimki,0
+2438,09/13,0,3,Russia,RU,Rotor Volgograd,FC Krasnodar,-3
+2439,09/19,3,0,Russia,RU,Rotor Volgograd,Rostov,3
+2440,09/27,1,3,Russia,RU,Rotor Volgograd,Rubin Kazan,-2
+2441,10/03,0,0,Russia,RU,Rotor Volgograd,Ufa,0
+2442,08/29,0,2,Scotland,SC,Rangers,Hamilton,-2
+2443,09/12,4,0,Scotland,SC,Rangers,Dundee Utd,4
+2444,09/20,2,2,Scotland,SC,Rangers,Hibernian,0
+2445,09/27,1,5,Scotland,SC,Rangers,Motherwell,-4
+2446,10/04,2,0,Scotland,SC,Rangers,Ross County,2
+2447,10/17,0,2,Scotland,SC,Rangers,Celtic,-2
+2448,09/12,0,5,Scotland,SC,Celtic,Ross County,-5
+2449,09/16,1,2,Scotland,SC,Celtic,St. Mirren,-1
+2450,09/19,3,2,Scotland,SC,Celtic,Livingston,1
+2451,09/27,3,0,Scotland,SC,Celtic,Hibernian,3
+2452,10/04,0,2,Scotland,SC,Celtic,St. Johnstone,-2
+2453,10/17,0,2,Scotland,SC,Celtic,Rangers,-2
+2454,08/30,0,1,Scotland,SC,Hibernian,Aberdeen,-1
+2455,09/12,0,3,Scotland,SC,Hibernian,St. Mirren,-3
+2456,09/20,2,2,Scotland,SC,Hibernian,Rangers,0
+2457,09/27,3,0,Scotland,SC,Hibernian,Celtic,3
+2458,10/02,3,2,Scotland,SC,Hibernian,Hamilton,1
+2459,10/17,0,0,Scotland,SC,Hibernian,Ross County,0
+2460,08/30,0,1,Scotland,SC,Aberdeen,Hibernian,-1
+2461,09/12,1,0,Scotland,SC,Aberdeen,Kilmarnock,1
+2462,09/20,0,3,Scotland,SC,Aberdeen,Motherwell,-3
+2463,09/27,0,3,Scotland,SC,Aberdeen,Ross County,-3
+2464,10/02,2,1,Scotland,SC,Aberdeen,St. Mirren,1
+2465,10/17,0,0,Scotland,SC,Aberdeen,Dundee Utd,0
+2466,08/22,2,0,Scotland,SC,Kilmarnock,Rangers,2
+2467,08/29,4,0,Scotland,SC,Kilmarnock,Dundee Utd,4
+2468,09/12,1,0,Scotland,SC,Kilmarnock,Aberdeen,1
+2469,09/19,2,1,Scotland,SC,Kilmarnock,Hamilton,1
+2470,09/26,0,1,Scotland,SC,Kilmarnock,St. Mirren,-1
+2471,10/17,1,3,Scotland,SC,Kilmarnock,Livingston,-2
+2472,08/29,4,0,Scotland,SC,Dundee Utd,Kilmarnock,4
+2473,09/12,4,0,Scotland,SC,Dundee Utd,Rangers,4
+2474,09/19,2,1,Scotland,SC,Dundee Utd,St. Mirren,1
+2475,09/26,1,1,Scotland,SC,Dundee Utd,Hamilton,0
+2476,10/02,1,2,Scotland,SC,Dundee Utd,Livingston,-1
+2477,10/17,0,0,Scotland,SC,Dundee Utd,Aberdeen,0
+2478,08/29,1,0,Scotland,SC,Ross County,Livingston,1
+2479,09/12,0,5,Scotland,SC,Ross County,Celtic,-5
+2480,09/19,0,1,Scotland,SC,Ross County,St. Johnstone,-1
+2481,09/27,0,3,Scotland,SC,Ross County,Aberdeen,-3
+2482,10/04,2,0,Scotland,SC,Ross County,Rangers,2
+2483,10/17,0,0,Scotland,SC,Ross County,Hibernian,0
+2484,08/29,1,0,Scotland,SC,Livingston,Ross County,1
+2485,09/12,1,2,Scotland,SC,Livingston,Hamilton,-1
+2486,09/19,3,2,Scotland,SC,Livingston,Celtic,1
+2487,09/26,2,0,Scotland,SC,Livingston,St. Johnstone,2
+2488,10/02,1,2,Scotland,SC,Livingston,Dundee Utd,-1
+2489,10/17,1,3,Scotland,SC,Livingston,Kilmarnock,-2
+2490,08/29,1,0,Scotland,SC,St. Johnstone,St. Mirren,1
+2491,09/12,1,0,Scotland,SC,St. Johnstone,Motherwell,1
+2492,09/19,0,1,Scotland,SC,St. Johnstone,Ross County,-1
+2493,09/26,2,0,Scotland,SC,St. Johnstone,Livingston,2
+2494,10/04,0,2,Scotland,SC,St. Johnstone,Celtic,-2
+2495,10/17,3,5,Scotland,SC,St. Johnstone,Hamilton,-2
+2496,08/15,0,0,Scotland,SC,Motherwell,Hibernian,0
+2497,08/22,0,1,Scotland,SC,Motherwell,Hamilton,-1
+2498,08/30,3,0,Scotland,SC,Motherwell,Celtic,3
+2499,09/12,1,0,Scotland,SC,Motherwell,St. Johnstone,1
+2500,09/20,0,3,Scotland,SC,Motherwell,Aberdeen,-3
+2501,09/27,1,5,Scotland,SC,Motherwell,Rangers,-4
+2502,08/29,1,0,Scotland,SC,St. Mirren,St. Johnstone,1
+2503,09/12,0,3,Scotland,SC,St. Mirren,Hibernian,-3
+2504,09/16,1,2,Scotland,SC,St. Mirren,Celtic,-1
+2505,09/19,2,1,Scotland,SC,St. Mirren,Dundee Utd,1
+2506,09/26,0,1,Scotland,SC,St. Mirren,Kilmarnock,-1
+2507,10/02,2,1,Scotland,SC,St. Mirren,Aberdeen,1
+2508,08/29,0,2,Scotland,SC,Hamilton,Rangers,-2
+2509,09/12,1,2,Scotland,SC,Hamilton,Livingston,-1
+2510,09/19,2,1,Scotland,SC,Hamilton,Kilmarnock,1
+2511,09/26,1,1,Scotland,SC,Hamilton,Dundee Utd,0
+2512,10/02,3,2,Scotland,SC,Hamilton,Hibernian,1
+2513,10/17,3,5,Scotland,SC,Hamilton,St. Johnstone,-2
+2514,08/30,1,1,Sweden,SE,Malmoe FF,Elfsborg,0
+2515,09/10,3,2,Sweden,SE,Malmoe FF,Orebro,1
+2516,09/13,0,0,Sweden,SE,Malmoe FF,AIK Stockholm,0
+2517,09/20,1,1,Sweden,SE,Malmoe FF,Norrköping,0
+2518,09/27,3,0,Sweden,SE,Malmoe FF,BK Hacken,3
+2519,10/04,0,4,Sweden,SE,Malmoe FF,Kalmar FF,-4
+2520,08/24,0,1,Sweden,SE,BK Hacken,Norrköping,-1
+2521,08/30,0,1,Sweden,SE,BK Hacken,AIK Stockholm,-1
+2522,09/14,1,1,Sweden,SE,BK Hacken,Sirius,0
+2523,09/21,1,1,Sweden,SE,BK Hacken,Elfsborg,0
+2524,09/27,3,0,Sweden,SE,BK Hacken,Malmoe FF,3
+2525,10/03,3,0,Sweden,SE,BK Hacken,Falkenberg,3
+2526,08/30,4,3,Sweden,SE,Norrköping,Orebro,1
+2527,09/10,2,2,Sweden,SE,Norrköping,Ostersunds,0
+2528,09/14,0,2,Sweden,SE,Norrköping,Kalmar FF,-2
+2529,09/20,1,1,Sweden,SE,Norrköping,Malmoe FF,0
+2530,09/27,1,2,Sweden,SE,Norrköping,Djurgardens,-1
+2531,10/04,1,2,Sweden,SE,Norrköping,Sirius,-1
+2532,08/30,1,1,Sweden,SE,Elfsborg,Malmoe FF,0
+2533,09/12,1,1,Sweden,SE,Elfsborg,Djurgardens,0
+2534,09/17,2,2,Sweden,SE,Elfsborg,Mjällby AIF,0
+2535,09/21,1,1,Sweden,SE,Elfsborg,BK Hacken,0
+2536,09/27,0,0,Sweden,SE,Elfsborg,IFK Goteborg,0
+2537,10/03,3,2,Sweden,SE,Elfsborg,Orebro,1
+2538,08/22,3,1,Sweden,SE,Sirius,Hammarby,2
+2539,08/29,2,0,Sweden,SE,Sirius,Varbergs,2
+2540,09/14,1,1,Sweden,SE,Sirius,BK Hacken,0
+2541,09/21,2,1,Sweden,SE,Sirius,Falkenberg,1
+2542,09/26,2,1,Sweden,SE,Sirius,Orebro,1
+2543,10/04,1,2,Sweden,SE,Sirius,Norrköping,-1
+2544,08/22,2,2,Sweden,SE,Djurgardens,IFK Goteborg,0
+2545,08/30,3,1,Sweden,SE,Djurgardens,Helsingborg,2
+2546,09/12,1,1,Sweden,SE,Djurgardens,Elfsborg,0
+2547,09/20,1,1,Sweden,SE,Djurgardens,Ostersunds,0
+2548,09/27,1,2,Sweden,SE,Djurgardens,Norrköping,-1
+2549,10/04,1,1,Sweden,SE,Djurgardens,Hammarby,0
+2550,08/30,3,3,Sweden,SE,Hammarby,Kalmar FF,0
+2551,09/10,0,4,Sweden,SE,Hammarby,IFK Goteborg,-4
+2552,09/13,2,2,Sweden,SE,Hammarby,Helsingborg,0
+2553,09/20,3,0,Sweden,SE,Hammarby,AIK Stockholm,3
+2554,09/27,1,3,Sweden,SE,Hammarby,Falkenberg,-2
+2555,10/04,1,1,Sweden,SE,Hammarby,Djurgardens,0
+2556,08/30,1,1,Sweden,SE,Mjällby AIF,IFK Goteborg,0
+2557,09/13,2,3,Sweden,SE,Mjällby AIF,Varbergs,-1
+2558,09/17,2,2,Sweden,SE,Mjällby AIF,Elfsborg,0
+2559,09/21,1,0,Sweden,SE,Mjällby AIF,Orebro,1
+2560,09/28,1,0,Sweden,SE,Mjällby AIF,AIK Stockholm,1
+2561,10/04,3,2,Sweden,SE,Mjällby AIF,Helsingborg,1
+2562,08/29,2,1,Sweden,SE,Ostersunds,Falkenberg,1
+2563,09/10,2,2,Sweden,SE,Ostersunds,Norrköping,0
+2564,09/14,0,0,Sweden,SE,Ostersunds,Orebro,0
+2565,09/20,1,1,Sweden,SE,Ostersunds,Djurgardens,0
+2566,09/27,0,1,Sweden,SE,Ostersunds,Helsingborg,-1
+2567,10/04,1,2,Sweden,SE,Ostersunds,AIK Stockholm,-1
+2568,09/10,3,2,Sweden,SE,Orebro,Malmoe FF,1
+2569,09/14,0,0,Sweden,SE,Orebro,Ostersunds,0
+2570,09/21,1,0,Sweden,SE,Orebro,Mjällby AIF,1
+2571,09/26,2,1,Sweden,SE,Orebro,Sirius,1
+2572,10/03,3,2,Sweden,SE,Orebro,Elfsborg,1
+2573,10/17,2,1,Sweden,SE,Orebro,Falkenberg,1
+2574,08/29,2,0,Sweden,SE,Varbergs,Sirius,2
+2575,09/13,2,3,Sweden,SE,Varbergs,Mjällby AIF,-1
+2576,09/17,2,0,Sweden,SE,Varbergs,Falkenberg,2
+2577,09/21,1,3,Sweden,SE,Varbergs,Helsingborg,-2
+2578,09/28,1,1,Sweden,SE,Varbergs,Kalmar FF,0
+2579,10/04,1,0,Sweden,SE,Varbergs,IFK Goteborg,1
+2580,08/23,2,0,Sweden,SE,AIK Stockholm,Helsingborg,2
+2581,08/30,0,1,Sweden,SE,AIK Stockholm,BK Hacken,-1
+2582,09/13,0,0,Sweden,SE,AIK Stockholm,Malmoe FF,0
+2583,09/20,3,0,Sweden,SE,AIK Stockholm,Hammarby,3
+2584,09/28,1,0,Sweden,SE,AIK Stockholm,Mjällby AIF,1
+2585,10/04,1,2,Sweden,SE,AIK Stockholm,Ostersunds,-1
+2586,08/30,1,1,Sweden,SE,IFK Goteborg,Mjällby AIF,0
+2587,09/10,0,4,Sweden,SE,IFK Goteborg,Hammarby,-4
+2588,09/13,0,3,Sweden,SE,IFK Goteborg,Falkenberg,-3
+2589,09/20,1,2,Sweden,SE,IFK Goteborg,Kalmar FF,-1
+2590,09/27,0,0,Sweden,SE,IFK Goteborg,Elfsborg,0
+2591,10/04,1,0,Sweden,SE,IFK Goteborg,Varbergs,1
+2592,08/30,3,1,Sweden,SE,Helsingborg,Djurgardens,2
+2593,09/09,1,1,Sweden,SE,Helsingborg,Kalmar FF,0
+2594,09/13,2,2,Sweden,SE,Helsingborg,Hammarby,0
+2595,09/21,1,3,Sweden,SE,Helsingborg,Varbergs,-2
+2596,09/27,0,1,Sweden,SE,Helsingborg,Ostersunds,-1
+2597,10/04,3,2,Sweden,SE,Helsingborg,Mjällby AIF,1
+2598,09/13,0,3,Sweden,SE,Falkenberg,IFK Goteborg,-3
+2599,09/17,2,0,Sweden,SE,Falkenberg,Varbergs,2
+2600,09/21,2,1,Sweden,SE,Falkenberg,Sirius,1
+2601,09/27,1,3,Sweden,SE,Falkenberg,Hammarby,-2
+2602,10/03,3,0,Sweden,SE,Falkenberg,BK Hacken,3
+2603,10/17,2,1,Sweden,SE,Falkenberg,Orebro,1
+2604,08/30,3,3,Sweden,SE,Kalmar FF,Hammarby,0
+2605,09/09,1,1,Sweden,SE,Kalmar FF,Helsingborg,0
+2606,09/14,0,2,Sweden,SE,Kalmar FF,Norrköping,-2
+2607,09/20,1,2,Sweden,SE,Kalmar FF,IFK Goteborg,-1
+2608,09/28,1,1,Sweden,SE,Kalmar FF,Varbergs,0
+2609,10/04,0,4,Sweden,SE,Kalmar FF,Malmoe FF,-4
+2610,09/12,0,2,Turkey,TR,Alanyaspor,Sivasspor,-2
+2611,09/19,2,0,Turkey,TR,Alanyaspor,Kayserispor,2
+2612,09/27,1,1,Turkey,TR,Alanyaspor,Rizespor,0
+2613,10/04,6,0,Turkey,TR,Alanyaspor,Hatayspor,6
+2614,09/11,1,2,Turkey,TR,Fenerbahce,Rizespor,-1
+2615,09/21,0,0,Turkey,TR,Fenerbahce,Hatayspor,0
+2616,09/27,0,0,Turkey,TR,Fenerbahce,Galatasaray,0
+2617,10/03,2,1,Turkey,TR,Fenerbahce,Fatih Karag.,1
+2618,09/12,3,0,Turkey,TR,Fatih Karag.,Yeni Malatyaspo,3
+2619,09/20,2,2,Turkey,TR,Fatih Karag.,Gaziantep FK,0
+2620,09/25,2,0,Turkey,TR,Fatih Karag.,Basaksehir,2
+2621,10/03,2,1,Turkey,TR,Fatih Karag.,Fenerbahce,1
+2622,09/12,3,1,Turkey,TR,Galatasaray,Gaziantep FK,2
+2623,09/20,0,2,Turkey,TR,Galatasaray,Basaksehir,-2
+2624,09/27,0,0,Turkey,TR,Galatasaray,Fenerbahce,0
+2625,10/04,1,0,Turkey,TR,Galatasaray,Kasimpasa,1
+2626,09/13,1,2,Turkey,TR,Erzurum BB,Ankaragucu,-1
+2627,09/20,1,2,Turkey,TR,Erzurum BB,Sivasspor,-1
+2628,09/26,1,3,Turkey,TR,Erzurum BB,Kayserispor,-2
+2629,10/03,0,0,Turkey,TR,Erzurum BB,Rizespor,0
+2630,09/13,2,0,Turkey,TR,Antalyaspor,Genclerbirligi,2
+2631,09/19,1,1,Turkey,TR,Antalyaspor,Besiktas,0
+2632,09/28,1,0,Turkey,TR,Antalyaspor,Denizlispor,1
+2633,10/03,1,0,Turkey,TR,Antalyaspor,Yeni Malatyaspo,1
+2634,09/12,0,2,Turkey,TR,Sivasspor,Alanyaspor,-2
+2635,09/20,1,2,Turkey,TR,Sivasspor,Erzurum BB,-1
+2636,09/27,0,0,Turkey,TR,Sivasspor,Ankaragucu,0
+2637,10/17,1,3,Turkey,TR,Sivasspor,Kayserispor,-2
+2638,09/14,2,0,Turkey,TR,Hatayspor,Basaksehir,2
+2639,09/21,0,0,Turkey,TR,Hatayspor,Fenerbahce,0
+2640,09/26,1,0,Turkey,TR,Hatayspor,Kasimpasa,1
+2641,10/04,6,0,Turkey,TR,Hatayspor,Alanyaspor,6
+2642,09/12,5,1,Turkey,TR,Goztepe,Denizlispor,4
+2643,09/18,1,1,Turkey,TR,Goztepe,Yeni Malatyaspo,0
+2644,09/26,2,2,Turkey,TR,Goztepe,Gaziantep FK,0
+2645,10/03,0,0,Turkey,TR,Goztepe,Basaksehir,0
+2646,09/19,0,0,Turkey,TR,Konyaspor,Genclerbirligi,0
+2647,09/27,4,1,Turkey,TR,Konyaspor,Besiktas,3
+2648,10/04,0,0,Turkey,TR,Konyaspor,Denizlispor,0
+2649,10/17,1,1,Turkey,TR,Konyaspor,Yeni Malatyaspo,0
+2650,09/13,1,0,Turkey,TR,Kasimpasa,Kayserispor,1
+2651,09/20,2,0,Turkey,TR,Kasimpasa,Rizespor,2
+2652,09/26,1,0,Turkey,TR,Kasimpasa,Hatayspor,1
+2653,10/04,1,0,Turkey,TR,Kasimpasa,Galatasaray,1
+2654,09/13,1,0,Turkey,TR,Kayserispor,Kasimpasa,1
+2655,09/19,2,0,Turkey,TR,Kayserispor,Alanyaspor,2
+2656,09/26,1,3,Turkey,TR,Kayserispor,Erzurum BB,-2
+2657,10/02,0,1,Turkey,TR,Kayserispor,Ankaragucu,-1
+2658,10/17,1,3,Turkey,TR,Kayserispor,Sivasspor,-2
+2659,09/11,1,2,Turkey,TR,Rizespor,Fenerbahce,-1
+2660,09/20,2,0,Turkey,TR,Rizespor,Kasimpasa,2
+2661,09/27,1,1,Turkey,TR,Rizespor,Alanyaspor,0
+2662,10/03,0,0,Turkey,TR,Rizespor,Erzurum BB,0
+2663,10/17,5,3,Turkey,TR,Rizespor,Ankaragucu,2
+2664,09/13,1,3,Turkey,TR,Trabzonspor,Besiktas,-2
+2665,09/19,0,0,Turkey,TR,Trabzonspor,Denizlispor,0
+2666,09/26,3,1,Turkey,TR,Trabzonspor,Yeni Malatyaspo,2
+2667,10/02,1,1,Turkey,TR,Trabzonspor,Gaziantep FK,0
+2668,10/17,0,2,Turkey,TR,Trabzonspor,Basaksehir,-2
+2669,09/12,3,0,Turkey,TR,Yeni Malatyaspo,Fatih Karag.,3
+2670,09/18,1,1,Turkey,TR,Yeni Malatyaspo,Goztepe,0
+2671,09/26,3,1,Turkey,TR,Yeni Malatyaspo,Trabzonspor,2
+2672,10/03,1,0,Turkey,TR,Yeni Malatyaspo,Antalyaspor,1
+2673,10/17,1,1,Turkey,TR,Yeni Malatyaspo,Konyaspor,0
+2674,09/13,2,0,Turkey,TR,Genclerbirligi,Antalyaspor,2
+2675,09/19,0,0,Turkey,TR,Genclerbirligi,Konyaspor,0
+2676,10/04,0,1,Turkey,TR,Genclerbirligi,Besiktas,-1
+2677,09/13,1,3,Turkey,TR,Besiktas,Trabzonspor,-2
+2678,09/19,1,1,Turkey,TR,Besiktas,Antalyaspor,0
+2679,09/27,4,1,Turkey,TR,Besiktas,Konyaspor,3
+2680,10/04,0,1,Turkey,TR,Besiktas,Genclerbirligi,-1
+2681,09/14,2,0,Turkey,TR,Basaksehir,Hatayspor,2
+2682,09/20,0,2,Turkey,TR,Basaksehir,Galatasaray,-2
+2683,09/25,2,0,Turkey,TR,Basaksehir,Fatih Karag.,2
+2684,10/03,0,0,Turkey,TR,Basaksehir,Goztepe,0
+2685,10/17,0,2,Turkey,TR,Basaksehir,Trabzonspor,-2
+2686,09/12,3,1,Turkey,TR,Gaziantep FK,Galatasaray,2
+2687,09/20,2,2,Turkey,TR,Gaziantep FK,Fatih Karag.,0
+2688,09/26,2,2,Turkey,TR,Gaziantep FK,Goztepe,0
+2689,10/02,1,1,Turkey,TR,Gaziantep FK,Trabzonspor,0
+2690,09/12,5,1,Turkey,TR,Denizlispor,Goztepe,4
+2691,09/19,0,0,Turkey,TR,Denizlispor,Trabzonspor,0
+2692,09/28,1,0,Turkey,TR,Denizlispor,Antalyaspor,1
+2693,10/04,0,0,Turkey,TR,Denizlispor,Konyaspor,0
+2694,09/13,1,2,Turkey,TR,Ankaragucu,Erzurum BB,-1
+2695,09/27,0,0,Turkey,TR,Ankaragucu,Sivasspor,0
+2696,10/02,0,1,Turkey,TR,Ankaragucu,Kayserispor,-1
+2697,10/17,5,3,Turkey,TR,Ankaragucu,Rizespor,2
