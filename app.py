@@ -21,20 +21,44 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
 import os
 
+dirname = os.path.dirname(os.path.abspath(__file__))
+
+class tqdm:
+    def __init__(self, iterable, title=None):
+        if title:
+            st.write(title)
+        self.prog_bar = st.progress(0)
+        self.iterable = iterable
+        self.length = len(iterable)
+        self.i = 0
+
+    def __iter__(self):
+        for obj in self.iterable:
+            yield obj
+            self.i += 1
+            current_prog = self.i / self.length
+            self.prog_bar.progress(current_prog)
+
 
 # file manipulations
 def find_csv():
-    dirname = os.path.dirname(os.path.abspath(__file__))
     for file in os.listdir(dirname):
         if file.endswith(".csv"):
             return file[:-4]
 
 
 def remove_csv(date):
-    dirname = os.path.dirname(os.path.abspath(__file__))
     os.remove(dirname + "/" + date + ".csv")
 
 
+def find_driver():
+    for file in os.listdir(dirname):
+        if file.endswith(".exe"):
+            return webdriver.Chrome(executable_path=file, options=chrome_options)
+
+
+def install_driver():
+    return webdriver.Chrome(ChromeDriverManager().install(), options=chrome_options)
 # get latest df
 date_of_df = find_csv()
 df = pd.read_csv(date_of_df + ".csv").drop("Unnamed: 0", 1)
@@ -51,7 +75,7 @@ def form_to_df():
     league_names = []
     league_abbrs = []
     driver.get("https://www.soccerstats.com")
-    for i in tqdm(range(1, 31)):
+    for i in tqdm(range(1, 31), title="Waiting for new data..."):
         path = "//*[@id='headerlocal']/div[2]/table/tbody/tr/td[" + str(i) + "]/span/a"
         elem = driver.find_element_by_xpath(path)
         league_abbr = elem.get_attribute("innerText")
@@ -173,21 +197,17 @@ def plot_form(x, data=df):
             plt.plot(np.zeros(length), color="blue", alpha=0.2)
     return fig
 
-
 if date_of_df != datetime.now().strftime("%m-%d"):
     chrome_options = Options()
     chrome_options.add_experimental_option("prefs", {'profile.managed_default_content_settings.javascript': 2})
-    driver = webdriver.Chrome(ChromeDriverManager().install(), options=chrome_options)
-    loader = st.header("LOADING...")
+    driver = install_driver()
     df = form_to_df()
     df.to_csv(datetime.now().strftime("%m-%d") + ".csv")
     remove_csv(date_of_df)
 else:
-    loader = st.empty()
     df = pd.read_csv(date_of_df + ".csv").drop("Unnamed: 0", 1)
 
 # perform data
-loader.empty()
 league = st.sidebar.selectbox("Choose a league:", sorted(list(df["league_name"].value_counts().index)))
 team = st.sidebar.selectbox("Choose a team:",
                             sorted(list(df[df["league_name"] == league]["team"].value_counts().index)))
