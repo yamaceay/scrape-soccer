@@ -34,7 +34,6 @@ def is_heroku():
 
 def find_driver():
     chrome_options = webdriver.ChromeOptions()
-    #chrome_options.add_experimental_option("prefs", {'profile.managed_default_content_settings.javascript': 2})
 
     if is_heroku():
         chrome_options.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
@@ -99,11 +98,12 @@ def form_to_df():
         league_abbr = elem.get_attribute("innerText")
         league_name = re.findall(' alt="(.*?)" ', elem.get_attribute("outerHTML"))[0]
         elem.click()
+        #find the table in selenium
         try:
-            table = driver.execute_script("return document.querySelectorAll('#btable')[2]")
-            form_df = pd.concat(pd.read_html(table.get_attribute("innerHTML")), axis=0)
+            table = driver.find_element_by_xpath("// *[ @ id = 'content'] / div[5] / div[3] / table[4]")
+            form_df = pd.concat(pd.read_html(table.get_attribute("innerHTML")), axis = 0)
         except:
-            table = driver.execute_script("return document.querySelector('#content > div:nth-child(8) > div.eight.columns > table:nth-child(7)')")
+            table = driver.find_elements_by_css_selector("#content > div:nth-child(8) > div.eight.columns > table:nth-child(7)")[0]
             form_df = pd.concat(pd.read_html(table.get_attribute("innerHTML")), axis=0)
         league_names.append(league_name)
         league_abbrs.append(league_abbr)
@@ -220,13 +220,13 @@ def plot_form(x, data=df):
     return fig
 
 
-if date_of_df != datetime.now().strftime("%m-%d"):
-    driver = find_driver()
-    df = form_to_df()
-    df.to_csv(datetime.now().strftime("%m-%d") + ".csv")
-    remove_csv(date_of_df)
-    driver.quit()
-else:
+# if date_of_df != datetime.now().strftime("%m-%d"):
+#     driver = find_driver()
+#     df = form_to_df()
+#     df.to_csv(datetime.now().strftime("%m-%d") + ".csv")
+#     remove_csv(date_of_df)
+#     driver.quit()
+# else:
     df = pd.read_csv(date_of_df + ".csv").drop("Unnamed: 0", 1)
 
 # perform data
