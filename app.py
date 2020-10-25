@@ -104,7 +104,7 @@ def form_to_df():
             form_df = pd.concat(pd.read_html(table.get_attribute("innerHTML")), axis=0)
         except:
             table = driver.execute_script("return document.querySelector('#content > div:nth-child(8) > div.eight.columns > table:nth-child(7)')")
-        form_df = pd.concat(pd.read_html(table.get_attribute("innerHTML")), axis=0)
+            form_df = pd.concat(pd.read_html(table.get_attribute("innerHTML")), axis=0)
         league_names.append(league_name)
         league_abbrs.append(league_abbr)
         form_dfs.append(form_df)
