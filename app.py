@@ -53,11 +53,26 @@ def remove_csv(date):
 
 
 def find_driver():
-    return webdriver.Chrome(executable_path=os.path.join(dirname, "chromedriver.exe"), options=chrome_options)
+    env = False
+    for file in os.listdir(dirname):
+        if file == ".env":
+            env = True
 
+    chrome_options = webdriver.ChromeOptions()
+    chrome_options.add_experimental_option("prefs", {'profile.managed_default_content_settings.javascript': 2})
 
-def install_driver():
-    return webdriver.Chrome(ChromeDriverManager().install(), options=chrome_options)
+    if env:
+        chrome_options.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
+        chrome_options.add_argument("--headless")
+        chrome_options.add_argument("--disable-dev-shm-usage")
+        chrome_options.add_argument("--no-sandbox")
+        executable_path = os.environ.get("CHROMEDRIVER_PATH")
+    else:
+        executable_path = os.path.join(dirname, "chromedriver.exe")
+
+    driver = webdriver.Chrome(executable_path=executable_path, chrome_options=chrome_options)
+    return driver
+
 # get latest df
 
 
@@ -67,7 +82,6 @@ df = pd.read_csv(date_of_df + ".csv").drop("Unnamed: 0", 1)
 # app init
 st.title("Team Mood Soccer")
 st.header("This website is where you can track your favorite team's recent performance.")
-st.sidebar.header("https://team-mood-soccer.herokuapp.com")
 
 
 # functions defined
@@ -200,8 +214,6 @@ def plot_form(x, data=df):
 
 
 if date_of_df != datetime.now().strftime("%m-%d"):
-    chrome_options = Options()
-    chrome_options.add_experimental_option("prefs", {'profile.managed_default_content_settings.javascript': 2})
     driver = find_driver()
     df = form_to_df()
     df.to_csv(datetime.now().strftime("%m-%d") + ".csv")
