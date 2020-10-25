@@ -14,14 +14,15 @@ import time
 from matplotlib import pyplot as plt
 
 plt.style.use("ggplot")
-from tqdm import tqdm
 import re
 from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
 import os
 
+
 dirname = os.path.dirname(os.path.abspath(__file__))
+
 
 class tqdm:
     def __init__(self, iterable, title=None):
@@ -54,12 +55,13 @@ def remove_csv(date):
 def find_driver():
     for file in os.listdir(dirname):
         if file.endswith(".exe"):
-            return webdriver.Chrome(executable_path=file, options=chrome_options)
-
+            return webdriver.Chrome(executable_path=dirname+"/"+file, options=chrome_options)
 
 def install_driver():
     return webdriver.Chrome(ChromeDriverManager().install(), options=chrome_options)
 # get latest df
+
+
 date_of_df = find_csv()
 df = pd.read_csv(date_of_df + ".csv").drop("Unnamed: 0", 1)
 
@@ -196,6 +198,7 @@ def plot_form(x, data=df):
         else:
             plt.plot(np.zeros(length), color="blue", alpha=0.2)
     return fig
+
 
 if date_of_df != datetime.now().strftime("%m-%d"):
     chrome_options = Options()
