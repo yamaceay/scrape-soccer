@@ -53,9 +53,7 @@ def remove_csv(date):
 
 
 def find_driver():
-    for file in os.listdir(dirname):
-        if file.endswith(".exe"):
-            return webdriver.Chrome(executable_path=dirname+"/"+file, options=chrome_options)
+    return webdriver.Chrome(executable_path=r"{}/chromedriver.exe".format(dirname), options=chrome_options)
 
 def install_driver():
     return webdriver.Chrome(ChromeDriverManager().install(), options=chrome_options)
@@ -66,9 +64,9 @@ date_of_df = find_csv()
 df = pd.read_csv(date_of_df + ".csv").drop("Unnamed: 0", 1)
 
 # app init
-st.title("Mood of Your Team?")
-st.header("This website is where you can follow your favorite team's performance today.")
-st.sidebar.text("TeamMood")
+st.title("Team Mood Soccer")
+st.header("This website is where you can track your favorite team's recent performance.")
+st.sidebar.header("https://team-mood-soccer.herokuapp.com")
 
 
 # functions defined
@@ -207,6 +205,7 @@ if date_of_df != datetime.now().strftime("%m-%d"):
     df = form_to_df()
     df.to_csv(datetime.now().strftime("%m-%d") + ".csv")
     remove_csv(date_of_df)
+    driver.quit()
 else:
     df = pd.read_csv(date_of_df + ".csv").drop("Unnamed: 0", 1)
 
