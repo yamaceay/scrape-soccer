@@ -200,7 +200,7 @@ def plot_form(x, data=df):
 if date_of_df != datetime.now().strftime("%m-%d"):
     chrome_options = Options()
     chrome_options.add_experimental_option("prefs", {'profile.managed_default_content_settings.javascript': 2})
-    driver = install_driver()
+    driver = find_driver()
     df = form_to_df()
     df.to_csv(datetime.now().strftime("%m-%d") + ".csv")
     remove_csv(date_of_df)
