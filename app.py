@@ -20,8 +20,28 @@ from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.options import Options
 import os
 
-
 dirname = os.path.dirname(os.path.abspath(__file__))
+
+
+def find_driver():
+    if os.environ.get("CHROMEDRIVER_PATH") and os.environ.get("GOOGLE_CHROME_BIN"):
+        env = True
+    else:
+        env = False
+
+    chrome_options = webdriver.ChromeOptions()
+    chrome_options.add_experimental_option("prefs", {'profile.managed_default_content_settings.javascript': 2})
+
+    if env:
+        chrome_options.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
+        chrome_options.add_argument("--headless")
+        chrome_options.add_argument("--disable-dev-shm-usage")
+        chrome_options.add_argument("--no-sandbox")
+        executable_path = os.environ.get("CHROMEDRIVER_PATH")
+    else:
+        executable_path = os.path.join(dirname, "chromedriver.exe")
+
+    return webdriver.Chrome(executable_path=executable_path, chrome_options=chrome_options)
 
 
 class tqdm:
@@ -50,30 +70,6 @@ def find_csv():
 
 def remove_csv(date):
     os.remove(dirname + "/" + date + ".csv")
-
-
-def find_driver():
-    env = False
-    for file in os.listdir(dirname):
-        if file == ".env":
-            env = True
-
-    chrome_options = webdriver.ChromeOptions()
-    chrome_options.add_experimental_option("prefs", {'profile.managed_default_content_settings.javascript': 2})
-
-    if env:
-        chrome_options.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
-        chrome_options.add_argument("--headless")
-        chrome_options.add_argument("--disable-dev-shm-usage")
-        chrome_options.add_argument("--no-sandbox")
-        executable_path = os.environ.get("CHROMEDRIVER_PATH")
-    else:
-        executable_path = os.path.join(dirname, "chromedriver.exe")
-
-    driver = webdriver.Chrome(executable_path=executable_path, chrome_options=chrome_options)
-    return driver
-
-# get latest df
 
 
 date_of_df = find_csv()
