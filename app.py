@@ -12,6 +12,7 @@ import pandas as pd
 import numpy as np
 import time
 from matplotlib import pyplot as plt
+import lxml
 
 plt.style.use("ggplot")
 import re
