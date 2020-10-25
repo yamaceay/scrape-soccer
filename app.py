@@ -88,7 +88,9 @@ def form_to_df():
     league_abbrs = []
     driver.get("https://www.soccerstats.com")
     time.sleep(5)
-    driver.find_element_by_xpath("/html/body/div[1]/div/div/div/div[2]/div/button[2]").click()
+    driver.execute_script("document.querySelector('#qc-cmp2-ui > div.qc-cmp2-footer.qc-cmp2-footer-overlay.qc-cmp2-footer-scrolled > div > button.sc-bwzfXH.fIstxk').click()")
+    time.sleep(1)
+    driver.execute_script("document.querySelector('#qc-cmp2-ui > div.qc-cmp2-footer > button.sc-bwzfXH.fIstxk.qc-cmp2-hide-desktop').click()")
     for i in tqdm(range(1, 31), title="Waiting for new data..."):
         path = "//*[@id='headerlocal']/div[2]/table/tbody/tr/td[" + str(i) + "]/span/a"
         elem = driver.find_element_by_xpath(path)
