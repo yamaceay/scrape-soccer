@@ -97,7 +97,7 @@ def form_to_df():
         league_abbr = elem.get_attribute("innerText")
         league_name = re.findall(' alt="(.*?)" ', elem.get_attribute("outerHTML"))[0]
         elem.click()
-        table = driver.find_element_by_xpath("/html/body/div/div/div[1]/div[2]/div[5]/div[3]/table[4]")
+        table = driver.execute_script("return document.querySelectorAll('#btable')[2]")
         form_df = pd.concat(pd.read_html(table.get_attribute("innerHTML")), axis=0)
         league_names.append(league_name)
         league_abbrs.append(league_abbr)
