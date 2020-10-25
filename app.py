@@ -34,8 +34,6 @@ def find_driver():
 
     if env:
         chrome_options.binary_location = os.environ.get("GOOGLE_CHROME_BIN")
-        chrome_options.add_argument("--disable-dev-shm-usage")
-        chrome_options.add_argument("--no-sandbox")
         executable_path = os.environ.get("CHROMEDRIVER_PATH")
     else:
         executable_path = os.path.join(dirname, "chromedriver.exe")
