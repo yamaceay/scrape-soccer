@@ -53,7 +53,8 @@ def remove_csv(date):
 
 
 def find_driver():
-    return webdriver.Chrome(executable_path=r"{}/chromedriver.exe".format(dirname), options=chrome_options)
+    return webdriver.Chrome(executable_path=os.path.join(dirname, "chromedriver.exe"), options=chrome_options)
+
 
 def install_driver():
     return webdriver.Chrome(ChromeDriverManager().install(), options=chrome_options)
