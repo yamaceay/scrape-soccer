@@ -95,12 +95,15 @@ def form_to_df():
     time.sleep(1)
     driver.execute_script("document.querySelector('#qc-cmp2-ui > div.qc-cmp2-footer > button.sc-bwzfXH.fIstxk.qc-cmp2-hide-desktop').click()")
     for i in tqdm(range(1, 31), title="Waiting for new data..."):
-        path = "//*[@id='headerlocal']/div[2]/table/tbody/tr/td[" + str(i) + "]/span/a"
-        elem = driver.find_element_by_xpath(path)
+        elem = driver.execute_script("return document.querySelector('#headerlocal > div:nth-child(2) > table > tbody > tr > td:nth-child("+str(i)+") > span > a')")
         league_abbr = elem.get_attribute("innerText")
         league_name = re.findall(' alt="(.*?)" ', elem.get_attribute("outerHTML"))[0]
         elem.click()
-        table = driver.execute_script("return document.querySelectorAll('#btable')[2]")
+        # try:
+        #     table = driver.execute_script("return document.querySelectorAll('#btable')[2]")
+        #     form_df = pd.concat(pd.read_html(table.get_attribute("innerHTML")), axis=0)
+        # except:
+        table = driver.execute_script("return document.querySelector('#content > div:nth-child(8) > div.eight.columns > table:nth-child(7)')")
         form_df = pd.concat(pd.read_html(table.get_attribute("innerHTML")), axis=0)
         league_names.append(league_name)
         league_abbrs.append(league_abbr)
