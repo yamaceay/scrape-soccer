@@ -90,9 +90,9 @@ def form_to_df():
     league_abbrs = []
     driver.get("https://www.soccerstats.com")
     time.sleep(5)
-    driver.execute_script("document.querySelector('#qc-cmp2-ui > div.qc-cmp2-footer.qc-cmp2-footer-overlay.qc-cmp2-footer-scrolled > div > button.sc-bwzfXH.fIstxk').click()")
+    driver.execute_script("document.querySelector('#qc-cmp2-ui > div.qc-cmp2-footer.qc-cmp2-footer-overlay.qc-cmp2-footer-scrolled > div > button.sc-ifAKCX.hIGsQq').click()")
     time.sleep(1)
-    driver.execute_script("document.querySelector('#qc-cmp2-ui > div.qc-cmp2-footer > button.sc-bwzfXH.fIstxk.qc-cmp2-hide-desktop').click()")
+    driver.execute_script("document.querySelector('#qc-cmp2-ui > div.qc-cmp2-footer > button.sc-ifAKCX.hIGsQq.qc-cmp2-hide-desktop').click()")
     for i in tqdm(range(1, 31), title="Waiting for new data..."):
         elem = driver.execute_script("return document.querySelector('#headerlocal > div:nth-child(2) > table > tbody > tr > td:nth-child("+str(i)+") > span > a')")
         league_abbr = elem.get_attribute("innerText")
@@ -220,13 +220,13 @@ def plot_form(x, data=df):
     return fig
 
 
-# if date_of_df != datetime.now().strftime("%m-%d"):
-#     driver = find_driver()
-#     df = form_to_df()
-#     df.to_csv(datetime.now().strftime("%m-%d") + ".csv")
-#     remove_csv(date_of_df)
-#     driver.quit()
-# else:
+if date_of_df != datetime.now().strftime("%m-%d"):
+    driver = find_driver()
+    df = form_to_df()
+    df.to_csv(datetime.now().strftime("%m-%d") + ".csv")
+    remove_csv(date_of_df)
+    driver.quit()
+else:
     df = pd.read_csv(date_of_df + ".csv").drop("Unnamed: 0", 1)
 
 # perform data
